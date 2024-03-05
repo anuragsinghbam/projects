@@ -1,0 +1,1355 @@
+0.16 - 1.16  In this video I will tell you my story,
+ 1.48 - 3.8  how I learned coding by myself and how
+ 3.92 - 5.68  I took the job of a software engineer
+ 6.2 - 8.59  and why I left my school and college studies after 10th.
+ 11.2 - 13.59  Yes, after 10th I only studied in 11th.
+ 13.68 - 15.56  After that, I did
+ 16 - 18.12  not complete any formal education, yet
+ 18.28 - 19.92  I have been working as a software engineer for 3 years,
+ 20 - 22.35  so I will tell you this whole story and
+ 22.6 - 25  how you too can learn regardless of
+ 25.4 - 27.68  your qualification or your
+ 27.88 - 30.92  background.  Despite that, you
+ 31.28 - 32.8  can also become a coder, you can become a software engineer
+ 32.92 - 35  and you can also get a job, so
+ 35.12 - 36.48  first let me introduce myself,
+ 36.96 - 38.52  my name is Anurag Singh and I
+ 38.76 - 40.87  am a software engineer. For the last 3 years,
+ 41 - 42.36  I have been working as an engineer in Bangalore.  I am
+ 42.8 - 44.71  working as a software engineer. The name of the first company I joined
+ 45 - 46.56  was Digit Insurance. Now
+ 47.24 - 49.32  I work remotely for a UK based company.
+ 49.52 - 51.16  I come from a small village named
+ 51.4 - 53.35  Birwa Bhani in UP, which is in Gonda district.  I
+ 53.44 - 55.76  am near Ayodhya and
+ 55.96 - 56.87  I have been there for the last one and a half year.
+ 60.08 - 61.72  I have created a complete course on front end development
+ 61.88 - 64.12  which you will get on youtube's. In
+ 65.12 - 66.95  it in the form of a playlist,
+ 67.2 - 68.8  I covered every single thing which is
+ 68.88 - 70.48  required in front end.  And
+ 70.64 - 72.44  many children have studied from it and they
+ 72.72 - 74.95  also got jobs and many children are studying every day,
+ 75.2 - 77.36  watch and comment every day, they like the
+ 77.52 - 79.04  course and my family
+ 79.4 - 81.52  background is of agriculture, my father,
+ 81.92 - 84.24  my grandfather, everyone was a farmer and I.  I also used to do
+ 84.36 - 86.35  farming with them, used to go to the fields, used to do
+ 86.8 - 88.44  all the work of the farm,
+ 88.64 - 90.92  although I, my father used to
+ 91 - 93.47  drive the car along with farming, he was also a driver
+ 93.6 - 96.36  and my education is from one to eight.
+ 96.68 - 98.28  My education till then was in Hindi medium.
+ 98.76 - 100.4  I studied in Hindi medium first from class one to
+ 100.64 - 102.92  five in Saraswati Shishu Mandir, then from
+ 103.16 - 105.92  six to eight I studied in a government school
+ 106 - 107.64  and I had a lot of interest in science from the beginning
+ 107.88 - 110.11  because when we used to sleep at night.
+ 110.36 - 112.88  My father used to sleep on the terrace, used to
+ 113 - 114.92  talk about aliens, used to talk about other planets, used to talk about
+ 115.64 - 118.36  many things, how is day and night on earth, used to
+ 118.6 - 120.84  talk about all these things, so I
+ 121 - 122.47  had a lot of interest in science, that is
+ 123.04 - 125.52  why I used to read my syllabus book.  Apart from this,
+ 126.04 - 128.12  I used to read other books which were any science
+ 128.48 - 131.72  books. When I was in eighth six seventh eighth,
+ 132.04 - 134.88  I used to
+ 135 - 137.48  read science books of class 10th on demand, I used to
+ 137.72 - 139.59  bring books of my cousins ​​and I used to
+ 139.88 - 142  read from them.  And I was always an average student in the class, that
+ 142.44 - 145.16  is, I used to get good marks in the middle of 7080.
+ 147.24 - 149.52  I never topped and there was no pressure from my house
+ 149.6 - 152.08  either from father or mother, we just used to
+ 152.24 - 154.2  study.  It was enough to pass
+ 154.68 - 157.12  and whatever interested us, whatever we liked,
+ 157.32 - 159.8  we used to study the same and then in the middle,
+ 159.96 - 161.39  I started getting very interested in Maths. The
+ 161.88 - 163.64  reason for getting interested in Maths was one of
+ 163.8 - 166.04  our Sonu Bhaiya, he took a lot of
+ 167.24 - 169.96  interest in my Maths.  When I woke up, he said
+ 170.16 - 172.59  that we can measure the height of the tree we are looking at without
+ 172.84 - 175.07  climbing it. How can we measure the height of the tree with the help of Maths? There is
+ 175.52 - 177.52  a trigonometry in Maths,
+ 177.76 - 179.76  after that I started getting
+ 180.04 - 181.48  very interested in Maths too. I felt that it was
+ 181.56 - 183.08  real.  We can do things in life with maths,
+ 183.32 - 185.87  so I got interested in science and maths
+ 186.08 - 188.23  because of my father, I got interested in maths
+ 188.52 - 190.68  because of Sonu Bhaiya, then both of them
+ 190.96 - 192.44  were my favorite subjects, I always used to
+ 192.72 - 195.79  study them and also got good marks in the class.  I used to
+ 195.92 - 198.31  pass, meaning there was no bad
+ 198.68 - 199.84  student, there was no very good student
+ 200.24 - 202.2  but I used to pass,
+ 202.44 - 204.2  my third and fourth rank in the class was like this, I
+ 204.36 - 206.87  never even got second, I only got
+ 207.16 - 209.04  third, fourth or fifth like this.  I used to get rank
+ 209.24 - 211.64  and no one has any problem, I used to
+ 211.76 - 214  study comfortably, what happened once was that
+ 214.56 - 216.67  when I was in 8th class, I used to come from school,
+ 216.88 - 220.07  my bag was on the bicycle and I used to
+ 220.8 - 223.92  park the bicycle and then
+ 224.2 - 226.47  eat food.  I used to sleep, wake up in the morning and go on the bicycle, which
+ 226.68 - 228.84  means my bag used to remain attached to the same bicycle.
+ 229.08 - 232.04  When my father
+ 232.24 - 233.99  saw that my bag remained attached to the bicycle for many days, the
+ 234.24 - 236.4  bag itself did not come off, then he said
+ 236.56 - 239.4  that the bagwa should not be taken off.  Meaning, this is our
+ 240.04 - 241.76  period language, in that language
+ 241.84 - 243.95  they said that you don't take off your bag, what do you
+ 244.24 - 246.24  mean don't you read? Did I say I read?
+ 246.4 - 249.31  Secondly, I mean I have asked for the books of Akash bhaiya and Ashish
+ 249.72 - 252.04  bhaiya, I
+ 252.16 - 255.12  basically read those books of ours.  Brother
+ 255.32 - 257.56  means cousin, so I used to read his books on
+ 257.8 - 259.68  science and maths. He said ok,
+ 259.88 - 262.56  no problem, this was the situation, that is, I
+ 262.88 - 265.44  was not even touched by school, so
+ 265.56 - 267.87  my English was not good in earth class, I basically
+ 268.36 - 269.64  studied in Hindi medium.  I had English,
+ 270.2 - 271.76  like every Hindi medium student
+ 271.92 - 274.16  has, similarly I also had English. Then what
+ 274.6 - 277.24  happened was that once it was Republic Day in our school
+ 277.6 - 280.12  or I think it must have been 15th August
+ 280.4 - 282.56  or 26th January, then a friend in it
+ 282.8 - 285  said let's go next door.  There is a school about a couple of kilometers away,
+ 285.44 - 288.83  where it is a very good school. Let's
+ 288.96 - 290.99  go and see it. So, I went with him to
+ 291.2 - 293.92  see it there on 15th August. I found the school
+ 294.16 - 295.44  very big, I liked it very much and it
+ 295.6 - 297.56  was an English medium school and we
+ 297.68 - 299.23  didn't even know about it.  It was said that there is an English medium school at a
+ 299.64 - 302.76  distance of 45 kilometers 34 kilometers from us, so
+ 303 - 304.4  I told at home that I want to
+ 304.76 - 307.84  study in an English medium school, then mother talked to father,
+ 307.96 - 310.52  then father took me and my sister
+ 310.68 - 312.76  on a bicycle and took me there.
+ 313.76 - 316.07  And I said that he has already
+ 316.56 - 318.72  passed 8th class. I had passed 8th
+ 318.88 - 320.68  in Hindi medium. He said
+ 320.88 - 322.64  that you should take admission in 8th again
+ 322.72 - 325.08  or study again. Then he said
+ 325.48 - 327.48  first or second class.
+ 327.84 - 329.95  Gave me a science book and said, read this and see what is
+ 330.2 - 332.48  written in it. I was
+ 332.6 - 335.47  not able to read even a single word of it. Just
+ 336.04 - 338.43  this is M is this. I was able to read only these words which are of two or three letters. They were
+ 340.6 - 342.56  important.  I couldn't even read the word that was written, so
+ 342.76 - 344.88  he said that it is not possible for him to get
+ 345.24 - 347.24  admission in Hindi English medium,
+ 347.44 - 349.12  so I said that he should do it
+ 349.48 - 351.16  in the seventh class, he said, it is
+ 351.28 - 353.2  not possible, that is, it is not a first class
+ 353.44 - 356.52  book.  If they are able to read, then
+ 356.72 - 359.84  how will this work be done? They are
+ 360.16 - 361.88  not able to read books of first class only, all the
+ 362.12 - 365.52  children can read easily, so I said,
+ 365.76 - 368.8  you take me in seventh class, I will work
+ 368.96 - 371.76  very hard, I will study day and night.  I said that I will
+ 371.88 - 373.72  learn to read English, he said
+ 373.96 - 375.96  no, meaning it is not possible, I said, you
+ 376.08 - 378.36  take me in the sixth class, he accepted the
+ 378.72 - 380.92  defeat and said, okay, I will take
+ 381.08 - 382.91  admission in the sixth class, so I got
+ 383.48 - 385.28  admission in the sixth class and I am in
+ 385.4 - 387  my class.
+ 387.12 - 389.87  I was the first boy in the village to go to an English medium school. When I went there,
+ 390.12 - 392.16  all the children, that is, everyone knew English,
+ 392.32 - 395.12  everyone could write and
+ 395.48 - 397.52  read very easily, no one spoke it, everyone
+ 397.64 - 398.96  spoke in Hindi but at least  I used to
+ 399.32 - 401.24  read less books and used to write. When the teacher
+ 401.56 - 403.56  spoke, I used to note it down. I did
+ 404.2 - 405.84  not know it, so I worked very
+ 406.08 - 408.08  hard, bought a lot of dictionaries and learned a lot.
+ 408.52 - 411.48  Gradually, within a year,
+ 411.96 - 414.56  I became English meaning.  When
+ 414.68 - 416.71  I reached the level where I could read and write, I worked very hard
+ 416.96 - 419.59  and then I became at par with all the students. By the time
+ 419.68 - 421.36  I was in seventh grade,
+ 422.36 - 425.32  my maths, Hindi and other
+ 425.64 - 429.16  subjects like science were quite good, so they were
+ 429.44 - 431.47  not as good as those people.  It used to be Maths because I had
+ 431.6 - 434  studied till A so I already knew all the
+ 434.2 - 436.28  things. I could solve Maths very easily.
+ 436.48 - 438.2  Hindi was from Hindi medium so
+ 438.28 - 440.12  Hindi was good and the rest of the subjects
+ 440.8 - 442.28  were quite good for me just because of English.
+ 442.4 - 445.44  That was also a problem and in one year I had
+ 445.68 - 448.07  done English well and had made it at
+ 448.2 - 450.4  par with them, then in seventh I worked harder and
+ 450.72 - 453.36  got a little better. Then in Earth
+ 453.48 - 455  I did an English course, an English
+ 455.4 - 457.96  speaking course, which helped me to improve my English speaking skills.  I also
+ 458.08 - 460.63  came to know English well, meaning in a way,
+ 460.76 - 462.75  I started writing down whatever I could think in my mind, so
+ 462.92 - 466.12  I read Six Seven Eighth twice, once in
+ 466.28 - 468.15  Hindi medium, once in English medium
+ 468.76 - 471.19  and when I was in Earth and then after that  When I was
+ 471.48 - 474.24  in ninth grade, my father asked me,
+ 474.44 - 476.55  'What are you going to become? I had
+ 476.88 - 479  no idea, I thought becoming a scientist or an
+ 479.52 - 481.96  astronaut is what everyone has, it is
+ 482.48 - 484.76  a dream. He said that
+ 485 - 487.24  software engineer is a great job.
+ 488.08 - 489.56  You try to
+ 490.04 - 491.51  see how one becomes a software engineer and what one has to study.
+ 492.2 - 493.48  From there I came to know that there is
+ 494 - 496.47  something like a software engineer and this is how they came to know
+ 496.68 - 498.91  that the one whose car he used to drive was a
+ 499.12 - 500.72  driver and the children of those who used to drive his car were
+ 500.92 - 503.59  software engineers.  So it was from there that
+ 503.72 - 505.44  he came to know that a software engineer has a
+ 505.6 - 507.36  good job and a good salary,
+ 507.6 - 509.8  so he said that an engineer's
+ 509.96 - 513.08  job is good, try it, you
+ 513.32 - 516.32  see, I said, okay, we will see, then
+ 517.32 - 520.04  I will be in the ninth.  Came and got my
+ 520.24 - 522.03  admission in ninth class. There was no college in the village,
+ 522.16 - 524.88  no school. Basically, we had to
+ 525.28 - 527.48  come to the city. After coming to the city, my
+ 527.72 - 531.2  father got me admitted in the school and at that time, my
+ 531.72 - 534.83  father's salary was Rs. 5000 and my salary was Rs. 5000.  The
+ 535.12 - 538.56  fee was Rs 1500, meaning the school
+ 538.68 - 541.64  fee was Rs 00, then when I did coaching,
+ 541.76 - 543.4  two and a half rupees were spent on my studies,
+ 543.6 - 546.08  half my salary was spent on my studies
+ 546.16 - 550.52  and then it was around Rs 12 1 or 14
+ 550.84 - 553.06  15.  It was kilometers away from my house, I had to go up and down on a bicycle every day,
+ 553.4 - 559.56  so
+ 555.64 - 559.44  I studied like this in ninth and 10th and
+ 559.56 - 562.44  when I finished my 10th by giving exams,
+ 562.88 - 564.24  my father met with an accident
+ 568.12 - 570.84  and was returning home after doing his duty.  He was
+ 571.28 - 573.56  about 2 kilometers away from home, he had an
+ 573.84 - 575.4  accident with his bike, he was hit by some vehicle
+ 575.68 - 578.56  and then he passed by. When
+ 578.76 - 580.72  I went there, I
+ 586.36 - 588.95  mean, there was no scratch on his body, but
+ 589.16 - 591.36  his  There were bones in the chest, all of them were broken. On
+ 591.6 - 593.8  touching the chest, it felt as if there
+ 594.08 - 595.88  was a stomach, meaning there were no bones there.
+ 596.64 - 599.24  Then they took him to the hospital, there was no use, they
+ 599.36 - 602.52  just took him and I was there, meaning I did
+ 602.88 - 605.72  n't cry, I couldn't cry.  I thought that if
+ 605.92 - 608.12  I cry, what will happen to my mother, my siblings
+ 608.28 - 610.24  because at that time I
+ 610.48 - 612.87  was the oldest male in my family, my
+ 613.12 - 615.2  grandfather had already passed out two-three
+ 615.6 - 618.95  years ago and I was the eldest male.  So
+ 619.16 - 621.56  I thought, don't cry, I was feeling like crying
+ 621.64 - 623.68  but still I was controlling
+ 623.88 - 627.64  myself, then I thought
+ 627.88 - 631.16  what to do now, there is nothing, now I
+ 631.56 - 633.68  won't even be able to study, but still my mother told
+ 634 - 636.03  me.  She did not let her studies stop. Whatever was
+ 636.16 - 637.64  my father's responsibility, she took
+ 638.04 - 641.8  up it. She used to work as an Asha Asha worker and whatever
+ 642 - 644.92  money she got from doing Hajj, she did
+ 645.2 - 648.27  not get more than this, she took care of my education,
+ 648.6 - 651.16  household expenses and our farm.  We
+ 651.4 - 654.23  gave it on lease, basically the farm is given on lease like this, we get
+ 654.36 - 655.92  some money in a year,
+ 656.16 - 659.47  203 thousand rupees were earned in a year, so we
+ 659.88 - 663.08  gave the farm on lease and
+ 663.32 - 665.2  father had some money from LIC, which
+ 665.52 - 668.68  is work.  He was used for my further 11th studies,
+ 668.88 - 672.04  so I went to school in 11th also, the same
+ 672.36 - 675.04  school, yes but no, I studied 10th,
+ 675.16 - 678.75  I used to go to school in 11th also and we had a sir,
+ 678.92 - 682.39  Rupesh sir, when he came to know that my
+ 682.64 - 684.76  father.  If not, then they gave me free
+ 685 - 686.95  math coaching. Earlier too, I used to study from them only.
+ 687.04 - 689.92  They made my math coaching
+ 690.04 - 692.44  free, but the school
+ 692.52 - 695.12  fees were to be paid by the school and I used to
+ 695.44 - 698.2  pay the fees for other coachings.  And I
+ 698.44 - 699.52  knew this way that if we want to
+ 700.04 - 702.2  become a software engineer then we will have to do IIT, after
+ 702.36 - 704.2  IIT then we will have to do B.Tech, only
+ 705.08 - 706.88  after that we can dream of becoming a software engineer,
+ 706.96 - 709.84  so basically to
+ 710.36 - 712.08  do IIT, Physics and Math are important,
+ 712.2 - 714  very important.  And I
+ 714.24 - 716.15  also had interest, I used to study on my own till 10th
+ 716.28 - 717.88  and understood everything but
+ 718.64 - 720.72  when I went to 11th class,
+ 721.28 - 723.2  I was managing Maths, I was able to understand by
+ 723.44 - 725.51  studying on my own and  A little bit of
+ 725.76 - 727.67  coaching. What does coaching mean? I was learning it on my own
+ 727.88 - 731.76  and I mean, one who studied in coaching,
+ 731.88 - 734.76  coaching also helped, but I was
+ 735.28 - 737.12  not able to understand physics on my own.
+ 737.32 - 739.8  I got totally troubled in physics.
+ 739.92 - 741.8  Physics was one.  My favorite subject was Physics. My
+ 742.16 - 744.44  very favorite subject was Physics. I
+ 744.68 - 746.32  tried hard to study on my own. I
+ 746.64 - 749.32  bought different books. I went to different coaching
+ 749.64 - 755.32  institutes.
+ 755.32 - 758.75  I went to all the coaching institutes in our district in Gonda, about three-four.  I
+ 758.92 - 761.56  went to institutes where I
+ 762.48 - 765  thought that someone or the other would teach Physics
+ 765.64 - 767.24  but no one was teaching it properly, that
+ 767.44 - 770.12  is, everyone was telling that it will
+ 770.44 - 773.8  come in your exam and you should focus on it and
+ 774 - 776.08  it will clear your exam whereas
+ 776.48 - 779.04  I had never studied for exams in the beginning
+ 779.2 - 781.28  and I could not understand
+ 781.4 - 783.43  why we should study for exams, meaning we have to
+ 783.6 - 785.71  study to understand, we have to study so
+ 786.04 - 787.63  that we can use that thing in our life.
+ 791.16 - 794.27  I have tried a lot of things in my life, I
+ 794.56 - 796.48  went to a lot of coachings, but I did
+ 796.84 - 799.23  not do any workout, no one was able to teach me properly, everyone was
+ 800.16 - 802.36  basically teaching me to clear the exams,
+ 802.52 - 805.04  which was not my motive, the
+ 805.4 - 807.08  exam must be cleared.  If I have
+ 807.32 - 809.24  understood the exam then I
+ 809.36 - 811.35  will definitely crack it, I will crack it at 70-80 marks. I
+ 811.56 - 813.92  was so confident. Just explain the topic to me. If
+ 814.56 - 817.48  no one could explain then my interest
+ 817.76 - 821.15  in studies reduced a lot and that was my only
+ 821.48 - 824.39  hope.  I was thinking that I will get out of IIT and
+ 824.84 - 826.27  then become a software engineer and do B.Tech.
+ 826.76 - 828.84  All that started to fade away. Gradually, I
+ 829.16 - 831.64  lost interest in studies.
+ 834.12 - 837.03  Even after wandering in so many coachings, when I did not understand Physics, no
+ 837.16 - 838.47  teacher taught me Physics.  If I could not explain it,
+ 839.28 - 841.28  I was feeling very helpless, I was
+ 841.48 - 844.84  suddenly broken from within, that is,
+ 845.32 - 847.35  I am not able to understand on my own and
+ 847.6 - 849.67  no teacher is able to teach me, what should I do now, that is, I
+ 849.84 - 852.4  suddenly lost my desire to study.  It was over
+ 852.68 - 854.4  because I was not able to understand what was my favorite subject, so
+ 858.64 - 860.28  somehow I gave the 11th exam and till date
+ 860.52 - 862.39  I have not seen the result of the exam. Have
+ 862.84 - 864.68  I passed or failed in 11th?
+ 865 - 866.75  Basically who is in 11th?  If I fail, I
+ 867 - 869  might have passed by some marks but I did
+ 869.24 - 871.27  not see the result. There was a time when it was like this, that is,
+ 871.44 - 873.6  at my house, my mother knew,
+ 873.8 - 875.56  my siblings, everyone knew that I was not
+ 875.72 - 877.16  studying, I was not going to school,
+ 878.04 - 880.28  but  I had
+ 880.48 - 882.76  not told anything to my neighbors that I was not
+ 882.88 - 884.32  studying or completing 12th.
+ 884.48 - 887.28  Then when the 12th exam happened, everyone asked how many
+ 887.52 - 889.64  marks I got. I said, I got 70 marks.
+ 889.96 - 892.32  I told everyone that I have passed.  I went to 12th
+ 893.32 - 896.23  but then I thought that I will do it later, I will tell you whether I will
+ 899.04 - 902.71  do it from UP board or any government board, then after that
+ 903.72 - 906.44  everyone said that mummy said and those who
+ 906.72 - 908.63  knew that I did not do it, those people
+ 908.88 - 911.56  Said that do it from any medium,
+ 911.68 - 914  do it from UP board only, then there is
+ 914.64 - 917  NIOS board, basically like IGNOU,
+ 917.52 - 919.63  many people do BCA from IGNOU, then it is open
+ 920 - 921.36  schooling, similarly there is NIOS board, you have to
+ 921.64 - 923.24  fill the form.  You have to
+ 923.48 - 926.12  submit assignments and that is
+ 926.6 - 928.68  online, that is, you learn like this, there is
+ 928.84 - 930.16  no class, basically distance
+ 930.64 - 932.36  learning, study on your own and after giving the exam,
+ 933.36 - 935.68  I filled the form from that, I did
+ 936.08 - 938.48  not increase my studies, that means I did not do any study,
+ 938.6 - 940.27  my  I was not getting any interest, I was not able to
+ 940.4 - 941.84  understand, I was not able to understand, from where I should
+ 941.92 - 945.16  study, the same was my favorite subject, I was
+ 945.28 - 946.48  not able to understand, what will I do then, what will I do after
+ 946.6 - 948.68  studying, so
+ 949.4 - 951.44  then I gave the exam for NVS Board.
+ 951.8 - 954.16  Gave my 12th exam and this was the first time that
+ 954.24 - 955.56  I had failed because I had
+ 955.8 - 957.12  not studied anything at all, I just went and gave the exam, the
+ 960.28 - 962.68  results of all the subjects except English were
+ 963.04 - 965  in single digits.  You will see it on the screen, you can
+ 965.12 - 968.16  see my 9th and
+ 968.36 - 970.56  12th result, basically I
+ 970.68 - 973.07  failed, I failed miserably in it,
+ 973.16 - 975.43  then the head of Anas Board said that
+ 976.2 - 977.68  you fill it with Hindi medium.
+ 977.96 - 979.83  Children pass, most of the people pass, everyone
+ 980.04 - 981.96  passes. I
+ 982.2 - 983.67  filled it in Hindi medium. I filled it in Hindi medium from the board itself and
+ 983.92 - 985.88  then gave the exam again.
+ 986.24 - 989.2  Same situation happened again only
+ 989.84 - 991.12  in some subjects like Hindi and English and
+ 991.92 - 993.39  Hindi in it.  And there was English subject in
+ 993.8 - 995.72  which the number was in two digits and in Physics
+ 996.16 - 998.07  also the number was in two digits and in all the rest again
+ 998.36 - 1000.12  in single digit and I
+ 1000.52 - 1002.48  failed again. After that I said
+ 1002.68 - 1004.96  leave it, I will not do all this with my school and
+ 1005.24 - 1007.08  coaching.  I suddenly lost my confidence. I
+ 1007.72 - 1009.72  told my mother, "Mummy, buy a laptop
+ 1010.04 - 1012.51  for me, I will learn coding and create apps,
+ 1013.24 - 1016.12  I will become an app developer. She
+ 1016.4 - 1018.16  somehow bought a laptop for me. She
+ 1019 - 1021.11  collected some money and bought a Dell laptop.
+ 1022.12 - 1025.48  So I thought that  Let's learn development.
+ 1025.8 - 1027.95  It was on August 10, 2016, when I
+ 1028.16 - 1030.24  got my first laptop. I thought that
+ 1030.36 - 1032.28  in this we will learn coding, we will create an app.
+ 1032.76 - 1034.91  I downloaded And Studio. I came to
+ 1035.12 - 1037.07  know from somewhere that basically a friend of mine
+ 1037.36 - 1039.76  told me that we can learn app development from And Studio.  You
+ 1040.4 - 1042.51  can do it and my friend was already
+ 1042.76 - 1044.4  doing Diploma in Computer Science,
+ 1044.48 - 1047.24  his name is Faiz, his name is Faiz Ilahi
+ 1047.68 - 1049.84  and today he works with me here in Bangalore,
+ 1049.96 - 1052.67  so he is currently working in my old company.
+ 1052.84 - 1056.52  Said,
+ 1055.04 - 1056.28  install A Studio and we will develop the app. When we
+ 1056.52 - 1058.64  installed it,
+ 1058.88 - 1060.83  its interface was so dangerous, we could not understand anything,
+ 1060.96 - 1063.27  so we thought that we should learn Java language for this. It
+ 1078.48 - 1081.6  was not for Java, so nothing happened, it means we just
+ 1081.88 - 1083.55  installed it.  That's all that could be done, it was
+ 1084.16 - 1086.04  installed, after that no progress was
+ 1086.16 - 1088.28  made, tried for a month and a half, but
+ 1088.68 - 1090.71  what is half a month, tried only for 1015 days
+ 1091.2 - 1093.12  but nothing happened, means no course was
+ 1093.24 - 1095.52  found, no proper guidance.  I got
+ 1095.76 - 1097.96  what to learn first and what to do later, so I left it, that
+ 1098.2 - 1100.67  too means I uninstalled End Studio
+ 1100.92 - 1103.4  and downloaded A49 game in it,
+ 1103.56 - 1105.76  I used to sit there and play the whole day and
+ 1105.88 - 1109.12  then later the same
+ 1109.4 - 1111.48  friend Faiz himself told me that
+ 1111.68 - 1114.79  Learn C language. At least if you learn C language
+ 1115.36 - 1117.96  then basically it is basic fundamental.
+ 1118.2 - 1121.04  Whatever is the language of a language, everything
+ 1121.28 - 1123.6  starts from C, so he
+ 1124 - 1126.72  recommended Saurabh Shukla sir's channel, so
+ 1127.08 - 1128.2  I started watching it, I liked it a lot and
+ 1128.44 - 1130.28  understood programming.  I started
+ 1135.68 - 1138.83  understanding conditional false loops and arrays and all the things, so I learned C from them, I
+ 1139.32 - 1142.08  also learned c+ps and also solved questions which are
+ 1142.2 - 1144.32  questions in DSA type. It was in
+ 1144.52 - 1147  2018 when I learned c+ps.
+ 1147.2 - 1150.32  In 2017, I basically played S-Foot
+ 1150.48 - 1152.52  and taught coaching to children and I
+ 1152.8 - 1154.79  worked on my English. I thought that if
+ 1154.88 - 1156.08  nothing else, I would at least improve my English. I used to
+ 1156.44 - 1157.8  watch English videos and
+ 1158.36 - 1161.2  listen to English podcasts, so I
+ 1161.64 - 1164.64  improved my English.  I did this in 2017 and
+ 1164.72 - 1166.67  I taught coaching to children and used the laptop only to
+ 1167.24 - 1169.72  play games and
+ 1170 - 1173.16  learned the same C again for about a year, after learning C again and
+ 1173.4 - 1175.36  solving the questions, I did not understand
+ 1175.48 - 1179.24  what to do now, that is,  Okay, I have
+ 1179.4 - 1180.84  done it, I am also solving the questions,
+ 1180.92 - 1183.08  but will it work? I did not understand anything from this,
+ 1183.2 - 1185.79  then I thought that let's learn web development. It is the
+ 1198.32 - 1200.4  beginning of 2019. I
+ 1200.6 - 1202.24  downloaded some videos. I thought that let's try and
+ 1202.52 - 1206.4  see.  They were teaching
+ 1206.64 - 1209.31  basically one by one tag, they said that
+ 1209.64 - 1211.36  you have to remember this, they were teaching in notepad, they
+ 1211.6 - 1214.07  said that this is the opening tag, this is the closing tag,
+ 1214.2 - 1215.19  in this, you have to put an exclamation
+ 1215.84 - 1217.68  mark, a slash here and there, then you have to
+ 1218.24 - 1220.32  put angular brackets, after seeing that I said.
+ 1220.52 - 1222.55  Web development is better than C language
+ 1223.04 - 1226  or web development is the worst thing, I
+ 1226.28 - 1227.8  got this perception after seeing it, I
+ 1228.36 - 1230.4  said, this is just a rote thing, there
+ 1230.48 - 1232.56  is nothing useful in it, otherwise
+ 1232.76 - 1233.96  I left it, I said  They will
+ 1234.2 - 1235.84  not learn development no matter what happens.
+ 1236.28 - 1237.88  It was in 2018 when I
+ 1238.08 - 1240  tried web development for the first time and I
+ 1240.16 - 1242.24  lost confidence in it. I thought what to do, you
+ 1242.4 - 1243.6  can't even do development because it
+ 1244.16 - 1246.08  is difficult, there is no one to teach and at that
+ 1246.28 - 1248.76  time.  But there were not so many courses, not so many
+ 1248.96 - 1251.32  videos, all the things were very rare at that time, so
+ 1251.64 - 1255.56  I thought what to
+ 1255.72 - 1257.36  do now, I can't even do web development, I ca
+ 1258.08 - 1260.44  n't even do development, what will I do using C, that
+ 1260.68 - 1262.79  means I won't be able to create anything.  Had solved
+ 1262.92 - 1264.8  some questions but
+ 1265.04 - 1266.96  now I don't feel like solving how much, I do
+ 1267.2 - 1269.15  n't have that much motivation and then I
+ 1269.36 - 1271.24  thought let's go home, there is no point in staying here in the city and
+ 1271.6 - 1273.48  spending money unnecessarily, we will
+ 1273.64 - 1276.2  go home and do farming and
+ 1276.6 - 1279.2  rest.  I will live as long as I want, there is
+ 1279.56 - 1282  no problem, all my dreams were shattered, I came home, I
+ 1282.32 - 1284.16  told my mother that I will not do anything now, I will
+ 1284.48 - 1286.92  stay at home, I will just wait and see, whatever
+ 1287.08 - 1289.52  happens, will happen, there was no hope left that if
+ 1289.84 - 1292.43  anything would happen then I  I started doing farming and
+ 1292.68 - 1294.08  thought that we will open a shop and the
+ 1294.4 - 1296.44  expenses will keep on running. I had thought to such an extent
+ 1296.6 - 1298.79  that now we will do only a shop that
+ 1299.44 - 1302.12  I went beyond the shop of cement and morang sand and
+ 1305 - 1308.6  went to that shop.  We will get a shop built here and then we will
+ 1308.8 - 1311.76  shop there, that day the
+ 1312.56 - 1315.6  man was not there, that means the shop was closed and there
+ 1315.8 - 1317.79  was only one shop in that area which
+ 1318.12 - 1320.4  was nearby, so I returned, I thought
+ 1320.6 - 1322.44  no problem, we will go the next day.  Then the next day my
+ 1322.6 - 1324.36  mood changed, I thought that they do not
+ 1324.48 - 1326.4  do shop, they do some farming, they do farming only a little, they do farming
+ 1326.68 - 1329  well, something will happen from farming, they
+ 1329.12 - 1331.67  will do some work in farming, so I used to do
+ 1331.8 - 1334.8  farming, but did
+ 1335.04 - 1337.56  not do it on a very big level.  Normally I was doing farming, used to
+ 1337.76 - 1340.27  graze the cow, it was our cow, go and
+ 1340.56 - 1343.12  graze the cow, do farming, cut the wheat, harvest the paddy,
+ 1343.4 - 1345.76  bring it back, a few
+ 1345.96 - 1347.6  laborers used to work, we also did a little
+ 1348.28 - 1352.24  along with us, so this continued and then hope was
+ 1352.68 - 1355.6  lost.  I was sure that I would be able to do something good
+ 1356.04 - 1358.4  in software, there was no hope
+ 1358.52 - 1360.44  that I would be able to do something like this, then I got
+ 1360.72 - 1362.72  interested in spirituality,
+ 1363.04 - 1365.12  how to control my mind,
+ 1365.4 - 1367.68  how to keep my mind working, although my mind was
+ 1368.28 - 1370.71  already  There was only work to be done,
+ 1371.04 - 1372.92  I didn't get too angry, but even more so, I did
+ 1373.2 - 1375  n't care about what others said
+ 1375.16 - 1377.32  because when I was not doing anything,
+ 1378.04 - 1380.4  people started asking, "Brother, what are you doing, what are you going to do, whether you want to do
+ 1381.72 - 1384.83  something or not."  When people in the village came to
+ 1384.96 - 1386.52  know that he has not even
+ 1386.6 - 1388.52  completed 12th, he has wasted two years and has come here and has taken a
+ 1389.24 - 1391.84  laptop, has taken a mobile,
+ 1392 - 1395.84  everyone is getting spoiled, it means
+ 1396.12 - 1398.32  everyone is getting spoiled by having a mobile, and what do
+ 1399.16 - 1401.07  people do?  They started asking what are you doing, will you do something or
+ 1401.28 - 1404.28  not, do something, then basically they
+ 1404.44 - 1408.03  also wanted to do something and started saying meaning,
+ 1408.28 - 1410.12  when you don't do anything, sit at home the
+ 1410.36 - 1412.64  whole day, do some outside work, stay at home the
+ 1412.84 - 1414.4  whole day.  I used to sit at home and
+ 1414.84 - 1416.88  watch things related to spirituality. I met
+ 1417.12 - 1419.79  Sadhguru. I liked and understood Sadhguru's words. I
+ 1423 - 1425  watched all his videos at one time
+ 1425.6 - 1428.63  and by watching those videos, I got the benefit that
+ 1429.12 - 1433.99  I  I have gained control over my mind and my actions to
+ 1434.4 - 1436.84  a great extent. Basically, no matter what anyone
+ 1437.08 - 1439.48  says from outside, it did not make much difference to me.
+ 1439.8 - 1442.44  Earlier too, I did
+ 1442.6 - 1444  not get angry, but
+ 1444.28 - 1447.28  now after listening to Sadhguru, it made a difference to
+ 1447.36 - 1451.64  me.  All of a sudden, it means I became very much under
+ 1452 - 1454.28  control, my mind started working,
+ 1454.56 - 1457.91  everything was working, it means I started being happy but I was
+ 1458.28 - 1460.23  not doing anything, so there was a wholeness inside, there
+ 1460.52 - 1462.84  
+ 1465.24 - 1468.47  was not an amnesiac, but there was a K inside which was
+ 1468.68 - 1471.64  saying that  Do something, you mean what are you
+ 1472.04 - 1474.48  doing, you will die like this, they came like this
+ 1474.64 - 1476.79  and when I started sitting at home,
+ 1477 - 1479.2  one of my acquaintance's brother said that
+ 1479.32 - 1481.56  we have a copper bottle factory, you
+ 1481.8 - 1484.04  pick up the copper bottles from here, we will sell it to you.  They will
+ 1484.56 - 1486.48  give you bottles for ₹ and you sell them at the shop for Rs 250-300, this will make
+ 1486.8 - 1488.76  you some
+ 1489.04 - 1491.96  profit and you will earn something, so I
+ 1492.16 - 1493.88  started doing this, I bought
+ 1496.76 - 1499.67  bottles from them and I took them on a bicycle and used to go from
+ 1499.92 - 1502.4  shop to shop and sell bottles for Rs
+ 1502.56 - 1504.68  250.  Once a shopkeeper of Rs. 300
+ 1504.8 - 1506.48  asked me to give him 10 bottles,
+ 1507.08 - 1508.88  I will give you some money now and
+ 1509.24 - 1510.84  when all the bottles are sold, I will give you the
+ 1511.04 - 1513.28  money. He gave me Rs. 000,
+ 1513.8 - 1515.72  I also agreed that means I  I also
+ 1516.24 - 1518.47  believed that he will give me the money, it will run away somewhere, he has a
+ 1518.76 - 1520.4  whole shop right here in
+ 1520.52 - 1523.36  our city, so he gave me
+ 1523.6 - 1526.24  Rs. 000, then he said that
+ 1526.52 - 1528.72  we will give him the money after a month, but after a month,
+ 1529 - 1530.91  when I asked,  When I went there, he said, brother, the
+ 1531.12 - 1533.35  bottles are not being sold, that is, they are being
+ 1533.88 - 1535.52  sold at very low prices, no one is buying them.
+ 1535.68 - 1537.48  I told him, ok,
+ 1537.76 - 1540  give me the money for whatever is sold. He gave me
+ 1540.2 - 1542.48  ₹ 5000000 for
+ 1545.88 - 1548.96  two-three bottles with him.  It was already ready, he
+ 1549.2 - 1551.15  returned it and said that brother, that's all
+ 1551.36 - 1554.27  and nothing else would be possible, so the business he had started from there too, which
+ 1557.12 - 1559.04  was a small selling business,
+ 1559.28 - 1561.16  also lost confidence after this incident.
+ 1561.28 - 1562.68  I also stopped selling the bottles
+ 1563.08 - 1564.56  because there was no interest and I
+ 1564.68 - 1566.96  also got cheated, so I said that
+ 1567.4 - 1569.39  I will not be able to commit to selling, I will do farming, I will
+ 1569.76 - 1571.96  live a simple life, I don't want to get into the trap of all this.
+ 1572.08 - 1574.04  Almost everyone said something or the other.
+ 1574.28 - 1577.08  Do something, why are you sitting idle, do some
+ 1577.32 - 1580.32  work, get some job done, do something,
+ 1580.92 - 1582.76  relatives also said, neighbors also
+ 1582.88 - 1585.03  said, everyone said but my mother did
+ 1585.24 - 1587.12  not say do something, she said
+ 1587.24 - 1589.79  do whatever you like and we will do it.  We will
+ 1589.96 - 1592.52  take whatever we want, whatever we have to earn, we will
+ 1592.64 - 1594.64  do it, you sit comfortably, study,
+ 1595.08 - 1596.92  do whatever you like,
+ 1597.6 - 1600.12  then he basically knew the meaning behind the
+ 1600.24 - 1601.95  scenes, meaning I am not doing anything wrong,
+ 1602.16 - 1604.24  watch some picture or movie.  I was not
+ 1604.52 - 1606.04  working on myself, I was doing well in English, I would do
+ 1606.2 - 1608.44  something one day, so he had
+ 1608.76 - 1611.2  faith in me that I would do something, that is
+ 1611.32 - 1613.36  why he never asked me to
+ 1613.72 - 1616.12  do any job or to work or to study.
+ 1618.84 - 1621  My mother did not force me to do anything, except her, that is, except
+ 1621.76 - 1624  my family,
+ 1624.2 - 1627.88  everyone else told me to do something, do something, so my
+ 1628.16 - 1631.52  aunt has a school, a school till 10th, a
+ 1632 - 1634.6  school from first to 10th.
+ 1634.76 - 1636.75  Our aunt's son has a school there, basically he said I have to
+ 1637.76 - 1639.56  teach in the school, I
+ 1640.52 - 1643.15  said first I don't want to
+ 1643.28 - 1644.8  teach, then he said teach, meaning
+ 1645.08 - 1646.36  he knew that I teach well,
+ 1646.76 - 1648.79  basically Ashish bhaiya, his name is Ashish.
+ 1649.12 - 1651.52  Bhaiya said, he knew that I
+ 1651.96 - 1653.76  teach well, I have also taught coaching,
+ 1654.08 - 1656.04  so he said, try teaching, come and
+ 1656.24 - 1659.27  see how you like it, then later, if you
+ 1659.52 - 1661.44  don't feel like teaching, then don't teach, just try.
+ 1661.76 - 1664.39  Then he said.  I went and
+ 1664.64 - 1667.08  started teaching there, it felt right, I taught
+ 1667.4 - 1669.64  there for a year, I taught
+ 1669.72 - 1671.71  science and maths to children from six to 10, I used to
+ 1672.04 - 1673.68  teach English also,
+ 1673.8 - 1675.04  sometimes if the English teacher did not come,
+ 1675.76 - 1677.48  but my main subject was  It
+ 1677.76 - 1679.55  was science and maths, but even when I was teaching, there was that
+ 1679.8 - 1682.07  emptiness inside that something has to be done,
+ 1682.4 - 1685.12  something should be done, that emptiness was always there,
+ 1685.48 - 1687.52  meaning it did not feel that we have to live our entire
+ 1687.76 - 1690.15  life like this, this is our life, this is
+ 1690.44 - 1693.19  our job.  So it did not seem like that, I
+ 1693.52 - 1695.08  felt that something was missing and something should be done.
+ 1695.68 - 1697.68  Meanwhile, when I was teaching in school,
+ 1697.88 - 1699.43  I met my wife through social media. At
+ 1699.52 - 1701.52  that time, I did not have a wife, but today,
+ 1701.68 - 1704.2  she is a wife and  It
+ 1704.6 - 1707.2  felt good to meet him, the mind set was
+ 1707.52 - 1709.04  quite similar, interest in spirituality, interest in
+ 1710.04 - 1711.44  maths, interest in science, interest in
+ 1711.8 - 1713.48  physics, all these interests were similar,
+ 1714.04 - 1718  meaning same and many other things were similar, goal was to
+ 1718.36 - 1722.08  do something good, meaning in a
+ 1722.32 - 1724.55  way, it meant me.  I felt that it was me
+ 1725 - 1727.75  in the female version, it was ok, I felt that we started
+ 1728.48 - 1730.84  talking and I liked it a lot and
+ 1731.72 - 1734.4  then he pushed me to do something,
+ 1734.8 - 1737.52  so he showed me the opportunity that
+ 1737.84 - 1739.6  many things
+ 1739.68 - 1741.84  can be done through the internet.  Try, do something.
+ 1742.4 - 1744.68  Many people do jobs on the internet. Earlier, I did
+ 1744.88 - 1747.96  not think that I could
+ 1748.08 - 1749.99  get something through the internet. Although I used to use the internet, I did
+ 1750.24 - 1752.15  not think that much about the job,
+ 1752.32 - 1754.68  so my only conventional method
+ 1754.96 - 1757.84  was  That I will go to IIT and then do B.Tech and then
+ 1758.04 - 1760.79  get a job from there, so I knew this path,
+ 1761.04 - 1762.91  he said that no, there are other things,
+ 1763.28 - 1766.28  so I thought what to do now, so I
+ 1766.4 - 1768.36  thought, let's do 3D
+ 1768.68 - 1770.92  modeling, so I did it because he
+ 1771.04 - 1773  is my brother.  Younger brother, his name is
+ 1773.68 - 1775.99  Adarsh. He was already doing 3D modeling. I had introduced him to 3D modeling.
+ 1778.2 - 1780.64  I had also taught him coding for 3D modeling.
+ 1780.76 - 1783.36  When I did not know it,
+ 1783.56 - 1785.08  I had provided him tutorials.
+ 1785.56 - 1787.28  He had also learned it but he also had  There
+ 1787.44 - 1790.08  was no guidance as to what to do next, how to
+ 1790.36 - 1792.6  get a job in it or some of the
+ 1792.76 - 1795.2  things she knew but she knew coding, C language,
+ 1795.64 - 1798  Python, she knew all these things but she also did
+ 1798.16 - 1799.68  not know what to do next and
+ 1799.92 - 1802.67  ended by solving only that many questions.  So he was doing 3D
+ 1803 - 1804.88  modeling and making models, so
+ 1804.96 - 1807.12  I thought, let's do 3D modeling, it will bring
+ 1807.48 - 1810.56  something, that is, I will
+ 1810.92 - 1813.08  do some freelancing online on Upwork, on Fiber,
+ 1813.76 - 1815.72  I learned a little bit of freelancing,
+ 1816 - 1818.36  not much, just not freelancing,
+ 1819.52 - 1821.68  basically did not learn much of 3D modeling.  I just
+ 1821.88 - 1823.44  created an account on Upwork
+ 1825 - 1826.6  that I am a freelance
+ 1827.88 - 1830.76  3D designer, I make 3D models,
+ 1831.44 - 1833.84  so we got a client from the US, we got a
+ 1834.44 - 1836.43  client, he got the design of a car
+ 1837.04 - 1839.6  made, the design of the car must be lying somewhere,
+ 1839.96 - 1841.12  if you can find the link of it.  I
+ 1853.6 - 1856.48  was YouTube1 but I thought
+ 1856.6 - 1858.2  how long will this work continue, I learn it myself, so
+ 1858.84 - 1860.63  my brother completed the first project,
+ 1860.8 - 1862.44  I used to just talk
+ 1862.68 - 1865.47  in between that I have to do this, he completed the entire
+ 1865.68 - 1867.2  project and  That means we got 100
+ 1867.4 - 1869.52  dollars, more than 100, 100, 50 dollars
+ 1869.72 - 1872.12  and the first income was through online,
+ 1872.44 - 1875.56  so I did not do everything in it,
+ 1875.72 - 1878.39  I just talked, then after that
+ 1878.64 - 1883.04  I learned D myself and made models by myself.
+ 1883.32 - 1885.48  But I was not enjoying it, I was
+ 1885.76 - 1887.52  not feeling any meaning in it that this is not what I am doing, this is
+ 1888.32 - 1891.31  our life, we will spend it in this only and that too
+ 1891.48 - 1893.48  means I made models again, one ad,
+ 1893.72 - 1896  maybe one for the same client, one freelancing for some other client
+ 1896.08 - 1898.31  and so on.  I also did the project by myself
+ 1898.48 - 1903.36  but I earned the same 100 50 00 through that
+ 1903.68 - 1905.8  but I did
+ 1905.96 - 1908.76  not get any feeling in it either, it did not feel very right, still
+ 1908.88 - 1910.12  I used to learn 3D modeling from
+ 1911.16 - 1913.64  youtube0 modeling, so one day I was
+ 1913.76 - 1915.27  watching a video of 3D modeling.  There was an
+ 1917.24 - 1919.6  ad coming, that ad was of a web development course
+ 1919.84 - 1922.56  and in that ad a lady was speaking, she was
+ 1922.76 - 1924.72  saying something and I liked her way of speaking
+ 1925.12 - 1926.88  that how we will
+ 1927.24 - 1929.2  learn, how each and every thing was covered.
+ 1929.44 - 1931.64  Within this course, I thought that let's try
+ 1931.72 - 1933.32  web development once again,
+ 1933.76 - 1935.39  I purchased that course and the
+ 1935.64 - 1936.32  price of that course was only ₹ 5000000
+ 1943.64 - 1946.64  and this day was the turning point of my life,
+ 1947.32 - 1949.55  from then on there was no looking back, it was so good.
+ 1949.8 - 1951.47  He taught me web development, it was very easy to
+ 1954.16 - 1956.56  understand, beginner friendly, he explained everything very well and
+ 1956.76 - 1958.76  after that my life
+ 1958.96 - 1961.36  changed completely, I started understanding every concept of web development, I got
+ 1963.44 - 1966.72  interested.  And I followed his entire course, it included
+ 1966.96 - 1968.36  HTML, CSS,
+ 1968.84 - 1972.44  JavaScript, React and whatever he
+ 1972.72 - 1974.51  covered in the notes, so I followed all the things
+ 1974.68 - 1976.24  and I
+ 1976.36 - 1977.79  practiced a lot of CSS, my CSS
+ 1978.04 - 1980  became very good, I started creating responses very easily
+ 1980.28 - 1983.04  and  To learn CSS, Anjala Yu had
+ 1983.16 - 1985.48  taught me, it was very basic and
+ 1985.76 - 1987.12  I tried to learn CSS well,
+ 2007.16 - 2008.36  after that I made many projects using CSS,
+ 2008.76 - 2013.52  basically
+ 2010.92 - 2012.96  in the beginning I focused on CSS only,
+ 2013.52 - 2014.8  many projects of CSS.  I made the
+ 2015.44 - 2016.2  projects on my own, he
+ 2037 - 2038.79  said do you know CSS, I said
+ 2038.96 - 2041.63  yes, he said if you give me some design then you will make it, he
+ 2041.72 - 2043.88  sent the design, I said
+ 2044.04 - 2045.68  yes, we will make it, he said,
+ 2045.88 - 2048.16  how much will you charge for making a design, then
+ 2049.04 - 2050.59  I said, I have it in my mind.  I thought that I
+ 2050.72 - 2053.72  make such projects every day,
+ 2053.88 - 2055.91  I can do this for free but if they are
+ 2056.16 - 2057.47  asking then they will say something, then I
+ 2057.64 - 2060.16  said, I will take 5500, I said, ok, ok, do it,
+ 2060.52 - 2062.76  they sent it to me,
+ 2063.52 - 2065.39  what project do I want to make?  Told everything, there
+ 2065.56 - 2067.11  was nothing much, just a few cards, the
+ 2067.2 - 2068.92  design was a bit complicated, that is why he knew
+ 2069.16 - 2071.44  little CSS, that is why he took my help, so I did
+ 2071.76 - 2074  that and gave it to him
+ 2074.12 - 2075.64  and he gave me another project,
+ 2076 - 2077.91  then I did both the projects.
+ 2078.04 - 2079.88  Both were simple projects, I did the
+ 2080.76 - 2082.4  project in about two to four days
+ 2082.96 - 2085.15  and they gave me Rs. 000 because there was
+ 2085.32 - 2087.83  talk of Rs. 50000 for one project, they gave me Rs. 1000 and
+ 2088.4 - 2091.16  I earned Rs. 000 in four days. This is
+ 2091.32 - 2093  my first freelancing project.
+ 2093.16 - 2095.8  That I did not reach out, it was
+ 2095.92 - 2097.12  they who did the reach out. It was
+ 2113.48 - 2115.52  Instagram's freelancing project, so
+ 2115.6 - 2117.4  I thought, okay, I am starting to get the hang of
+ 2117.52 - 2120.32  freelancing, so I am in all the
+ 2120.84 - 2122.08  social media groups, the
+ 2125.8 - 2128.44  Discord groups of the tubers.  I became active in all of them,
+ 2128.52 - 2131.24  then in some discord, someone
+ 2131.36 - 2134.12  messaged that is there any front end developer, is
+ 2134.28 - 2136.92  he needed? So I said, I
+ 2137.2 - 2139.4  messaged him that yes, I know, so
+ 2140.24 - 2140.72  he hired me, that is,
+ 2141.84 - 2144.08  he gave me some
+ 2144.24 - 2146.24  projects.  I got the work done from there and
+ 2146.44 - 2149.03  earned Rs 56000. There were not many big projects, there
+ 2149.44 - 2151.2  were only small projects, so
+ 2151.6 - 2155.04  there I got Rs 000 from him and then
+ 2155.56 - 2160.04  one more and one more. Basically,
+ 2160.12 - 2162.32  I did a project for a startup and
+ 2162.48 - 2165.28  got Rs 4,000 for that too.  So when I started getting four paise
+ 2165.52 - 2167.68  from web development, I thought let's
+ 2168 - 2169.92  go to Bangalore, I got a little confidence
+ 2170.16 - 2173.16  that I am getting some money from this and
+ 2173.24 - 2175.48  I am also feeling good, so the confidence came,
+ 2175.6 - 2178.24  let's go to Bangalore and I will get a job there.  If I
+ 2178.52 - 2181.76  got something then I came, meaning there
+ 2182.04 - 2184.12  was no job now, I just came like this, did one or two
+ 2184.24 - 2186.08  freelancing projects and then came
+ 2188 - 2191.11  here, I started applying for internships,
+ 2191.52 - 2193  I thought I
+ 2193.12 - 2195.88  would get only internships, what else can I get with so much knowledge?
+ 2196.56 - 2198.43  I applied for internship at many places and got a
+ 2198.64 - 2200.72  call from many places. Basically,
+ 2200.8 - 2202.76  I got a call from one place. They said that we have an
+ 2203.04 - 2204.68  opening for internship but we
+ 2204.88 - 2206.12  need a freelancer. If you
+ 2206.24 - 2208.44  do freelancing then you can work for us.
+ 2210.48 - 2212.88  Basically he did not have any team, it was more of a
+ 2213 - 2214.24  project, he had got it done
+ 2214.4 - 2217.04  from a developer, the project was fine but he was
+ 2219.88 - 2225.88  
+ 2222.32 - 2225.8  well versed in responsiveness, I knew the lead well, I had
+ 2225.88 - 2227.88  prepared a lot of responses, he
+ 2228.16 - 2231.8  said yes, I will do it, so I
+ 2231.96 - 2233.55  asked him.  How much will you charge for an hour?
+ 2233.96 - 2238.15  I said, I will take Rs. 500 for an hour, meaning Rs.
+ 2238.48 - 2240.52  500 for an hour. I said no, this is too much.
+ 2241.52 - 2245.11  He said that we can give Rs. 00. I was
+ 2245.24 - 2248.03  thinking in my mind that Rs. 00 for an hour is quite
+ 2248.32 - 2250.83  good, it means I did Rs. 500 for an hour a day.  When the work was done,
+ 2251.4 - 2256.56  they said that we
+ 2256.92 - 2259.35  can give Rs. 200. I said that it is okay, I will do the
+ 2259.52 - 2261.99  work, it doesn't matter that you are speaking for the first time,
+ 2262.24 - 2264.76  I will do it. I was happy from inside, so I
+ 2264.92 - 2268.76  decided on another hour.  I did and
+ 2269.08 - 2270.44  started working on their website,
+ 2271 - 2272.72  although I had come to Bangalore, there was no job at that time, it
+ 2273.36 - 2275.52  was only freelancing work, so
+ 2275.68 - 2279.43  I worked for about 28 or 20 25 days for a month,
+ 2279.76 - 2282.15  25 to 28 days, I worked on it
+ 2282.76 - 2286.12  and  Finally, when they paid, it
+ 2286.44 - 2289.12  was a good payment, that is, I had worked for more than 100 hours, so when they paid me around
+ 2289.2 - 2291.48  Rs. 0000, it
+ 2292.4 - 2294.72  felt even better. I felt
+ 2294.92 - 2297.35  confident that this is the work of my choice,
+ 2297.64 - 2299.56  which I can do for free, and
+ 2299.76 - 2301.32  get paid for it.  It's a very good thing, this
+ 2301.48 - 2302.96  freelancing project was over now,
+ 2303.08 - 2305.04  now I started applying for internship again
+ 2305.36 - 2307.72  and I applied to many places at
+ 2308.08 - 2309.8  least 20 times a day,
+ 2310.16 - 2313.4  then I started getting calls.  A couple of calls came and
+ 2313.64 - 2316.36  my interview was scheduled. In the interview,
+ 2316.44 - 2318.16  they asked something like JavaScript, Single
+ 2318.4 - 2321.2  Threaded, Multi Threaded. Well,
+ 2321.28 - 2322.68  I had not studied it, it was
+ 2322.96 - 2326.16  not mentioned in the course. Angela said, "
+ 2326.4 - 2329.44  What is this, okay?" She said, "I have  Just like that I
+ 2329.68 - 2331.4  said, I guess I had heard about single threaded
+ 2331.8 - 2335.08  somewhere in some video, so I said,
+ 2335.56 - 2337.4  what does it mean when I say single threaded?
+ 2337.52 - 2339.63  I said, now I have to explain its meaning also,
+ 2339.96 - 2342.56  I said, I don't know all this, then
+ 2342.8 - 2345.12  asked one or two more questions.  He taught me a little about the
+ 2345.48 - 2347.92  core concepts of JavaScript, so I did
+ 2348.2 - 2350.16  n't know anything. I said, "Hey,
+ 2350.36 - 2352.16  what have you read? I have followed the entire course
+ 2352.52 - 2354.83  from you, Angela, so I don't know it at all,
+ 2355 - 2355.84  then I have
+ 2358.16 - 2360.32  come to Realix S. I
+ 2360.52 - 2362.28  don't know JavaScript, just a little."  Many things come in
+ 2362.4 - 2365.48  ifs for loops and functions but I do
+ 2365.64 - 2367.63  n't know JavaScript well. So what should I
+ 2367.76 - 2373.36  do now? Then I purchased their Colt
+ 2373.84 - 2374.92  Steel course.
+ 2396.52 - 2397.88  I saw only the JavaScript section
+ 2398.6 - 2400.72  and their JavaScript was quite good
+ 2400.92 - 2402.84  Anjala.  In comparison to UK, their
+ 2403.16 - 2404.99  JavaScript was much more detailed, it was bigger
+ 2405.2 - 2407.8  and they explained it a little better, so
+ 2408.48 - 2411  from there I got a little
+ 2411.68 - 2414.04  better knowledge of JavaScript, I
+ 2414.32 - 2415.96  understood it more completely, the whole whole picture was understood, the fundamental
+ 2416.52 - 2418.36  concepts were clear, but still I was not ready for
+ 2418.48 - 2419.59  the interviews.  I was not able to figure out,
+ 2419.8 - 2421.72  I was getting stuck in JavaScript. People were
+ 2422.32 - 2424.44  asking closures, hidden functions
+ 2424.6 - 2428.04  and scopes, meaning how does lexic
+ 2428.16 - 2430.07  scope work, what is all this, synchronous,
+ 2430.48 - 2432.88  how is synchronous code running,
+ 2433.4 - 2435.27  call backs.  Key Event Loop: These are the questions that
+ 2436.12 - 2440.16  interns ask. Okay, it was still
+ 2440.32 - 2443.56  not happening, so when I was following Cold Steel
+ 2443.64 - 2445.08  in JavaScript course,
+ 2445.28 - 2447.84  here when I came to Bangalore,
+ 2447.96 - 2450.87  a friend of mine became a person.  He helped me a lot in getting
+ 2451.08 - 2452.72  settled here in Bangalore.
+ 2452.84 - 2455.32  He is also working today. His name is
+ 2455.52 - 2458.44  Gautam, so he is also working in front end.
+ 2458.48 - 2460.28  When we met, we were learning together,
+ 2460.52 - 2463.96  so I used to help him.
+ 2464.32 - 2466.12  He helped me to settle down in Bangalore.
+ 2466.28 - 2469.2  He is from Bangalore and he
+ 2469.8 - 2472.16  sent me a course called Namaste JavaScript by Akshay Saini. At
+ 2472.6 - 2475  that time I
+ 2475.36 - 2477.48  was not ready to watch that course. I saw
+ 2477.8 - 2479.76  that he was teaching something.  But all this is
+ 2480 - 2481.96  going on top that at that time I had
+ 2482.28 - 2484.84  studied Anjala U and I was not able to understand
+ 2484.92 - 2486.28  what they were teaching, everyone was
+ 2486.6 - 2488.6  teaching useless things, I said this is a bad course,
+ 2488.72 - 2491.24  it is not a very good course, so I  Did
+ 2491.44 - 2492.96  n't even see it, then I
+ 2493.24 - 2494.44  read JavaScript from Colt Steel. When my
+ 2494.68 - 2496.88  JavaScript became good, then I
+ 2498.32 - 2501.63  saw it again. When I saw it again, my eyes opened. Suddenly
+ 2501.92 - 2504.4  JavaScript seemed cool. I
+ 2504.8 - 2506.84  understood everything. He wrote it very
+ 2507 - 2508.24  well. Akshay.  Saini has explained
+ 2508.6 - 2510.84  very well in the Namaste JavaScript series,
+ 2512.16 - 2513.76  how JavaScript works behind the scenes. I started
+ 2513.92 - 2515.56  understanding everything
+ 2517.08 - 2518.36  and I thought
+ 2519.6 - 2522.76  that it means do some other advanced courses too,
+ 2523.24 - 2523.44  I have done
+ 2527.16 - 2529.88  YouTube's but in that advanced course
+ 2530 - 2531.39  also.  There was nothing much which Akshay Saini had already
+ 2531.48 - 2532.52  taught, Namaste, the
+ 2533.12 - 2534.96  same things were there in JavaScript too, so
+ 2535.08 - 2536.68  basically I understood it twice and it was repeated,
+ 2537.24 - 2539  so whatever advanced concepts were behind the
+ 2539.12 - 2539.96  scenes, how JavaScript works,
+ 2540.8 - 2542  because of Akshay Saini and  Hello,
+ 2542.36 - 2544.08  because of JavaScript, my JavaScript became
+ 2544.68 - 2546.79  very good. I started understanding JavaScript on my own by digging into
+ 2547.12 - 2548.95  their dev tools more than what they taught me. They
+ 2552.52 - 2554  explained me
+ 2554.28 - 2556.08  how to use the dev tools, so effectively,
+ 2557.08 - 2559.03  after that I learned it on my own.  I started
+ 2559.16 - 2562.2  exploring on my own, understood JavaScript in depth,
+ 2563.8 - 2567.24  after that my interview started
+ 2567.44 - 2570.47  going well and I got selected in a startup. If
+ 2570.56 - 2574.68  yes, then how was the selection,
+ 2574.92 - 2577.04  I also tell you in my resume
+ 2577.16 - 2578.83  what is my education.  Only education was mentioned, it was
+ 2579.32 - 2581.48  not there, so in one of the sections at the bottom,
+ 2581.84 - 2584.32  I had mentioned that
+ 2584.4 - 2588.16  under education, I had seen some courses like Self-Tut, UD and Coursera, but
+ 2588.52 - 2590.92  from Coursera,
+ 2591.24 - 2592.96  although I had seen some courses not of web development but of Ed,
+ 2593.16 - 2595.88  sometimes that's it.  This is all I had mentioned in
+ 2596.08 - 2600.16  Self Tut UD course, that's all I had
+ 2600.32 - 2602.24  mentioned, Free Quote Cam was also probably mentioned, I do
+ 2602.56 - 2605.48  n't remember, this is what I had mentioned,
+ 2605.8 - 2608.55  so when the interviewers used to call, it was
+ 2608.76 - 2610.6  pickle call or interviewer's
+ 2610.76 - 2612.84  call.  Whenever I used to come, their first question was
+ 2613.2 - 2616.31  that when did you do graduation and
+ 2616.44 - 2619.36  in which field, I used to say that
+ 2619.96 - 2621.8  I have not done graduation,
+ 2622.24 - 2625.44  I learned coding after 10th and I was interested in it,
+ 2625.56 - 2627.24  so I did it after 10th.  I am
+ 2627.48 - 2628.8  doing web development and freelancing
+ 2628.96 - 2630.44  and these are some of my freelancing
+ 2630.96 - 2632.72  projects which I have done
+ 2632.8 - 2634.2  inside the resume. Inside the resume, I had done my
+ 2634.48 - 2636.28  original freelancing projects
+ 2636.44 - 2639.04  which were two-three projects, they
+ 2639.28 - 2640.76  were all projects and one  Two personal
+ 2641.08 - 2642.6  projects were just one or two such personal
+ 2642.92 - 2645.04  projects, so in the resume also,
+ 2645.16 - 2647.04  I had also made a portfolio, that
+ 2647.28 - 2649.28  portfolio is quite good, it is still there, I will
+ 2649.44 - 2650.83  give its link in the description, if you
+ 2650.92 - 2654.24  go and see it, then I have made one named Anug sbm.com.  I had taken a
+ 2654.32 - 2656.36  domain and on top of that I had
+ 2656.56 - 2659.96  hosted my portfolio, on top of that
+ 2660.16 - 2661.76  I had
+ 2661.88 - 2664.27  kept whatever freelancing projects I had, so I had told
+ 2664.56 - 2666.92  that I mean I used to tell the interviewer that
+ 2667.72 - 2670.04  I learned web development after 10th and learned
+ 2670.48 - 2672.8  coding.  And I am freelancing,
+ 2673 - 2675.11  okay, I am freelancing, these are
+ 2675.32 - 2677.32  some of my projects, okay, so they used to
+ 2677.52 - 2680.52  say, okay, no problem, skill matters to us,
+ 2680.92 - 2683.08  degree does not matter that much,
+ 2683.32 - 2686  and to my surprise,
+ 2687 - 2689.87  I got about 20 interviewers.  Talked to 20 four people out of
+ 2690 - 2692.48  which only one said that
+ 2693.24 - 2695.55  we want a B.Tech person, sorry we can't proceed with you, it's
+ 2695.72 - 2697.76  okay, the one with degree,
+ 2697.96 - 2700.92  then after listening to all the others said that
+ 2701.4 - 2703.68  skill matters to us, degree does
+ 2703.76 - 2706.59  n't matter to us.  Now I wonder why this happened to me, I do
+ 2706.84 - 2709.63  n't know if this happens to everyone,
+ 2709.8 - 2712.44  otherwise I feel that my
+ 2712.56 - 2714  projects and my freelancing
+ 2714.24 - 2716.56  work were good, my portfolio
+ 2717.2 - 2719.51  was good, that's what people were saying after seeing it.
+ 2719.68 - 2722.56  That it is working well, so it does
+ 2722.68 - 2724.56  n't matter, the degree doesn't matter, if
+ 2724.84 - 2725.4  you just go straight like this, we will speak, we know
+ 2729.08 - 2730.52  nothing just by speaking, you have to show the
+ 2730.88 - 2733.76  work, so it may not happen with you.
+ 2734 - 2735.88  If your portfolio is strong,
+ 2736.24 - 2737.92  your resume is strong, the projects are
+ 2738.4 - 2740.4  good and if there are freelancing
+ 2740.6 - 2742  projects then there are more chances of
+ 2742.36 - 2744.32  your getting selected, so
+ 2744.48 - 2746.44  I think that is why he was saying
+ 2746.68 - 2749.27  that this guy knows, he has done the work.  So
+ 2749.96 - 2752.2  we don't care about degree, we care
+ 2752.52 - 2754.28  about skill and if you know it then you will be
+ 2754.84 - 2757  selected. If you give interview
+ 2757.56 - 2760.12  then interview was scheduled and I
+ 2760.32 - 2762.64  gave many interviews and got selected at some two or three places
+ 2762.72 - 2765.44  and there was a company whose name was
+ 2765.6 - 2768.04  Digit.  Insurance also had an
+ 2768.44 - 2770.72  interview and I performed very well,
+ 2771.12 - 2773.72  I answered about 80-90 questions, mainly it was on
+ 2774.12 - 2775.84  JavaScript, there were
+ 2775.96 - 2776.84  a few questions, so
+ 2778.2 - 2780.04  I answered
+ 2781.04 - 2783.72  and I got selected there. Okay, I
+ 2783.88 - 2785.31  also got marks in the company.  I also joined
+ 2786.04 - 2787.52  but I found Digit to be a very good company,
+ 2787.84 - 2789.88  their brand ambassador was Virat Kohli, so it was
+ 2790.4 - 2793.83  nice to see him and it was a big
+ 2794.08 - 2796.08  company, it had a good product base,
+ 2797.08 - 2799.8  so I decided to join there
+ 2800.24 - 2803  and that was my first company.
+ 2803.32 - 2805.6  I am very thankful to the first interviewer who got selected
+ 2805.8 - 2807.28  because he
+ 2808.2 - 2811.72  valued my skills and he
+ 2812.12 - 2814.64  gave me a chance. I joined Digit Insurance on 22 July 2021
+ 2814.76 - 2816.48  and my
+ 2816.72 - 2818.56  position there was Software Engineer
+ 2819 - 2821.4  and when I got this position, I was  When I went, there
+ 2824.44 - 2826.64  was no limit to my happiness after that as my father had said that
+ 2827.4 - 2829.36  I had become a software engineer and
+ 2832.56 - 2834.88  people who were coming after doing B.Tech, M.Tech or BC MCA were
+ 2835 - 2836.83  sitting next to me.  They were working with me
+ 2837.48 - 2839.83  and there was no difference in salary wise, the
+ 2840 - 2841.92  salary was the same as theirs, mine was the same,
+ 2842.44 - 2845.08  respect is the same, everything is there and
+ 2845.4 - 2846.88  people were respecting me a little more
+ 2847.08 - 2848.92  because I had learned it myself.
+ 2849.04 - 2851.24  Everyone there knew that this guy is self-
+ 2851.4 - 2853.76  taught, he has studied only after 10th, so
+ 2854.16 - 2855.55  my experience inside Digit was very good, there was a
+ 2855.84 - 2857.72  very good team, there was a very friendly team, there were
+ 2858.08 - 2859.92  very good and supportive managers, I
+ 2860.2 - 2862.04  never got any help from anyone inside Digit.  I did
+ 2862.4 - 2864.6  not have to face anything like politics, I used to do my work.
+ 2864.88 - 2867.48  Within my job, I worked only on
+ 2867.68 - 2870.04  HTML, CSS and JavaScript, which means
+ 2870.32 - 2872.24  basically I mainly worked on CSS and JavaScript. For
+ 2872.32 - 2874.64  2 years, I
+ 2874.92 - 2876.84  worked only on CSS and JavaScript.
+ 2877.44 - 2879.08  Because of this, my JavaScript and
+ 2879.16 - 2881.36  CSS became stronger and the core
+ 2881.68 - 2883.4  technologies became stronger and I knew
+ 2883.68 - 2885.72  my work so well.
+ 2885.92 - 2887.4  I knew JavaScript CS
+ 2887.76 - 2889.84  so well that in two years  I
+ 2890.04 - 2891.87  worked and never needed help from any senior.
+ 2892.12 - 2894.32  Whatever problem came,
+ 2894.52 - 2896.28  I used to figure it out on my own.
+ 2896.56 - 2898.92  Whatever, if there is any back end
+ 2899 - 2900.44  problem, any other technology problem, with
+ 2900.76 - 2903.24  whom.  If it is a related problem then maybe
+ 2903.4 - 2905.48  I need to take help from others.
+ 2906.32 - 2908  I did not need to take help from anyone for my work. So
+ 2908.24 - 2910.12  if your fundamental
+ 2910.72 - 2913.36  concept is clear then
+ 2913.6 - 2915.11  you can solve the problem on your own.  If you
+ 2915.2 - 2918.48  know what the problem is, then when
+ 2918.64 - 2920.72  you remain like this, you have
+ 2920.96 - 2923.6  a respect within the company, you are a good person,
+ 2923.84 - 2926.6  people come and ask you, people used to
+ 2926.64 - 2927.68  think that I have a lot of
+ 2927.88 - 2930.19  experience, so whatever there is  People used to come and
+ 2930.48 - 2931.55  ask me, if there is any
+ 2932.08 - 2934.32  problem with JavaScript, they used to ask me only,
+ 2934.48 - 2936.2  even though I am doing it for the first time, I
+ 2936.32 - 2939  am less junior than them, which means I have
+ 2939.44 - 2942.36  less experience than them, still they used to
+ 2942.48 - 2944.23  come and ask me and I was like them.  I used to solve problems also
+ 2944.36 - 2945.92  because my fundamental
+ 2946.48 - 2947.52  concepts were clear, my CSS and
+ 2947.88 - 2950.32  JavaScript were clear, that is why I did
+ 2950.72 - 2952.44  not face any problem in two years
+ 2952.84 - 2955.04  because my work was always clean, I used to complete my
+ 2955.64 - 2957.28  entire work in four-five hours,
+ 2957.6 - 2959.76  after that  I used to learn whatever I had to do,
+ 2959.88 - 2962  then after 5:00 pm I started
+ 2962.12 - 2964.84  playing table tennis.
+ 2964.92 - 2967.91  After 5:30 pm I used to go to play TT and for one year
+ 2968.12 - 2970.6  we played a lot of TT, meaning two, two, three-  Three
+ 2970.92 - 2973.31  hours means I played a lot of TT and my TT had also become
+ 2973.44 - 2975.84  very good and
+ 2976 - 2977.87  no one has any problem because my work is always ready, that is,
+ 2978.24 - 2980.2  whatever work is given,
+ 2980.6 - 2982.68  I keep it working, so when you
+ 2983.04 - 2984.28  know things well.  So
+ 2984.96 - 2987.28  your work gets done very fast, you are
+ 2987.36 - 2988.95  not stuck anywhere, if you face any problem, you will come to
+ 2989.16 - 2990.83  know that it is a problem, it is
+ 2991.4 - 2993.56  very rare, I don't even remember
+ 2993.68 - 2995.16  that I ever got stuck
+ 2995.48 - 2997.76  on any problem.  More days means not even a day, the
+ 2997.96 - 2999.88  problem gets solved immediately. You should know how to
+ 2999.96 - 3003.16  use Google3 well,
+ 3003.48 - 3005.92  so now Chat GPT has come, earlier
+ 3006.52 - 3007.32  Chat GPT was not there, the only
+ 3025.56 - 3027.72  thing I missed is that this is my first
+ 3032.68 - 3036.35  youtube in 1 or 18.  At that time, probably in 2019
+ 3037.04 - 3040.04  or 20, I had started teaching Math on
+ 3053.76 - 3054.76  YouTube1. I had
+ 3055.84 - 3058.84  tried making a chain once before, so this is
+ 3058.96 - 3059.68  not my first time. After
+ 3060.88 - 3062.8  making three videos on YouTube2, I
+ 3063.24 - 3064.79  lost my motivation and stopped it because
+ 3065.16 - 3067.52  in  I was hollow at that time,
+ 3067.72 - 3070.07  meaning I had not done anything myself, what would
+ 3070.44 - 3072.36  I teach to others, so that
+ 3072.48 - 3074.76  confidence was not coming from within, even though
+ 3074.92 - 3076.76  I knew the topics, I knew maths,
+ 3077.4 - 3079.83  but there was a hollow feeling from within.  So that's why
+ 3080 - 3081.6  youtube4 was not closed at that time, my
+ 3083.96 - 3087.28  youtube2 was closed after uploading three videos,
+ 3087.48 - 3091.03  so then I mean it was always in my mind
+ 3091.32 - 3091.76  that on
+ 3110.6 - 3113.64  youtube4, on September 2022, I
+ 3113.84 - 3116.04  uploaded the first video and then on September 10,
+ 3117.08 - 3120.36  2000 22, I uploaded my first video.  Started front end boot camp
+ 3120.64 - 3124.2  and started teaching,
+ 3124.88 - 3127.44  I covered everything very well, whatever
+ 3127.64 - 3129.31  I knew, I had one year of company
+ 3129.64 - 3133.96  experience,
+ 3131.72 - 3133.59  I learned all the things from different courses, I studied
+ 3133.96 - 3136.24  CSS, taught JavaScript and
+ 3136.52 - 3139.55  Then in between everything was going well and it was
+ 3139.72 - 3142.4  growing normally at its own pace. Then
+ 3142.88 - 3145.32  in between we got married. If you will
+ 3145.44 - 3146.88  see some videos of JavaScript set
+ 3147.08 - 3149.75  time out and in the videos of that particular time,
+ 3150.2 - 3152.79  then you will see in my hand.  If you will be
+ 3153 - 3156.15  seen wearing mehendi, then at that time, in the middle of the time, when the
+ 3156.36 - 3157.76  JavaScript project i.e. videos were
+ 3158.12 - 3160.6  going on, the playlist was going on, then
+ 3160.8 - 3162.64  in the middle, we got married and we got settled here in
+ 3162.72 - 3167.56  Bangalore and then everything was going well on
+ 3168.6 - 3171.6  youtube0.  Now it was about to be 2 years, it was
+ 3171.96 - 3174.88  almost 2023, it was 2023, that
+ 3176.96 - 3179.43  means two years were about to go inside Digit and
+ 3180.44 - 3182.28  I was starting to find some work boring, which was
+ 3182.4 - 3184.04  office work because it was the same HTML, CSS
+ 3184.6 - 3186.48  and JavaScript, on top of that
+ 3186.72 - 3189.59  I was  I used to work a little once in a while,
+ 3189.88 - 3191.6  meaning there was not much new left,
+ 3191.76 - 3195.87  almost the same work was to be done every day, there was
+ 3196 - 3197.72  no React in my company, which was a digital
+ 3198.16 - 3199.68  insurance company, Angular was used there,
+ 3199.88 - 3201.88  so I said that Angular was used.
+ 3202.04 - 3203.92  Give us some projects, we will learn Angular, so
+ 3204.04 - 3207.2  I learned Angular,
+ 3207.52 - 3209.2  after learning Angular, I took some Angular projects.
+ 3210.2 - 3212.8  What does project mean, small features, feature
+ 3213.2 - 3214.92  additions, bugs, all this,
+ 3215.76 - 3219.16  I did two or three things, but still
+ 3219.36 - 3221.24  I have to do regular projects with Angular.
+ 3221.36 - 3223.88  I was mainly getting only CSS and
+ 3224 - 3225.44  JavaScript projects for
+ 3226.16 - 3228.24  which I had worked for two years and it was
+ 3228.36 - 3232.12  starting to get a bit boring. Now I mean,
+ 3232.32 - 3233.72  Angular projects were not found there, so
+ 3234.08 - 3236.84  I thought let's try somewhere else.  It will be
+ 3237 - 3239.36  good if I find it somewhere, where
+ 3239.64 - 3240.92  I can work in React because
+ 3241.16 - 3243.24  React was my favorite framework and I had
+ 3243.36 - 3245.04  learned React well,
+ 3246.48 - 3249.56  so I created my profile on Well Found, whose name
+ 3249.76 - 3251.96  was earlier Angel List, and that's it,
+ 3252.2 - 3254.12  I shared my
+ 3254.36 - 3256.67  experience.  I mentioned all my details, whatever I had, on
+ 3257.52 - 3261  Well Found and then from there I got a
+ 3261.24 - 3264.59  message from there itself asking, are
+ 3265.72 - 3268.44  you available for the job, is it open?
+ 3268.72 - 3271.24  So I said yes, I am open
+ 3272 - 3273.55  and there in my report also.  They
+ 3273.8 - 3277.19  also got the resume from there, so basically
+ 3277.72 - 3279.52  it was a UK based company, from there a
+ 3279.88 - 3282.24  UK guy had reached out to me,
+ 3283.12 - 3285.88  so I said yes, I am available,
+ 3286.2 - 3288.72  he said notice period, you mentioned 30 days
+ 3289.12 - 3290.84  in your resume.  So the notice
+ 3291.16 - 3292.99  period is 30 days, I said no, it
+ 3293.2 - 3295.03  is 30 days, not three months, they said,
+ 3295.16 - 3296.48  then why did you mention 30 days,
+ 3296.64 - 3299.31  I said, then the call will not come, if you mention 90
+ 3299.64 - 3301.28  days, you will mention three months, then the call will
+ 3301.44 - 3302.44  not come at all, you reach.  You will not be out,
+ 3302.64 - 3305.16  so I mentioned it like this and he
+ 3305.44 - 3307.11  started laughing and said, ok, no problem, let's
+ 3307.32 - 3307.96  do your interview, we will
+ 3308.84 - 3311.68  see you later, we will wait
+ 3311.8 - 3314.52  or whatever happens, it will be seen, then he
+ 3314.76 - 3315.96  scheduled the interview.
+ 3316.12 - 3320.68  -Different
+ 3317.72 - 3320.19  round was conducted, questions were asked very well, questions were
+ 3320.68 - 3323.08  taken in depth, I
+ 3323.28 - 3325.16  liked the interview very much, I also performed well,
+ 3325.56 - 3327.4  I answered 90 questions
+ 3328.08 - 3330  and I got selected here, then
+ 3330.28 - 3331.76  I told my rejection in my old company.
+ 3332.8 - 3335.88  Resign Resign
+ 3336.68 - 3339.76  Resigned, submitted my resignation letter,
+ 3339.96 - 3341.68  then after three months, I
+ 3341.88 - 3343.68  joined my current company, whose name is
+ 3343.96 - 3346.44  DS Plus, now I work here
+ 3346.72 - 3349.32  even today and this company of ours
+ 3349.8 - 3352.15  is completely remote, so I am still working there.  I am settled in Bangalore
+ 3352.32 - 3354.68  itself and everything is going well,
+ 3355.08 - 3355.92  life is good, I am
+ 3387.64 - 3389.87  living like any software engineer earns, I am living like that, there is
+ 3390.24 - 3392.64  no problem but there are still a lot of things to do
+ 3393.08 - 3394.68  as I wanted to study but  I did
+ 3394.92 - 3396.83  not get the resources, I did not find any good teacher
+ 3397.24 - 3399.56  due to which a lot of my
+ 3399.8 - 3401.76  time was wasted, at one time I found a good teacher
+ 3402.12 - 3404.36  and then I was able to study, so I
+ 3404.56 - 3407  believe that almost every child wants to study,
+ 3407.24 - 3409.28  basically most of the children want to study,
+ 3409.52 - 3411.76  some  Apart from this, all the children
+ 3412.08 - 3414.28  want to study, if they are not able to study, then there is
+ 3414.44 - 3416.64  lack of main resources, there is
+ 3416.96 - 3420.84  lack of good teachers, so my goal is
+ 3421 - 3423.11  that if any child wants to learn web development,
+ 3423.44 - 3426.72  then he should not feel the lack of resources.
+ 3426.92 - 3430.44  Yes, it should be easy to learn and in
+ 3430.84 - 3431.96  depth in details, just
+ 3433.16 - 3437.88  like two plus two is four,
+ 3438.12 - 3440.48  we have no doubt in this, similarly if
+ 3440.68 - 3442.4  someone teaches web development then it will
+ 3442.56 - 3445.12  be as clear as two plus two is four.  So in
+ 3445.36 - 3447.84  that way, only when there is clarity,
+ 3448.16 - 3450.76  you are able to do something, then that clarity
+ 3451.12 - 3454.56  is important and presence of a good teacher is important.
+ 3454.8 - 3456.28  Presence of a good course is
+ 3456.48 - 3458.83  important, that is why I have made my complete front end
+ 3458.96 - 3462.24  course of 148 145 hours.  That
+ 3462.44 - 3465.72  course is a long course, it will take time, if you
+ 3465.84 - 3469.44  follow it, it may take 6 to 8 months, it may
+ 3469.72 - 3471.6  even take 9 months,
+ 3472.6 - 3475.84  depending on how much you can learn
+ 3476 - 3478.84  in a day, if you follow that course.  If you
+ 3478.92 - 3481.4  complete it completely, then you
+ 3484.56 - 3486.76  can also get a job as an Experience Developer, that is, you
+ 3486.88 - 3488.92  can also get an interview for an Experience Developer,
+ 3489.28 - 3491.31  I have covered so many things well there, I have
+ 3491.76 - 3493.27  made and completed the entire course of Front End on
+ 3493.72 - 3496.8  our
+ 3497.08 - 3499.56  youtube3.  There are 1 videos in it and this
+ 3499.76 - 3501.44  course is needed by many children in our country. There are
+ 3501.68 - 3503.8  many children in India
+ 3504 - 3506.11  who want to learn but they are not
+ 3506.4 - 3508.4  getting the right course, are
+ 3508.8 - 3510.84  not getting the right guidance, are not getting the right teacher.
+ 3510.96 - 3514.03  If so, share this course as much as possible,
+ 3514.32 - 3518.12  this channel with your friends or
+ 3518.32 - 3519.72  children who are
+ 3519.84 - 3521.56  interested in learning web development.
+ 3521.8 - 3523.48  Tell them about this course
+ 3523.56 - 3525.68  so that they can learn well what they want to learn.
+ 3525.84 - 3527.68  Get it and if any
+ 3527.84 - 3529.79  doubt comes while learning then I do it live on Google3 every Sunday from
+ 3529.92 - 3532.44  8 pm to 11:00 pm
+ 3532.6 - 3535.08  and I sit for about 3 hours and
+ 3535.2 - 3536.88  any child can come and ask his/her doubts there for free.
+ 3537.08 - 3539.8  All the children come
+ 3540.12 - 3543.2  every day, we do this every Sunday, from
+ 3543.32 - 3545.39  8 to 12 in the night, anyone can join the G Meet and
+ 3545.56 - 3547.32  ask their doubts for free and
+ 3547.56 - 3549.16  we have a Telegram group where
+ 3549.52 - 3551.24  children help each other.  If we do, then
+ 3552.28 - 3555.08  anyone can join that group who is
+ 3555.36 - 3557.72  learning and can take help from other children and
+ 3558 - 3560.28  clear their doubts, so
+ 3561.28 - 3563.92  this is my attempt to do
+ 3564.16 - 3566.63  something for our country, such children who are helpless.  Those
+ 3567.08 - 3568.91  who are not getting the course, are
+ 3569.68 - 3571.72  not getting the right teacher, this course should
+ 3571.96 - 3575.24  reach them and they should be able to learn, this is just my
+ 3575.52 - 3577.52  effort from my side, let me make one thing
+ 3577.68 - 3580.04  clear here that if my course is free then only
+ 3580.2 - 3582.2  free courses are good.  Those who
+ 3582.28 - 3583.8  teach for free or those who teach for free are good, those
+ 3584.4 - 3586.35  who teach paid courses are bad, it is
+ 3586.56 - 3588.56  not so, whoever is the
+ 3588.72 - 3590.68  instructor, whoever is teaching through paid courses
+ 3590.92 - 3593.2  or is teaching for free, howsoever he
+ 3593.32 - 3595.64  is teaching, all are good.  What I myself
+ 3595.96 - 3598.03  learned is that my life has changed because of a paid
+ 3598.36 - 3600.52  course, so it does not happen
+ 3600.64 - 3602.28  that if someone is making a paid course then he is a
+ 3602.6 - 3605.36  scam. Never
+ 3605.84 - 3608.71  look at a paid course and call it a scam, it is okay.  So because
+ 3609.12 - 3610.72  I have learned from paid courses only, I have
+ 3610.88 - 3613.76  taken many paid courses, if you
+ 3614 - 3615.55  cannot afford that course it means simply
+ 3615.96 - 3617.96  that course is not for you, okay if you
+ 3618.24 - 3619.68  can afford it comfortably then that course
+ 3619.92 - 3622.16  is for you.  Although I have
+ 3622.28 - 3624.55  made this entire course for free, so
+ 3624.84 - 3627.04  anyone can access it, now anyone
+ 3627.16 - 3628.76  can access it, the down side of this is
+ 3628.88 - 3630.6  that many people will start and
+ 3630.8 - 3632.64  leave in the middle because of some commitment.
+ 3632.72 - 3634.83  Nothing will be left for them, no, if someone
+ 3635.04 - 3637.04  starts a paid course after watching it, then at
+ 3637.24 - 3638.88  least because of the money, he keeps learning.
+ 3639.16 - 3640.64  My motivation for making this course is
+ 3641.12 - 3643.4  that if any child in our country
+ 3643.72 - 3645.68  wants to learn web development.  So,
+ 3646.64 - 3648.56  due to lack of resources, he should never have the
+ 3649.04 - 3651.32  feeling of being helpless, just like I had the
+ 3651.6 - 3653.52  feeling once when I had to
+ 3653.92 - 3656.16  learn Physics, I was
+ 3656.32 - 3657.59  not able to find any good teacher, no one was explaining it well,
+ 3657.76 - 3659.88  that feeling of helplessness.  The feeling
+ 3660.28 - 3662.68  is very bad, so my
+ 3662.92 - 3664.55  goal is that this course should reach every child,
+ 3664.8 - 3666.72  I will give you the link of this course
+ 3667 - 3668.68  in the description of the video and if you
+ 3668.84 - 3670.16  follow my course, you
+ 3670.4 - 3672  will notice one thing that I never  I do
+ 3672.32 - 3674.87  n't say like share subscribe in any video
+ 3675.72 - 3677.48  because I don't like it, I find it
+ 3677.68 - 3680.04  a bit distracting, I have
+ 3680.44 - 3682.16  not come here to like share subscribe, I will
+ 3682.36 - 3685.36  get that, I don't have it, I
+ 3685.56 - 3687.24  find it distracting, basically it
+ 3687.4 - 3690.07  doesn't suit me.  If I say this then there will be a
+ 3690.76 - 3692.68  bell icon, till date I have never said
+ 3692.8 - 3694.48  share subscribe in any video,
+ 3695.16 - 3697.03  maybe I say comment comment in some comment, if there
+ 3697.16 - 3698.72  is any doubt then you can ask by commenting
+ 3699.52 - 3701.96  but share subscribe in every video
+ 3702.08 - 3703.64  people like  That's it, a template will
+ 3704.44 - 3707.03  come, then the force bell will come, then it will ring,
+ 3707.16 - 3709.11  press the bell on this, I never say all this,
+ 3709.24 - 3711.96  so it does not mean that you do not have to
+ 3712.16 - 3715.6  support, whatever you can do,
+ 3715.8 - 3718.07  you support.  My main goal is that this
+ 3718.28 - 3720.56  course should reach the children in some way, no matter
+ 3720.8 - 3722.72  how they download it, whatever they do, they
+ 3722.88 - 3725.44  watch it. I don't care about likes, shares, subscriptions or
+ 3725.56 - 3727.96  views, just that it should reach them so that
+ 3728.16 - 3730.48  they know that there is something like this.  Even if I
+ 3731.04 - 3732.6  keep it in my local and watch it, I will not
+ 3732.72 - 3734.8  get views. It doesn't matter whether I download it or
+ 3735.4 - 3738.6  watch it, the only thing that matters to me is
+ 3738.84 - 3740.8  that any child who
+ 3740.92 - 3743.88  is helpless, who is in need, should go to this course.
+ 3758.48 - 3761.76  How can it be done without a degree.  We took the job
+ 3762 - 3762.92  and now I am working on
+ 3771.2 - 3774.92  youtube2. If you are in any adverse session,
+ 3775.12 - 3778.04  but if you get good guidance, you get a
+ 3778.2 - 3780.12  good course, you
+ 3780.44 - 3782.59  get a good teacher and if you have the
+ 3782.96 - 3785.8  passion to learn, that is commitment.  So you can also
+ 3785.96 - 3788.04  meet me in your course
+ 3788.12 - 3789.84  till then bye bye

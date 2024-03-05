@@ -1,0 +1,5420 @@
+1
+00:00:00,160 --> 00:00:01,160
+In this video I will tell you my story,
+
+2
+00:00:01,480 --> 00:00:03,800
+how I learned coding by myself and how
+
+3
+00:00:03,920 --> 00:00:05,680
+I took the job of a software engineer
+
+4
+00:00:06,200 --> 00:00:08,590
+and why I left my school and college studies after 10th.
+
+5
+00:00:11,200 --> 00:00:13,590
+Yes, after 10th I only studied in 11th.
+
+6
+00:00:13,680 --> 00:00:15,560
+After that, I did
+
+7
+00:00:16,000 --> 00:00:18,120
+not complete any formal education, yet
+
+8
+00:00:18,280 --> 00:00:19,920
+I have been working as a software engineer for 3 years,
+
+9
+00:00:20,000 --> 00:00:22,350
+so I will tell you this whole story and
+
+10
+00:00:22,600 --> 00:00:25,000
+how you too can learn regardless of
+
+11
+00:00:25,400 --> 00:00:27,680
+your qualification or your
+
+12
+00:00:27,880 --> 00:00:30,920
+background.
+
+13
+00:00:31,280 --> 00:00:32,800
+can also become a coder, you can become a software engineer
+
+14
+00:00:32,920 --> 00:00:35,000
+and you can also get a job, so
+
+15
+00:00:35,120 --> 00:00:36,480
+first let me introduce myself,
+
+16
+00:00:36,960 --> 00:00:38,520
+my name is Anurag Singh and I
+
+17
+00:00:38,760 --> 00:00:40,870
+am a software engineer. For the last 3 years,
+
+18
+00:00:41,000 --> 00:00:42,360
+I have been working as an engineer in Bangalore.
+
+19
+00:00:42,800 --> 00:00:44,710
+working as a software engineer. The name of the first company I joined
+
+20
+00:00:45,000 --> 00:00:46,560
+was Digit Insurance. Now
+
+21
+00:00:47,240 --> 00:00:49,320
+I work remotely for a UK based company.
+
+22
+00:00:49,520 --> 00:00:51,160
+I come from a small village named
+
+23
+00:00:51,400 --> 00:00:53,350
+Birwa Bhani in UP, which is in Gonda district.
+
+24
+00:00:53,440 --> 00:00:55,760
+am near Ayodhya and
+
+25
+00:00:55,960 --> 00:00:56,870
+I have been there for the last one and a half year.
+
+26
+00:01:00,080 --> 00:01:01,720
+I have created a complete course on front end development
+
+27
+00:01:01,880 --> 00:01:04,120
+which you will get on youtube's. In
+
+28
+00:01:05,120 --> 00:01:06,950
+it in the form of a playlist,
+
+29
+00:01:07,200 --> 00:01:08,800
+I covered every single thing which is
+
+30
+00:01:08,880 --> 00:01:10,480
+required in front end.
+
+31
+00:01:10,640 --> 00:01:12,440
+many children have studied from it and they
+
+32
+00:01:12,720 --> 00:01:14,950
+also got jobs and many children are studying every day,
+
+33
+00:01:15,200 --> 00:01:17,360
+watch and comment every day, they like the
+
+34
+00:01:17,520 --> 00:01:19,040
+course and my family
+
+35
+00:01:19,400 --> 00:01:21,520
+background is of agriculture, my father,
+
+36
+00:01:21,920 --> 00:01:24,240
+my grandfather, everyone was a farmer and I.
+
+37
+00:01:24,360 --> 00:01:26,350
+farming with them, used to go to the fields, used to do
+
+38
+00:01:26,800 --> 00:01:28,440
+all the work of the farm,
+
+39
+00:01:28,640 --> 00:01:30,920
+although I, my father used to
+
+40
+00:01:31,000 --> 00:01:33,470
+drive the car along with farming, he was also a driver
+
+41
+00:01:33,600 --> 00:01:36,360
+and my education is from one to eight.
+
+42
+00:01:36,680 --> 00:01:38,280
+My education till then was in Hindi medium.
+
+43
+00:01:38,760 --> 00:01:40,400
+I studied in Hindi medium first from class one to
+
+44
+00:01:40,640 --> 00:01:42,920
+five in Saraswati Shishu Mandir, then from
+
+45
+00:01:43,160 --> 00:01:45,920
+six to eight I studied in a government school
+
+46
+00:01:46,000 --> 00:01:47,640
+and I had a lot of interest in science from the beginning
+
+47
+00:01:47,880 --> 00:01:50,110
+because when we used to sleep at night.
+
+48
+00:01:50,360 --> 00:01:52,880
+My father used to sleep on the terrace, used to
+
+49
+00:01:53,000 --> 00:01:54,920
+talk about aliens, used to talk about other planets, used to talk about
+
+50
+00:01:55,640 --> 00:01:58,360
+many things, how is day and night on earth, used to
+
+51
+00:01:58,600 --> 00:02:00,840
+talk about all these things, so I
+
+52
+00:02:01,000 --> 00:02:02,470
+had a lot of interest in science, that is
+
+53
+00:02:03,040 --> 00:02:05,520
+why I used to read my syllabus book.
+
+54
+00:02:06,040 --> 00:02:08,120
+I used to read other books which were any science
+
+55
+00:02:08,479 --> 00:02:11,720
+books. When I was in eighth six seventh eighth,
+
+56
+00:02:12,040 --> 00:02:14,880
+I used to
+
+57
+00:02:15,000 --> 00:02:17,480
+read science books of class 10th on demand, I used to
+
+58
+00:02:17,720 --> 00:02:19,590
+bring books of my cousins ​​and I used to
+
+59
+00:02:19,880 --> 00:02:22,000
+read from them.
+
+60
+00:02:22,440 --> 00:02:25,160
+is, I used to get good marks in the middle of 7080.
+
+61
+00:02:27,240 --> 00:02:29,520
+I never topped and there was no pressure from my house
+
+62
+00:02:29,600 --> 00:02:32,080
+either from father or mother, we just used to
+
+63
+00:02:32,240 --> 00:02:34,200
+study.
+
+64
+00:02:34,680 --> 00:02:37,120
+and whatever interested us, whatever we liked,
+
+65
+00:02:37,320 --> 00:02:39,800
+we used to study the same and then in the middle,
+
+66
+00:02:39,960 --> 00:02:41,390
+I started getting very interested in Maths. The
+
+67
+00:02:41,880 --> 00:02:43,640
+reason for getting interested in Maths was one of
+
+68
+00:02:43,800 --> 00:02:46,040
+our Sonu Bhaiya, he took a lot of
+
+69
+00:02:47,240 --> 00:02:49,960
+interest in my Maths.
+
+70
+00:02:50,160 --> 00:02:52,590
+that we can measure the height of the tree we are looking at without
+
+71
+00:02:52,840 --> 00:02:55,070
+climbing it. How can we measure the height of the tree with the help of Maths? There is
+
+72
+00:02:55,520 --> 00:02:57,520
+a trigonometry in Maths,
+
+73
+00:02:57,760 --> 00:02:59,760
+after that I started getting
+
+74
+00:03:00,040 --> 00:03:01,480
+very interested in Maths too. I felt that it was
+
+75
+00:03:01,560 --> 00:03:03,080
+real.
+
+76
+00:03:03,320 --> 00:03:05,870
+so I got interested in science and maths
+
+77
+00:03:06,080 --> 00:03:08,230
+because of my father, I got interested in maths
+
+78
+00:03:08,520 --> 00:03:10,680
+because of Sonu Bhaiya, then both of them
+
+79
+00:03:10,960 --> 00:03:12,440
+were my favorite subjects, I always used to
+
+80
+00:03:12,720 --> 00:03:15,790
+study them and also got good marks in the class.
+
+81
+00:03:15,920 --> 00:03:18,310
+pass, meaning there was no bad
+
+82
+00:03:18,680 --> 00:03:19,840
+student, there was no very good student
+
+83
+00:03:20,240 --> 00:03:22,200
+but I used to pass,
+
+84
+00:03:22,440 --> 00:03:24,200
+my third and fourth rank in the class was like this, I
+
+85
+00:03:24,360 --> 00:03:26,870
+never even got second, I only got
+
+86
+00:03:27,160 --> 00:03:29,040
+third, fourth or fifth like this.
+
+87
+00:03:29,240 --> 00:03:31,640
+and no one has any problem, I used to
+
+88
+00:03:31,760 --> 00:03:34,000
+study comfortably, what happened once was that
+
+89
+00:03:34,560 --> 00:03:36,670
+when I was in 8th class, I used to come from school,
+
+90
+00:03:36,880 --> 00:03:40,070
+my bag was on the bicycle and I used to
+
+91
+00:03:40,800 --> 00:03:43,920
+park the bicycle and then
+
+92
+00:03:44,200 --> 00:03:46,470
+eat food.
+
+93
+00:03:46,680 --> 00:03:48,840
+means my bag used to remain attached to the same bicycle.
+
+94
+00:03:49,080 --> 00:03:52,040
+When my father
+
+95
+00:03:52,240 --> 00:03:53,990
+saw that my bag remained attached to the bicycle for many days, the
+
+96
+00:03:54,240 --> 00:03:56,400
+bag itself did not come off, then he said
+
+97
+00:03:56,560 --> 00:03:59,400
+that the bagwa should not be taken off.
+
+98
+00:04:00,040 --> 00:04:01,760
+period language, in that language
+
+99
+00:04:01,840 --> 00:04:03,950
+they said that you don't take off your bag, what do you
+
+100
+00:04:04,240 --> 00:04:06,240
+mean don't you read? Did I say I read?
+
+101
+00:04:06,400 --> 00:04:09,310
+Secondly, I mean I have asked for the books of Akash bhaiya and Ashish
+
+102
+00:04:09,720 --> 00:04:12,040
+bhaiya, I
+
+103
+00:04:12,160 --> 00:04:15,120
+basically read those books of ours.
+
+104
+00:04:15,320 --> 00:04:17,560
+means cousin, so I used to read his books on
+
+105
+00:04:17,800 --> 00:04:19,680
+science and maths. He said ok,
+
+106
+00:04:19,880 --> 00:04:22,560
+no problem, this was the situation, that is, I
+
+107
+00:04:22,880 --> 00:04:25,440
+was not even touched by school, so
+
+108
+00:04:25,560 --> 00:04:27,870
+my English was not good in earth class, I basically
+
+109
+00:04:28,360 --> 00:04:29,640
+studied in Hindi medium.
+
+110
+00:04:30,200 --> 00:04:31,760
+like every Hindi medium student
+
+111
+00:04:31,920 --> 00:04:34,160
+has, similarly I also had English. Then what
+
+112
+00:04:34,600 --> 00:04:37,240
+happened was that once it was Republic Day in our school
+
+113
+00:04:37,600 --> 00:04:40,120
+or I think it must have been 15th August
+
+114
+00:04:40,400 --> 00:04:42,560
+or 26th January, then a friend in it
+
+115
+00:04:42,800 --> 00:04:45,000
+said let's go next door.
+
+116
+00:04:45,440 --> 00:04:48,830
+where it is a very good school. Let's
+
+117
+00:04:48,960 --> 00:04:50,990
+go and see it. So, I went with him to
+
+118
+00:04:51,200 --> 00:04:53,920
+see it there on 15th August. I found the school
+
+119
+00:04:54,160 --> 00:04:55,440
+very big, I liked it very much and it
+
+120
+00:04:55,600 --> 00:04:57,560
+was an English medium school and we
+
+121
+00:04:57,680 --> 00:04:59,230
+didn't even know about it.
+
+122
+00:04:59,640 --> 00:05:02,760
+distance of 45 kilometers 34 kilometers from us, so
+
+123
+00:05:03,000 --> 00:05:04,400
+I told at home that I want to
+
+124
+00:05:04,760 --> 00:05:07,840
+study in an English medium school, then mother talked to father,
+
+125
+00:05:07,960 --> 00:05:10,520
+then father took me and my sister
+
+126
+00:05:10,680 --> 00:05:12,760
+on a bicycle and took me there.
+
+127
+00:05:13,760 --> 00:05:16,070
+And I said that he has already
+
+128
+00:05:16,560 --> 00:05:18,720
+passed 8th class. I had passed 8th
+
+129
+00:05:18,880 --> 00:05:20,680
+in Hindi medium. He said
+
+130
+00:05:20,880 --> 00:05:22,640
+that you should take admission in 8th again
+
+131
+00:05:22,720 --> 00:05:25,080
+or study again. Then he said
+
+132
+00:05:25,480 --> 00:05:27,480
+first or second class.
+
+133
+00:05:27,840 --> 00:05:29,950
+Gave me a science book and said, read this and see what is
+
+134
+00:05:30,200 --> 00:05:32,480
+written in it. I was
+
+135
+00:05:32,600 --> 00:05:35,470
+not able to read even a single word of it. Just
+
+136
+00:05:36,040 --> 00:05:38,430
+this is M is this. I was able to read only these words which are of two or three letters. They were
+
+137
+00:05:40,600 --> 00:05:42,560
+important.
+
+138
+00:05:42,760 --> 00:05:44,880
+he said that it is not possible for him to get
+
+139
+00:05:45,240 --> 00:05:47,240
+admission in Hindi English medium,
+
+140
+00:05:47,440 --> 00:05:49,120
+so I said that he should do it
+
+141
+00:05:49,480 --> 00:05:51,160
+in the seventh class, he said, it is
+
+142
+00:05:51,280 --> 00:05:53,200
+not possible, that is, it is not a first class
+
+143
+00:05:53,440 --> 00:05:56,520
+book.
+
+144
+00:05:56,720 --> 00:05:59,840
+how will this work be done? They are
+
+145
+00:06:00,160 --> 00:06:01,880
+not able to read books of first class only, all the
+
+146
+00:06:02,120 --> 00:06:05,520
+children can read easily, so I said,
+
+147
+00:06:05,760 --> 00:06:08,800
+you take me in seventh class, I will work
+
+148
+00:06:08,960 --> 00:06:11,760
+very hard, I will study day and night.
+
+149
+00:06:11,880 --> 00:06:13,720
+learn to read English, he said
+
+150
+00:06:13,960 --> 00:06:15,960
+no, meaning it is not possible, I said, you
+
+151
+00:06:16,080 --> 00:06:18,360
+take me in the sixth class, he accepted the
+
+152
+00:06:18,720 --> 00:06:20,920
+defeat and said, okay, I will take
+
+153
+00:06:21,080 --> 00:06:22,910
+admission in the sixth class, so I got
+
+154
+00:06:23,480 --> 00:06:25,280
+admission in the sixth class and I am in
+
+155
+00:06:25,400 --> 00:06:27,000
+my class.
+
+156
+00:06:27,120 --> 00:06:29,870
+I was the first boy in the village to go to an English medium school. When I went there,
+
+157
+00:06:30,120 --> 00:06:32,160
+all the children, that is, everyone knew English,
+
+158
+00:06:32,320 --> 00:06:35,120
+everyone could write and
+
+159
+00:06:35,480 --> 00:06:37,520
+read very easily, no one spoke it, everyone
+
+160
+00:06:37,640 --> 00:06:38,960
+spoke in Hindi but at least
+
+161
+00:06:39,320 --> 00:06:41,240
+read less books and used to write. When the teacher
+
+162
+00:06:41,560 --> 00:06:43,560
+spoke, I used to note it down. I did
+
+163
+00:06:44,200 --> 00:06:45,840
+not know it, so I worked very
+
+164
+00:06:46,080 --> 00:06:48,080
+hard, bought a lot of dictionaries and learned a lot.
+
+165
+00:06:48,520 --> 00:06:51,480
+Gradually, within a year,
+
+166
+00:06:51,960 --> 00:06:54,560
+I became English meaning.
+
+167
+00:06:54,680 --> 00:06:56,710
+I reached the level where I could read and write, I worked very hard
+
+168
+00:06:56,960 --> 00:06:59,590
+and then I became at par with all the students. By the time
+
+169
+00:06:59,680 --> 00:07:01,360
+I was in seventh grade,
+
+170
+00:07:02,360 --> 00:07:05,320
+my maths, Hindi and other
+
+171
+00:07:05,640 --> 00:07:09,160
+subjects like science were quite good, so they were
+
+172
+00:07:09,440 --> 00:07:11,470
+not as good as those people.
+
+173
+00:07:11,600 --> 00:07:14,000
+studied till A so I already knew all the
+
+174
+00:07:14,200 --> 00:07:16,280
+things. I could solve Maths very easily.
+
+175
+00:07:16,480 --> 00:07:18,200
+Hindi was from Hindi medium so
+
+176
+00:07:18,280 --> 00:07:20,120
+Hindi was good and the rest of the subjects
+
+177
+00:07:20,800 --> 00:07:22,280
+were quite good for me just because of English.
+
+178
+00:07:22,400 --> 00:07:25,440
+That was also a problem and in one year I had
+
+179
+00:07:25,680 --> 00:07:28,070
+done English well and had made it at
+
+180
+00:07:28,200 --> 00:07:30,400
+par with them, then in seventh I worked harder and
+
+181
+00:07:30,720 --> 00:07:33,360
+got a little better. Then in Earth
+
+182
+00:07:33,480 --> 00:07:35,000
+I did an English course, an English
+
+183
+00:07:35,400 --> 00:07:37,960
+speaking course, which helped me to improve my English speaking skills.
+
+184
+00:07:38,080 --> 00:07:40,630
+came to know English well, meaning in a way,
+
+185
+00:07:40,760 --> 00:07:42,750
+I started writing down whatever I could think in my mind, so
+
+186
+00:07:42,920 --> 00:07:46,120
+I read Six Seven Eighth twice, once in
+
+187
+00:07:46,280 --> 00:07:48,150
+Hindi medium, once in English medium
+
+188
+00:07:48,760 --> 00:07:51,190
+and when I was in Earth and then after that
+
+189
+00:07:51,480 --> 00:07:54,240
+in ninth grade, my father asked me,
+
+190
+00:07:54,440 --> 00:07:56,550
+'What are you going to become? I had
+
+191
+00:07:56,880 --> 00:07:59,000
+no idea, I thought becoming a scientist or an
+
+192
+00:07:59,520 --> 00:08:01,960
+astronaut is what everyone has, it is
+
+193
+00:08:02,480 --> 00:08:04,760
+a dream. He said that
+
+194
+00:08:05,000 --> 00:08:07,240
+software engineer is a great job.
+
+195
+00:08:08,080 --> 00:08:09,560
+You try to
+
+196
+00:08:10,040 --> 00:08:11,510
+see how one becomes a software engineer and what one has to study.
+
+197
+00:08:12,200 --> 00:08:13,480
+From there I came to know that there is
+
+198
+00:08:14,000 --> 00:08:16,470
+something like a software engineer and this is how they came to know
+
+199
+00:08:16,680 --> 00:08:18,910
+that the one whose car he used to drive was a
+
+200
+00:08:19,120 --> 00:08:20,720
+driver and the children of those who used to drive his car were
+
+201
+00:08:20,920 --> 00:08:23,590
+software engineers.
+
+202
+00:08:23,720 --> 00:08:25,440
+he came to know that a software engineer has a
+
+203
+00:08:25,600 --> 00:08:27,360
+good job and a good salary,
+
+204
+00:08:27,600 --> 00:08:29,800
+so he said that an engineer's
+
+205
+00:08:29,960 --> 00:08:33,080
+job is good, try it, you
+
+206
+00:08:33,320 --> 00:08:36,320
+see, I said, okay, we will see, then
+
+207
+00:08:37,320 --> 00:08:40,039
+I will be in the ninth.
+
+208
+00:08:40,240 --> 00:08:42,030
+admission in ninth class. There was no college in the village,
+
+209
+00:08:42,159 --> 00:08:44,880
+no school. Basically, we had to
+
+210
+00:08:45,280 --> 00:08:47,480
+come to the city. After coming to the city, my
+
+211
+00:08:47,720 --> 00:08:51,200
+father got me admitted in the school and at that time, my
+
+212
+00:08:51,720 --> 00:08:54,830
+father's salary was Rs. 5000 and my salary was Rs. 5000.
+
+213
+00:08:55,120 --> 00:08:58,560
+fee was Rs 1500, meaning the school
+
+214
+00:08:58,680 --> 00:09:01,640
+fee was Rs 00, then when I did coaching,
+
+215
+00:09:01,760 --> 00:09:03,400
+two and a half rupees were spent on my studies,
+
+216
+00:09:03,600 --> 00:09:06,080
+half my salary was spent on my studies
+
+217
+00:09:06,160 --> 00:09:10,520
+and then it was around Rs 12 1 or 14
+
+218
+00:09:10,840 --> 00:09:13,060
+15.
+
+219
+00:09:13,400 --> 00:09:19,560
+so
+
+220
+00:09:15,640 --> 00:09:19,440
+I studied like this in ninth and 10th and
+
+221
+00:09:19,560 --> 00:09:22,440
+when I finished my 10th by giving exams,
+
+222
+00:09:22,880 --> 00:09:24,240
+my father met with an accident
+
+223
+00:09:28,120 --> 00:09:30,840
+and was returning home after doing his duty.
+
+224
+00:09:31,280 --> 00:09:33,560
+about 2 kilometers away from home, he had an
+
+225
+00:09:33,840 --> 00:09:35,400
+accident with his bike, he was hit by some vehicle
+
+226
+00:09:35,680 --> 00:09:38,560
+and then he passed by. When
+
+227
+00:09:38,760 --> 00:09:40,720
+I went there, I
+
+228
+00:09:46,360 --> 00:09:48,950
+mean, there was no scratch on his body, but
+
+229
+00:09:49,160 --> 00:09:51,360
+his
+
+230
+00:09:51,600 --> 00:09:53,800
+touching the chest, it felt as if there
+
+231
+00:09:54,080 --> 00:09:55,880
+was a stomach, meaning there were no bones there.
+
+232
+00:09:56,640 --> 00:09:59,240
+Then they took him to the hospital, there was no use, they
+
+233
+00:09:59,360 --> 00:10:02,520
+just took him and I was there, meaning I did
+
+234
+00:10:02,880 --> 00:10:05,720
+n't cry, I couldn't cry.
+
+235
+00:10:05,920 --> 00:10:08,120
+I cry, what will happen to my mother, my siblings
+
+236
+00:10:08,280 --> 00:10:10,240
+because at that time I
+
+237
+00:10:10,480 --> 00:10:12,870
+was the oldest male in my family, my
+
+238
+00:10:13,120 --> 00:10:15,200
+grandfather had already passed out two-three
+
+239
+00:10:15,600 --> 00:10:18,950
+years ago and I was the eldest male.
+
+240
+00:10:19,160 --> 00:10:21,560
+I thought, don't cry, I was feeling like crying
+
+241
+00:10:21,640 --> 00:10:23,680
+but still I was controlling
+
+242
+00:10:23,880 --> 00:10:27,640
+myself, then I thought
+
+243
+00:10:27,880 --> 00:10:31,160
+what to do now, there is nothing, now I
+
+244
+00:10:31,560 --> 00:10:33,680
+won't even be able to study, but still my mother told
+
+245
+00:10:34,000 --> 00:10:36,030
+me.
+
+246
+00:10:36,160 --> 00:10:37,640
+my father's responsibility, she took
+
+247
+00:10:38,040 --> 00:10:41,800
+up it. She used to work as an Asha Asha worker and whatever
+
+248
+00:10:42,000 --> 00:10:44,920
+money she got from doing Hajj, she did
+
+249
+00:10:45,200 --> 00:10:48,270
+not get more than this, she took care of my education,
+
+250
+00:10:48,600 --> 00:10:51,160
+household expenses and our farm.
+
+251
+00:10:51,400 --> 00:10:54,230
+gave it on lease, basically the farm is given on lease like this, we get
+
+252
+00:10:54,360 --> 00:10:55,920
+some money in a year,
+
+253
+00:10:56,160 --> 00:10:59,470
+203 thousand rupees were earned in a year, so we
+
+254
+00:10:59,880 --> 00:11:03,080
+gave the farm on lease and
+
+255
+00:11:03,320 --> 00:11:05,200
+father had some money from LIC, which
+
+256
+00:11:05,520 --> 00:11:08,680
+is work.
+
+257
+00:11:08,880 --> 00:11:12,040
+so I went to school in 11th also, the same
+
+258
+00:11:12,360 --> 00:11:15,040
+school, yes but no, I studied 10th,
+
+259
+00:11:15,160 --> 00:11:18,750
+I used to go to school in 11th also and we had a sir,
+
+260
+00:11:18,920 --> 00:11:22,390
+Rupesh sir, when he came to know that my
+
+261
+00:11:22,640 --> 00:11:24,760
+father.
+
+262
+00:11:25,000 --> 00:11:26,950
+math coaching. Earlier too, I used to study from them only.
+
+263
+00:11:27,040 --> 00:11:29,920
+They made my math coaching
+
+264
+00:11:30,040 --> 00:11:32,440
+free, but the school
+
+265
+00:11:32,520 --> 00:11:35,120
+fees were to be paid by the school and I used to
+
+266
+00:11:35,440 --> 00:11:38,200
+pay the fees for other coachings.
+
+267
+00:11:38,440 --> 00:11:39,520
+knew this way that if we want to
+
+268
+00:11:40,040 --> 00:11:42,200
+become a software engineer then we will have to do IIT, after
+
+269
+00:11:42,360 --> 00:11:44,200
+IIT then we will have to do B.Tech, only
+
+270
+00:11:45,080 --> 00:11:46,880
+after that we can dream of becoming a software engineer,
+
+271
+00:11:46,960 --> 00:11:49,840
+so basically to
+
+272
+00:11:50,360 --> 00:11:52,080
+do IIT, Physics and Math are important,
+
+273
+00:11:52,200 --> 00:11:54,000
+very important.
+
+274
+00:11:54,240 --> 00:11:56,150
+also had interest, I used to study on my own till 10th
+
+275
+00:11:56,280 --> 00:11:57,880
+and understood everything but
+
+276
+00:11:58,640 --> 00:12:00,720
+when I went to 11th class,
+
+277
+00:12:01,280 --> 00:12:03,200
+I was managing Maths, I was able to understand by
+
+278
+00:12:03,440 --> 00:12:05,510
+studying on my own and
+
+279
+00:12:05,760 --> 00:12:07,670
+coaching. What does coaching mean? I was learning it on my own
+
+280
+00:12:07,880 --> 00:12:11,760
+and I mean, one who studied in coaching,
+
+281
+00:12:11,880 --> 00:12:14,760
+coaching also helped, but I was
+
+282
+00:12:15,280 --> 00:12:17,120
+not able to understand physics on my own.
+
+283
+00:12:17,320 --> 00:12:19,800
+I got totally troubled in physics.
+
+284
+00:12:19,920 --> 00:12:21,800
+Physics was one.
+
+285
+00:12:22,160 --> 00:12:24,440
+very favorite subject was Physics. I
+
+286
+00:12:24,680 --> 00:12:26,320
+tried hard to study on my own. I
+
+287
+00:12:26,640 --> 00:12:29,320
+bought different books. I went to different coaching
+
+288
+00:12:29,640 --> 00:12:35,320
+institutes.
+
+289
+00:12:35,320 --> 00:12:38,750
+I went to all the coaching institutes in our district in Gonda, about three-four.
+
+290
+00:12:38,920 --> 00:12:41,560
+went to institutes where I
+
+291
+00:12:42,480 --> 00:12:45,000
+thought that someone or the other would teach Physics
+
+292
+00:12:45,640 --> 00:12:47,240
+but no one was teaching it properly, that
+
+293
+00:12:47,440 --> 00:12:50,120
+is, everyone was telling that it will
+
+294
+00:12:50,440 --> 00:12:53,800
+come in your exam and you should focus on it and
+
+295
+00:12:54,000 --> 00:12:56,080
+it will clear your exam whereas
+
+296
+00:12:56,480 --> 00:12:59,040
+I had never studied for exams in the beginning
+
+297
+00:12:59,200 --> 00:13:01,280
+and I could not understand
+
+298
+00:13:01,400 --> 00:13:03,430
+why we should study for exams, meaning we have to
+
+299
+00:13:03,600 --> 00:13:05,710
+study to understand, we have to study so
+
+300
+00:13:06,040 --> 00:13:07,630
+that we can use that thing in our life.
+
+301
+00:13:11,160 --> 00:13:14,270
+I have tried a lot of things in my life, I
+
+302
+00:13:14,560 --> 00:13:16,480
+went to a lot of coachings, but I did
+
+303
+00:13:16,840 --> 00:13:19,230
+not do any workout, no one was able to teach me properly, everyone was
+
+304
+00:13:20,160 --> 00:13:22,360
+basically teaching me to clear the exams,
+
+305
+00:13:22,520 --> 00:13:25,040
+which was not my motive, the
+
+306
+00:13:25,400 --> 00:13:27,080
+exam must be cleared.
+
+307
+00:13:27,320 --> 00:13:29,240
+understood the exam then I
+
+308
+00:13:29,360 --> 00:13:31,350
+will definitely crack it, I will crack it at 70-80 marks. I
+
+309
+00:13:31,560 --> 00:13:33,920
+was so confident. Just explain the topic to me. If
+
+310
+00:13:34,560 --> 00:13:37,480
+no one could explain then my interest
+
+311
+00:13:37,760 --> 00:13:41,150
+in studies reduced a lot and that was my only
+
+312
+00:13:41,480 --> 00:13:44,390
+hope.
+
+313
+00:13:44,840 --> 00:13:46,270
+then become a software engineer and do B.Tech.
+
+314
+00:13:46,760 --> 00:13:48,840
+All that started to fade away. Gradually, I
+
+315
+00:13:49,160 --> 00:13:51,640
+lost interest in studies.
+
+316
+00:13:54,120 --> 00:13:57,030
+Even after wandering in so many coachings, when I did not understand Physics, no
+
+317
+00:13:57,160 --> 00:13:58,470
+teacher taught me Physics.
+
+318
+00:13:59,280 --> 00:14:01,280
+I was feeling very helpless, I was
+
+319
+00:14:01,480 --> 00:14:04,840
+suddenly broken from within, that is,
+
+320
+00:14:05,320 --> 00:14:07,350
+I am not able to understand on my own and
+
+321
+00:14:07,600 --> 00:14:09,670
+no teacher is able to teach me, what should I do now, that is, I
+
+322
+00:14:09,840 --> 00:14:12,400
+suddenly lost my desire to study.
+
+323
+00:14:12,680 --> 00:14:14,400
+because I was not able to understand what was my favorite subject, so
+
+324
+00:14:18,640 --> 00:14:20,280
+somehow I gave the 11th exam and till date
+
+325
+00:14:20,520 --> 00:14:22,390
+I have not seen the result of the exam. Have
+
+326
+00:14:22,840 --> 00:14:24,680
+I passed or failed in 11th?
+
+327
+00:14:25,000 --> 00:14:26,750
+Basically who is in 11th?
+
+328
+00:14:27,000 --> 00:14:29,000
+might have passed by some marks but I did
+
+329
+00:14:29,240 --> 00:14:31,270
+not see the result. There was a time when it was like this, that is,
+
+330
+00:14:31,440 --> 00:14:33,600
+at my house, my mother knew,
+
+331
+00:14:33,800 --> 00:14:35,560
+my siblings, everyone knew that I was not
+
+332
+00:14:35,720 --> 00:14:37,160
+studying, I was not going to school,
+
+333
+00:14:38,040 --> 00:14:40,280
+but
+
+334
+00:14:40,480 --> 00:14:42,760
+not told anything to my neighbors that I was not
+
+335
+00:14:42,880 --> 00:14:44,320
+studying or completing 12th.
+
+336
+00:14:44,480 --> 00:14:47,280
+Then when the 12th exam happened, everyone asked how many
+
+337
+00:14:47,520 --> 00:14:49,640
+marks I got. I said, I got 70 marks.
+
+338
+00:14:49,960 --> 00:14:52,320
+I told everyone that I have passed.
+
+339
+00:14:53,320 --> 00:14:56,230
+but then I thought that I will do it later, I will tell you whether I will
+
+340
+00:14:59,040 --> 00:15:02,710
+do it from UP board or any government board, then after that
+
+341
+00:15:03,720 --> 00:15:06,440
+everyone said that mummy said and those who
+
+342
+00:15:06,720 --> 00:15:08,630
+knew that I did not do it, those people
+
+343
+00:15:08,880 --> 00:15:11,560
+Said that do it from any medium,
+
+344
+00:15:11,680 --> 00:15:14,000
+do it from UP board only, then there is
+
+345
+00:15:14,640 --> 00:15:17,000
+NIOS board, basically like IGNOU,
+
+346
+00:15:17,520 --> 00:15:19,630
+many people do BCA from IGNOU, then it is open
+
+347
+00:15:20,000 --> 00:15:21,360
+schooling, similarly there is NIOS board, you have to
+
+348
+00:15:21,640 --> 00:15:23,240
+fill the form.
+
+349
+00:15:23,480 --> 00:15:26,120
+submit assignments and that is
+
+350
+00:15:26,600 --> 00:15:28,680
+online, that is, you learn like this, there is
+
+351
+00:15:28,840 --> 00:15:30,160
+no class, basically distance
+
+352
+00:15:30,640 --> 00:15:32,360
+learning, study on your own and after giving the exam,
+
+353
+00:15:33,360 --> 00:15:35,680
+I filled the form from that, I did
+
+354
+00:15:36,080 --> 00:15:38,480
+not increase my studies, that means I did not do any study,
+
+355
+00:15:38,600 --> 00:15:40,270
+my
+
+356
+00:15:40,400 --> 00:15:41,840
+understand, I was not able to understand, from where I should
+
+357
+00:15:41,920 --> 00:15:45,160
+study, the same was my favorite subject, I was
+
+358
+00:15:45,280 --> 00:15:46,480
+not able to understand, what will I do then, what will I do after
+
+359
+00:15:46,600 --> 00:15:48,680
+studying, so
+
+360
+00:15:49,400 --> 00:15:51,440
+then I gave the exam for NVS Board.
+
+361
+00:15:51,800 --> 00:15:54,160
+Gave my 12th exam and this was the first time that
+
+362
+00:15:54,240 --> 00:15:55,560
+I had failed because I had
+
+363
+00:15:55,800 --> 00:15:57,120
+not studied anything at all, I just went and gave the exam, the
+
+364
+00:16:00,280 --> 00:16:02,680
+results of all the subjects except English were
+
+365
+00:16:03,040 --> 00:16:05,000
+in single digits.
+
+366
+00:16:05,120 --> 00:16:08,160
+see my 9th and
+
+367
+00:16:08,360 --> 00:16:10,560
+12th result, basically I
+
+368
+00:16:10,680 --> 00:16:13,070
+failed, I failed miserably in it,
+
+369
+00:16:13,160 --> 00:16:15,430
+then the head of Anas Board said that
+
+370
+00:16:16,200 --> 00:16:17,680
+you fill it with Hindi medium.
+
+371
+00:16:17,960 --> 00:16:19,830
+Children pass, most of the people pass, everyone
+
+372
+00:16:20,040 --> 00:16:21,960
+passes. I
+
+373
+00:16:22,200 --> 00:16:23,670
+filled it in Hindi medium. I filled it in Hindi medium from the board itself and
+
+374
+00:16:23,920 --> 00:16:25,880
+then gave the exam again.
+
+375
+00:16:26,240 --> 00:16:29,200
+Same situation happened again only
+
+376
+00:16:29,840 --> 00:16:31,120
+in some subjects like Hindi and English and
+
+377
+00:16:31,920 --> 00:16:33,390
+Hindi in it.
+
+378
+00:16:33,800 --> 00:16:35,720
+which the number was in two digits and in Physics
+
+379
+00:16:36,160 --> 00:16:38,070
+also the number was in two digits and in all the rest again
+
+380
+00:16:38,360 --> 00:16:40,120
+in single digit and I
+
+381
+00:16:40,520 --> 00:16:42,480
+failed again. After that I said
+
+382
+00:16:42,680 --> 00:16:44,960
+leave it, I will not do all this with my school and
+
+383
+00:16:45,240 --> 00:16:47,080
+coaching.
+
+384
+00:16:47,720 --> 00:16:49,720
+told my mother, "Mummy, buy a laptop
+
+385
+00:16:50,040 --> 00:16:52,510
+for me, I will learn coding and create apps,
+
+386
+00:16:53,240 --> 00:16:56,120
+I will become an app developer. She
+
+387
+00:16:56,400 --> 00:16:58,160
+somehow bought a laptop for me. She
+
+388
+00:16:59,000 --> 00:17:01,110
+collected some money and bought a Dell laptop.
+
+389
+00:17:02,120 --> 00:17:05,480
+So I thought that
+
+390
+00:17:05,800 --> 00:17:07,950
+It was on August 10, 2016, when I
+
+391
+00:17:08,160 --> 00:17:10,240
+got my first laptop. I thought that
+
+392
+00:17:10,359 --> 00:17:12,280
+in this we will learn coding, we will create an app.
+
+393
+00:17:12,760 --> 00:17:14,910
+I downloaded And Studio. I came to
+
+394
+00:17:15,119 --> 00:17:17,069
+know from somewhere that basically a friend of mine
+
+395
+00:17:17,359 --> 00:17:19,760
+told me that we can learn app development from And Studio.
+
+396
+00:17:20,400 --> 00:17:22,510
+can do it and my friend was already
+
+397
+00:17:22,760 --> 00:17:24,400
+doing Diploma in Computer Science,
+
+398
+00:17:24,480 --> 00:17:27,240
+his name is Faiz, his name is Faiz Ilahi
+
+399
+00:17:27,680 --> 00:17:29,840
+and today he works with me here in Bangalore,
+
+400
+00:17:29,960 --> 00:17:32,670
+so he is currently working in my old company.
+
+401
+00:17:32,840 --> 00:17:36,520
+Said,
+
+402
+00:17:35,040 --> 00:17:36,280
+install A Studio and we will develop the app. When we
+
+403
+00:17:36,520 --> 00:17:38,640
+installed it,
+
+404
+00:17:38,880 --> 00:17:40,830
+its interface was so dangerous, we could not understand anything,
+
+405
+00:17:40,960 --> 00:17:43,270
+so we thought that we should learn Java language for this. It
+
+406
+00:17:58,480 --> 00:18:01,600
+was not for Java, so nothing happened, it means we just
+
+407
+00:18:01,880 --> 00:18:03,550
+installed it.
+
+408
+00:18:04,160 --> 00:18:06,040
+installed, after that no progress was
+
+409
+00:18:06,160 --> 00:18:08,280
+made, tried for a month and a half, but
+
+410
+00:18:08,680 --> 00:18:10,710
+what is half a month, tried only for 1015 days
+
+411
+00:18:11,200 --> 00:18:13,120
+but nothing happened, means no course was
+
+412
+00:18:13,240 --> 00:18:15,520
+found, no proper guidance.
+
+413
+00:18:15,760 --> 00:18:17,960
+what to learn first and what to do later, so I left it, that
+
+414
+00:18:18,200 --> 00:18:20,670
+too means I uninstalled End Studio
+
+415
+00:18:20,920 --> 00:18:23,400
+and downloaded A49 game in it,
+
+416
+00:18:23,560 --> 00:18:25,760
+I used to sit there and play the whole day and
+
+417
+00:18:25,880 --> 00:18:29,120
+then later the same
+
+418
+00:18:29,400 --> 00:18:31,480
+friend Faiz himself told me that
+
+419
+00:18:31,680 --> 00:18:34,790
+Learn C language. At least if you learn C language
+
+420
+00:18:35,360 --> 00:18:37,960
+then basically it is basic fundamental.
+
+421
+00:18:38,200 --> 00:18:41,040
+Whatever is the language of a language, everything
+
+422
+00:18:41,280 --> 00:18:43,600
+starts from C, so he
+
+423
+00:18:44,000 --> 00:18:46,720
+recommended Saurabh Shukla sir's channel, so
+
+424
+00:18:47,080 --> 00:18:48,200
+I started watching it, I liked it a lot and
+
+425
+00:18:48,440 --> 00:18:50,280
+understood programming.
+
+426
+00:18:55,680 --> 00:18:58,830
+understanding conditional false loops and arrays and all the things, so I learned C from them, I
+
+427
+00:18:59,320 --> 00:19:02,080
+also learned c+ps and also solved questions which are
+
+428
+00:19:02,200 --> 00:19:04,320
+questions in DSA type. It was in
+
+429
+00:19:04,520 --> 00:19:07,000
+2018 when I learned c+ps.
+
+430
+00:19:07,200 --> 00:19:10,320
+In 2017, I basically played S-Foot
+
+431
+00:19:10,480 --> 00:19:12,520
+and taught coaching to children and I
+
+432
+00:19:12,800 --> 00:19:14,790
+worked on my English. I thought that if
+
+433
+00:19:14,880 --> 00:19:16,080
+nothing else, I would at least improve my English. I used to
+
+434
+00:19:16,440 --> 00:19:17,800
+watch English videos and
+
+435
+00:19:18,360 --> 00:19:21,200
+listen to English podcasts, so I
+
+436
+00:19:21,640 --> 00:19:24,640
+improved my English.
+
+437
+00:19:24,720 --> 00:19:26,670
+I taught coaching to children and used the laptop only to
+
+438
+00:19:27,240 --> 00:19:29,720
+play games and
+
+439
+00:19:30,000 --> 00:19:33,160
+learned the same C again for about a year, after learning C again and
+
+440
+00:19:33,400 --> 00:19:35,360
+solving the questions, I did not understand
+
+441
+00:19:35,480 --> 00:19:39,240
+what to do now, that is,
+
+442
+00:19:39,400 --> 00:19:40,840
+done it, I am also solving the questions,
+
+443
+00:19:40,920 --> 00:19:43,080
+but will it work? I did not understand anything from this,
+
+444
+00:19:43,200 --> 00:19:45,790
+then I thought that let's learn web development. It is the
+
+445
+00:19:58,320 --> 00:20:00,400
+beginning of 2019. I
+
+446
+00:20:00,600 --> 00:20:02,240
+downloaded some videos. I thought that let's try and
+
+447
+00:20:02,520 --> 00:20:06,400
+see.
+
+448
+00:20:06,640 --> 00:20:09,310
+basically one by one tag, they said that
+
+449
+00:20:09,640 --> 00:20:11,360
+you have to remember this, they were teaching in notepad, they
+
+450
+00:20:11,600 --> 00:20:14,070
+said that this is the opening tag, this is the closing tag,
+
+451
+00:20:14,200 --> 00:20:15,190
+in this, you have to put an exclamation
+
+452
+00:20:15,840 --> 00:20:17,680
+mark, a slash here and there, then you have to
+
+453
+00:20:18,240 --> 00:20:20,320
+put angular brackets, after seeing that I said.
+
+454
+00:20:20,520 --> 00:20:22,550
+Web development is better than C language
+
+455
+00:20:23,040 --> 00:20:26,000
+or web development is the worst thing, I
+
+456
+00:20:26,280 --> 00:20:27,800
+got this perception after seeing it, I
+
+457
+00:20:28,360 --> 00:20:30,400
+said, this is just a rote thing, there
+
+458
+00:20:30,480 --> 00:20:32,560
+is nothing useful in it, otherwise
+
+459
+00:20:32,760 --> 00:20:33,960
+I left it, I said
+
+460
+00:20:34,200 --> 00:20:35,840
+not learn development no matter what happens.
+
+461
+00:20:36,280 --> 00:20:37,880
+It was in 2018 when I
+
+462
+00:20:38,080 --> 00:20:40,000
+tried web development for the first time and I
+
+463
+00:20:40,160 --> 00:20:42,240
+lost confidence in it. I thought what to do, you
+
+464
+00:20:42,400 --> 00:20:43,600
+can't even do development because it
+
+465
+00:20:44,160 --> 00:20:46,080
+is difficult, there is no one to teach and at that
+
+466
+00:20:46,280 --> 00:20:48,760
+time.
+
+467
+00:20:48,960 --> 00:20:51,320
+videos, all the things were very rare at that time, so
+
+468
+00:20:51,640 --> 00:20:55,560
+I thought what to
+
+469
+00:20:55,720 --> 00:20:57,360
+do now, I can't even do web development, I ca
+
+470
+00:20:58,080 --> 00:21:00,440
+n't even do development, what will I do using C, that
+
+471
+00:21:00,680 --> 00:21:02,790
+means I won't be able to create anything.
+
+472
+00:21:02,920 --> 00:21:04,800
+some questions but
+
+473
+00:21:05,040 --> 00:21:06,960
+now I don't feel like solving how much, I do
+
+474
+00:21:07,200 --> 00:21:09,150
+n't have that much motivation and then I
+
+475
+00:21:09,360 --> 00:21:11,240
+thought let's go home, there is no point in staying here in the city and
+
+476
+00:21:11,600 --> 00:21:13,480
+spending money unnecessarily, we will
+
+477
+00:21:13,640 --> 00:21:16,200
+go home and do farming and
+
+478
+00:21:16,600 --> 00:21:19,200
+rest.
+
+479
+00:21:19,560 --> 00:21:22,000
+no problem, all my dreams were shattered, I came home, I
+
+480
+00:21:22,320 --> 00:21:24,160
+told my mother that I will not do anything now, I will
+
+481
+00:21:24,480 --> 00:21:26,920
+stay at home, I will just wait and see, whatever
+
+482
+00:21:27,080 --> 00:21:29,520
+happens, will happen, there was no hope left that if
+
+483
+00:21:29,840 --> 00:21:32,430
+anything would happen then I
+
+484
+00:21:32,680 --> 00:21:34,080
+thought that we will open a shop and the
+
+485
+00:21:34,400 --> 00:21:36,440
+expenses will keep on running. I had thought to such an extent
+
+486
+00:21:36,600 --> 00:21:38,790
+that now we will do only a shop that
+
+487
+00:21:39,440 --> 00:21:42,120
+I went beyond the shop of cement and morang sand and
+
+488
+00:21:45,000 --> 00:21:48,600
+went to that shop.
+
+489
+00:21:48,800 --> 00:21:51,760
+shop there, that day the
+
+490
+00:21:52,560 --> 00:21:55,600
+man was not there, that means the shop was closed and there
+
+491
+00:21:55,800 --> 00:21:57,790
+was only one shop in that area which
+
+492
+00:21:58,120 --> 00:22:00,400
+was nearby, so I returned, I thought
+
+493
+00:22:00,600 --> 00:22:02,440
+no problem, we will go the next day.
+
+494
+00:22:02,600 --> 00:22:04,360
+mood changed, I thought that they do not
+
+495
+00:22:04,480 --> 00:22:06,400
+do shop, they do some farming, they do farming only a little, they do farming
+
+496
+00:22:06,680 --> 00:22:09,000
+well, something will happen from farming, they
+
+497
+00:22:09,120 --> 00:22:11,670
+will do some work in farming, so I used to do
+
+498
+00:22:11,800 --> 00:22:14,800
+farming, but did
+
+499
+00:22:15,040 --> 00:22:17,560
+not do it on a very big level.
+
+500
+00:22:17,760 --> 00:22:20,270
+graze the cow, it was our cow, go and
+
+501
+00:22:20,560 --> 00:22:23,120
+graze the cow, do farming, cut the wheat, harvest the paddy,
+
+502
+00:22:23,400 --> 00:22:25,760
+bring it back, a few
+
+503
+00:22:25,960 --> 00:22:27,600
+laborers used to work, we also did a little
+
+504
+00:22:28,280 --> 00:22:32,240
+along with us, so this continued and then hope was
+
+505
+00:22:32,680 --> 00:22:35,600
+lost.
+
+506
+00:22:36,040 --> 00:22:38,400
+in software, there was no hope
+
+507
+00:22:38,520 --> 00:22:40,440
+that I would be able to do something like this, then I got
+
+508
+00:22:40,720 --> 00:22:42,720
+interested in spirituality,
+
+509
+00:22:43,040 --> 00:22:45,120
+how to control my mind,
+
+510
+00:22:45,400 --> 00:22:47,680
+how to keep my mind working, although my mind was
+
+511
+00:22:48,280 --> 00:22:50,710
+already
+
+512
+00:22:51,040 --> 00:22:52,920
+I didn't get too angry, but even more so, I did
+
+513
+00:22:53,200 --> 00:22:55,000
+n't care about what others said
+
+514
+00:22:55,160 --> 00:22:57,320
+because when I was not doing anything,
+
+515
+00:22:58,040 --> 00:23:00,400
+people started asking, "Brother, what are you doing, what are you going to do, whether you want to do
+
+516
+00:23:01,720 --> 00:23:04,830
+something or not."
+
+517
+00:23:04,960 --> 00:23:06,520
+know that he has not even
+
+518
+00:23:06,600 --> 00:23:08,520
+completed 12th, he has wasted two years and has come here and has taken a
+
+519
+00:23:09,240 --> 00:23:11,840
+laptop, has taken a mobile,
+
+520
+00:23:12,000 --> 00:23:15,840
+everyone is getting spoiled, it means
+
+521
+00:23:16,120 --> 00:23:18,320
+everyone is getting spoiled by having a mobile, and what do
+
+522
+00:23:19,160 --> 00:23:21,070
+people do?
+
+523
+00:23:21,280 --> 00:23:24,280
+not, do something, then basically they
+
+524
+00:23:24,440 --> 00:23:28,030
+also wanted to do something and started saying meaning,
+
+525
+00:23:28,280 --> 00:23:30,120
+when you don't do anything, sit at home the
+
+526
+00:23:30,360 --> 00:23:32,640
+whole day, do some outside work, stay at home the
+
+527
+00:23:32,840 --> 00:23:34,400
+whole day.
+
+528
+00:23:34,840 --> 00:23:36,880
+watch things related to spirituality. I met
+
+529
+00:23:37,120 --> 00:23:39,790
+Sadhguru. I liked and understood Sadhguru's words. I
+
+530
+00:23:43,000 --> 00:23:45,000
+watched all his videos at one time
+
+531
+00:23:45,600 --> 00:23:48,630
+and by watching those videos, I got the benefit that
+
+532
+00:23:49,120 --> 00:23:53,990
+I
+
+533
+00:23:54,400 --> 00:23:56,840
+a great extent. Basically, no matter what anyone
+
+534
+00:23:57,080 --> 00:23:59,480
+says from outside, it did not make much difference to me.
+
+535
+00:23:59,800 --> 00:24:02,440
+Earlier too, I did
+
+536
+00:24:02,600 --> 00:24:04,000
+not get angry, but
+
+537
+00:24:04,280 --> 00:24:07,280
+now after listening to Sadhguru, it made a difference to
+
+538
+00:24:07,360 --> 00:24:11,640
+me.
+
+539
+00:24:12,000 --> 00:24:14,280
+control, my mind started working,
+
+540
+00:24:14,560 --> 00:24:17,910
+everything was working, it means I started being happy but I was
+
+541
+00:24:18,280 --> 00:24:20,230
+not doing anything, so there was a wholeness inside, there
+
+542
+00:24:20,520 --> 00:24:22,840
+
+
+543
+00:24:25,240 --> 00:24:28,470
+was not an amnesiac, but there was a K inside which was
+
+544
+00:24:28,680 --> 00:24:31,640
+saying that
+
+545
+00:24:32,040 --> 00:24:34,480
+doing, you will die like this, they came like this
+
+546
+00:24:34,640 --> 00:24:36,790
+and when I started sitting at home,
+
+547
+00:24:37,000 --> 00:24:39,200
+one of my acquaintance's brother said that
+
+548
+00:24:39,320 --> 00:24:41,560
+we have a copper bottle factory, you
+
+549
+00:24:41,800 --> 00:24:44,040
+pick up the copper bottles from here, we will sell it to you.
+
+550
+00:24:44,560 --> 00:24:46,480
+give you bottles for ₹ and you sell them at the shop for Rs 250-300, this will make
+
+551
+00:24:46,800 --> 00:24:48,760
+you some
+
+552
+00:24:49,040 --> 00:24:51,960
+profit and you will earn something, so I
+
+553
+00:24:52,160 --> 00:24:53,880
+started doing this, I bought
+
+554
+00:24:56,760 --> 00:24:59,670
+bottles from them and I took them on a bicycle and used to go from
+
+555
+00:24:59,920 --> 00:25:02,400
+shop to shop and sell bottles for Rs
+
+556
+00:25:02,560 --> 00:25:04,680
+250.
+
+557
+00:25:04,800 --> 00:25:06,480
+asked me to give him 10 bottles,
+
+558
+00:25:07,080 --> 00:25:08,880
+I will give you some money now and
+
+559
+00:25:09,240 --> 00:25:10,840
+when all the bottles are sold, I will give you the
+
+560
+00:25:11,040 --> 00:25:13,280
+money. He gave me Rs. 000,
+
+561
+00:25:13,800 --> 00:25:15,720
+I also agreed that means I
+
+562
+00:25:16,240 --> 00:25:18,470
+believed that he will give me the money, it will run away somewhere, he has a
+
+563
+00:25:18,760 --> 00:25:20,400
+whole shop right here in
+
+564
+00:25:20,520 --> 00:25:23,360
+our city, so he gave me
+
+565
+00:25:23,600 --> 00:25:26,240
+Rs. 000, then he said that
+
+566
+00:25:26,520 --> 00:25:28,720
+we will give him the money after a month, but after a month,
+
+567
+00:25:29,000 --> 00:25:30,910
+when I asked,
+
+568
+00:25:31,120 --> 00:25:33,350
+bottles are not being sold, that is, they are being
+
+569
+00:25:33,880 --> 00:25:35,520
+sold at very low prices, no one is buying them.
+
+570
+00:25:35,680 --> 00:25:37,480
+I told him, ok,
+
+571
+00:25:37,760 --> 00:25:40,000
+give me the money for whatever is sold. He gave me
+
+572
+00:25:40,200 --> 00:25:42,480
+₹ 5000000 for
+
+573
+00:25:45,880 --> 00:25:48,960
+two-three bottles with him.
+
+574
+00:25:49,200 --> 00:25:51,150
+returned it and said that brother, that's all
+
+575
+00:25:51,360 --> 00:25:54,270
+and nothing else would be possible, so the business he had started from there too, which
+
+576
+00:25:57,120 --> 00:25:59,040
+was a small selling business,
+
+577
+00:25:59,280 --> 00:26:01,160
+also lost confidence after this incident.
+
+578
+00:26:01,280 --> 00:26:02,680
+I also stopped selling the bottles
+
+579
+00:26:03,080 --> 00:26:04,560
+because there was no interest and I
+
+580
+00:26:04,680 --> 00:26:06,960
+also got cheated, so I said that
+
+581
+00:26:07,400 --> 00:26:09,390
+I will not be able to commit to selling, I will do farming, I will
+
+582
+00:26:09,760 --> 00:26:11,960
+live a simple life, I don't want to get into the trap of all this.
+
+583
+00:26:12,080 --> 00:26:14,040
+Almost everyone said something or the other.
+
+584
+00:26:14,280 --> 00:26:17,080
+Do something, why are you sitting idle, do some
+
+585
+00:26:17,320 --> 00:26:20,320
+work, get some job done, do something,
+
+586
+00:26:20,920 --> 00:26:22,760
+relatives also said, neighbors also
+
+587
+00:26:22,880 --> 00:26:25,030
+said, everyone said but my mother did
+
+588
+00:26:25,240 --> 00:26:27,120
+not say do something, she said
+
+589
+00:26:27,240 --> 00:26:29,790
+do whatever you like and we will do it.
+
+590
+00:26:29,960 --> 00:26:32,520
+take whatever we want, whatever we have to earn, we will
+
+591
+00:26:32,640 --> 00:26:34,640
+do it, you sit comfortably, study,
+
+592
+00:26:35,080 --> 00:26:36,920
+do whatever you like,
+
+593
+00:26:37,600 --> 00:26:40,120
+then he basically knew the meaning behind the
+
+594
+00:26:40,240 --> 00:26:41,950
+scenes, meaning I am not doing anything wrong,
+
+595
+00:26:42,160 --> 00:26:44,240
+watch some picture or movie.
+
+596
+00:26:44,520 --> 00:26:46,040
+working on myself, I was doing well in English, I would do
+
+597
+00:26:46,200 --> 00:26:48,440
+something one day, so he had
+
+598
+00:26:48,760 --> 00:26:51,200
+faith in me that I would do something, that is
+
+599
+00:26:51,320 --> 00:26:53,360
+why he never asked me to
+
+600
+00:26:53,720 --> 00:26:56,120
+do any job or to work or to study.
+
+601
+00:26:58,840 --> 00:27:01,000
+My mother did not force me to do anything, except her, that is, except
+
+602
+00:27:01,760 --> 00:27:04,000
+my family,
+
+603
+00:27:04,200 --> 00:27:07,880
+everyone else told me to do something, do something, so my
+
+604
+00:27:08,160 --> 00:27:11,520
+aunt has a school, a school till 10th, a
+
+605
+00:27:12,000 --> 00:27:14,600
+school from first to 10th.
+
+606
+00:27:14,760 --> 00:27:16,750
+Our aunt's son has a school there, basically he said I have to
+
+607
+00:27:17,760 --> 00:27:19,560
+teach in the school, I
+
+608
+00:27:20,520 --> 00:27:23,150
+said first I don't want to
+
+609
+00:27:23,280 --> 00:27:24,800
+teach, then he said teach, meaning
+
+610
+00:27:25,080 --> 00:27:26,360
+he knew that I teach well,
+
+611
+00:27:26,760 --> 00:27:28,790
+basically Ashish bhaiya, his name is Ashish.
+
+612
+00:27:29,120 --> 00:27:31,520
+Bhaiya said, he knew that I
+
+613
+00:27:31,960 --> 00:27:33,760
+teach well, I have also taught coaching,
+
+614
+00:27:34,080 --> 00:27:36,040
+so he said, try teaching, come and
+
+615
+00:27:36,240 --> 00:27:39,270
+see how you like it, then later, if you
+
+616
+00:27:39,520 --> 00:27:41,440
+don't feel like teaching, then don't teach, just try.
+
+617
+00:27:41,760 --> 00:27:44,390
+Then he said.
+
+618
+00:27:44,640 --> 00:27:47,080
+started teaching there, it felt right, I taught
+
+619
+00:27:47,400 --> 00:27:49,640
+there for a year, I taught
+
+620
+00:27:49,720 --> 00:27:51,710
+science and maths to children from six to 10, I used to
+
+621
+00:27:52,040 --> 00:27:53,680
+teach English also,
+
+622
+00:27:53,800 --> 00:27:55,040
+sometimes if the English teacher did not come,
+
+623
+00:27:55,760 --> 00:27:57,480
+but my main subject was
+
+624
+00:27:57,760 --> 00:27:59,550
+was science and maths, but even when I was teaching, there was that
+
+625
+00:27:59,800 --> 00:28:02,070
+emptiness inside that something has to be done,
+
+626
+00:28:02,400 --> 00:28:05,120
+something should be done, that emptiness was always there,
+
+627
+00:28:05,480 --> 00:28:07,520
+meaning it did not feel that we have to live our entire
+
+628
+00:28:07,760 --> 00:28:10,150
+life like this, this is our life, this is
+
+629
+00:28:10,440 --> 00:28:13,190
+our job.
+
+630
+00:28:13,520 --> 00:28:15,080
+felt that something was missing and something should be done.
+
+631
+00:28:15,680 --> 00:28:17,680
+Meanwhile, when I was teaching in school,
+
+632
+00:28:17,880 --> 00:28:19,430
+I met my wife through social media. At
+
+633
+00:28:19,520 --> 00:28:21,520
+that time, I did not have a wife, but today,
+
+634
+00:28:21,680 --> 00:28:24,200
+she is a wife and
+
+635
+00:28:24,600 --> 00:28:27,200
+felt good to meet him, the mind set was
+
+636
+00:28:27,520 --> 00:28:29,040
+quite similar, interest in spirituality, interest in
+
+637
+00:28:30,040 --> 00:28:31,440
+maths, interest in science, interest in
+
+638
+00:28:31,800 --> 00:28:33,480
+physics, all these interests were similar,
+
+639
+00:28:34,040 --> 00:28:38,000
+meaning same and many other things were similar, goal was to
+
+640
+00:28:38,360 --> 00:28:42,080
+do something good, meaning in a
+
+641
+00:28:42,320 --> 00:28:44,550
+way, it meant me.
+
+642
+00:28:45,000 --> 00:28:47,750
+in the female version, it was ok, I felt that we started
+
+643
+00:28:48,480 --> 00:28:50,840
+talking and I liked it a lot and
+
+644
+00:28:51,720 --> 00:28:54,400
+then he pushed me to do something,
+
+645
+00:28:54,800 --> 00:28:57,520
+so he showed me the opportunity that
+
+646
+00:28:57,840 --> 00:28:59,600
+many things
+
+647
+00:28:59,680 --> 00:29:01,840
+can be done through the internet.
+
+648
+00:29:02,400 --> 00:29:04,680
+Many people do jobs on the internet. Earlier, I did
+
+649
+00:29:04,880 --> 00:29:07,960
+not think that I could
+
+650
+00:29:08,080 --> 00:29:09,990
+get something through the internet. Although I used to use the internet, I did
+
+651
+00:29:10,240 --> 00:29:12,150
+not think that much about the job,
+
+652
+00:29:12,320 --> 00:29:14,680
+so my only conventional method
+
+653
+00:29:14,960 --> 00:29:17,840
+was
+
+654
+00:29:18,040 --> 00:29:20,790
+get a job from there, so I knew this path,
+
+655
+00:29:21,040 --> 00:29:22,910
+he said that no, there are other things,
+
+656
+00:29:23,280 --> 00:29:26,280
+so I thought what to do now, so I
+
+657
+00:29:26,400 --> 00:29:28,360
+thought, let's do 3D
+
+658
+00:29:28,680 --> 00:29:30,920
+modeling, so I did it because he
+
+659
+00:29:31,040 --> 00:29:33,000
+is my brother.
+
+660
+00:29:33,680 --> 00:29:35,990
+Adarsh. He was already doing 3D modeling. I had introduced him to 3D modeling.
+
+661
+00:29:38,200 --> 00:29:40,640
+I had also taught him coding for 3D modeling.
+
+662
+00:29:40,760 --> 00:29:43,360
+When I did not know it,
+
+663
+00:29:43,560 --> 00:29:45,080
+I had provided him tutorials.
+
+664
+00:29:45,560 --> 00:29:47,280
+He had also learned it but he also had
+
+665
+00:29:47,440 --> 00:29:50,080
+was no guidance as to what to do next, how to
+
+666
+00:29:50,360 --> 00:29:52,600
+get a job in it or some of the
+
+667
+00:29:52,760 --> 00:29:55,200
+things she knew but she knew coding, C language,
+
+668
+00:29:55,640 --> 00:29:58,000
+Python, she knew all these things but she also did
+
+669
+00:29:58,160 --> 00:29:59,680
+not know what to do next and
+
+670
+00:29:59,920 --> 00:30:02,670
+ended by solving only that many questions.
+
+671
+00:30:03,000 --> 00:30:04,880
+modeling and making models, so
+
+672
+00:30:04,960 --> 00:30:07,120
+I thought, let's do 3D modeling, it will bring
+
+673
+00:30:07,480 --> 00:30:10,560
+something, that is, I will
+
+674
+00:30:10,920 --> 00:30:13,080
+do some freelancing online on Upwork, on Fiber,
+
+675
+00:30:13,760 --> 00:30:15,720
+I learned a little bit of freelancing,
+
+676
+00:30:16,000 --> 00:30:18,360
+not much, just not freelancing,
+
+677
+00:30:19,520 --> 00:30:21,680
+basically did not learn much of 3D modeling.
+
+678
+00:30:21,880 --> 00:30:23,440
+created an account on Upwork
+
+679
+00:30:25,000 --> 00:30:26,600
+that I am a freelance
+
+680
+00:30:27,880 --> 00:30:30,760
+3D designer, I make 3D models,
+
+681
+00:30:31,440 --> 00:30:33,840
+so we got a client from the US, we got a
+
+682
+00:30:34,440 --> 00:30:36,430
+client, he got the design of a car
+
+683
+00:30:37,040 --> 00:30:39,600
+made, the design of the car must be lying somewhere,
+
+684
+00:30:39,960 --> 00:30:41,120
+if you can find the link of it.
+
+685
+00:30:53,600 --> 00:30:56,480
+was YouTube1 but I thought
+
+686
+00:30:56,600 --> 00:30:58,200
+how long will this work continue, I learn it myself, so
+
+687
+00:30:58,840 --> 00:31:00,630
+my brother completed the first project,
+
+688
+00:31:00,800 --> 00:31:02,440
+I used to just talk
+
+689
+00:31:02,680 --> 00:31:05,470
+in between that I have to do this, he completed the entire
+
+690
+00:31:05,680 --> 00:31:07,200
+project and
+
+691
+00:31:07,400 --> 00:31:09,520
+dollars, more than 100, 100, 50 dollars
+
+692
+00:31:09,720 --> 00:31:12,120
+and the first income was through online,
+
+693
+00:31:12,440 --> 00:31:15,560
+so I did not do everything in it,
+
+694
+00:31:15,720 --> 00:31:18,390
+I just talked, then after that
+
+695
+00:31:18,640 --> 00:31:23,040
+I learned D myself and made models by myself.
+
+696
+00:31:23,320 --> 00:31:25,480
+But I was not enjoying it, I was
+
+697
+00:31:25,760 --> 00:31:27,520
+not feeling any meaning in it that this is not what I am doing, this is
+
+698
+00:31:28,320 --> 00:31:31,310
+our life, we will spend it in this only and that too
+
+699
+00:31:31,480 --> 00:31:33,480
+means I made models again, one ad,
+
+700
+00:31:33,720 --> 00:31:36,000
+maybe one for the same client, one freelancing for some other client
+
+701
+00:31:36,080 --> 00:31:38,310
+and so on.
+
+702
+00:31:38,480 --> 00:31:43,360
+but I earned the same 100 50 00 through that
+
+703
+00:31:43,680 --> 00:31:45,800
+but I did
+
+704
+00:31:45,960 --> 00:31:48,760
+not get any feeling in it either, it did not feel very right, still
+
+705
+00:31:48,880 --> 00:31:50,120
+I used to learn 3D modeling from
+
+706
+00:31:51,160 --> 00:31:53,640
+youtube0 modeling, so one day I was
+
+707
+00:31:53,760 --> 00:31:55,270
+watching a video of 3D modeling.
+
+708
+00:31:57,240 --> 00:31:59,600
+ad coming, that ad was of a web development course
+
+709
+00:31:59,840 --> 00:32:02,560
+and in that ad a lady was speaking, she was
+
+710
+00:32:02,760 --> 00:32:04,720
+saying something and I liked her way of speaking
+
+711
+00:32:05,120 --> 00:32:06,880
+that how we will
+
+712
+00:32:07,240 --> 00:32:09,200
+learn, how each and every thing was covered.
+
+713
+00:32:09,440 --> 00:32:11,640
+Within this course, I thought that let's try
+
+714
+00:32:11,720 --> 00:32:13,320
+web development once again,
+
+715
+00:32:13,760 --> 00:32:15,390
+I purchased that course and the
+
+716
+00:32:15,640 --> 00:32:16,320
+price of that course was only ₹ 5000000
+
+717
+00:32:23,640 --> 00:32:26,640
+and this day was the turning point of my life,
+
+718
+00:32:27,320 --> 00:32:29,550
+from then on there was no looking back, it was so good.
+
+719
+00:32:29,800 --> 00:32:31,470
+He taught me web development, it was very easy to
+
+720
+00:32:34,160 --> 00:32:36,560
+understand, beginner friendly, he explained everything very well and
+
+721
+00:32:36,760 --> 00:32:38,760
+after that my life
+
+722
+00:32:38,960 --> 00:32:41,360
+changed completely, I started understanding every concept of web development, I got
+
+723
+00:32:43,440 --> 00:32:46,720
+interested.
+
+724
+00:32:46,960 --> 00:32:48,360
+HTML, CSS,
+
+725
+00:32:48,840 --> 00:32:52,440
+JavaScript, React and whatever he
+
+726
+00:32:52,720 --> 00:32:54,510
+covered in the notes, so I followed all the things
+
+727
+00:32:54,680 --> 00:32:56,240
+and I
+
+728
+00:32:56,360 --> 00:32:57,790
+practiced a lot of CSS, my CSS
+
+729
+00:32:58,040 --> 00:33:00,000
+became very good, I started creating responses very easily
+
+730
+00:33:00,280 --> 00:33:03,040
+and
+
+731
+00:33:03,160 --> 00:33:05,480
+taught me, it was very basic and
+
+732
+00:33:05,760 --> 00:33:07,120
+I tried to learn CSS well,
+
+733
+00:33:27,160 --> 00:33:28,360
+after that I made many projects using CSS,
+
+734
+00:33:28,760 --> 00:33:33,520
+basically
+
+735
+00:33:30,920 --> 00:33:32,960
+in the beginning I focused on CSS only,
+
+736
+00:33:33,520 --> 00:33:34,800
+many projects of CSS.
+
+737
+00:33:35,440 --> 00:33:36,200
+projects on my own, he
+
+738
+00:33:57,000 --> 00:33:58,790
+said do you know CSS, I said
+
+739
+00:33:58,960 --> 00:34:01,630
+yes, he said if you give me some design then you will make it, he
+
+740
+00:34:01,720 --> 00:34:03,880
+sent the design, I said
+
+741
+00:34:04,040 --> 00:34:05,680
+yes, we will make it, he said,
+
+742
+00:34:05,880 --> 00:34:08,159
+how much will you charge for making a design, then
+
+743
+00:34:09,040 --> 00:34:10,590
+I said, I have it in my mind.
+
+744
+00:34:10,719 --> 00:34:13,719
+make such projects every day,
+
+745
+00:34:13,880 --> 00:34:15,909
+I can do this for free but if they are
+
+746
+00:34:16,159 --> 00:34:17,469
+asking then they will say something, then I
+
+747
+00:34:17,639 --> 00:34:20,159
+said, I will take 5500, I said, ok, ok, do it,
+
+748
+00:34:20,520 --> 00:34:22,760
+they sent it to me,
+
+749
+00:34:23,520 --> 00:34:25,389
+what project do I want to make?
+
+750
+00:34:25,560 --> 00:34:27,110
+was nothing much, just a few cards, the
+
+751
+00:34:27,199 --> 00:34:28,920
+design was a bit complicated, that is why he knew
+
+752
+00:34:29,159 --> 00:34:31,440
+little CSS, that is why he took my help, so I did
+
+753
+00:34:31,760 --> 00:34:34,000
+that and gave it to him
+
+754
+00:34:34,120 --> 00:34:35,639
+and he gave me another project,
+
+755
+00:34:36,000 --> 00:34:37,909
+then I did both the projects.
+
+756
+00:34:38,040 --> 00:34:39,880
+Both were simple projects, I did the
+
+757
+00:34:40,760 --> 00:34:42,400
+project in about two to four days
+
+758
+00:34:42,960 --> 00:34:45,150
+and they gave me Rs. 000 because there was
+
+759
+00:34:45,320 --> 00:34:47,830
+talk of Rs. 50000 for one project, they gave me Rs. 1000 and
+
+760
+00:34:48,400 --> 00:34:51,159
+I earned Rs. 000 in four days. This is
+
+761
+00:34:51,320 --> 00:34:53,000
+my first freelancing project.
+
+762
+00:34:53,159 --> 00:34:55,800
+That I did not reach out, it was
+
+763
+00:34:55,920 --> 00:34:57,120
+they who did the reach out. It was
+
+764
+00:35:13,480 --> 00:35:15,520
+Instagram's freelancing project, so
+
+765
+00:35:15,600 --> 00:35:17,400
+I thought, okay, I am starting to get the hang of
+
+766
+00:35:17,520 --> 00:35:20,320
+freelancing, so I am in all the
+
+767
+00:35:20,840 --> 00:35:22,080
+social media groups, the
+
+768
+00:35:25,800 --> 00:35:28,440
+Discord groups of the tubers.
+
+769
+00:35:28,520 --> 00:35:31,240
+then in some discord, someone
+
+770
+00:35:31,360 --> 00:35:34,120
+messaged that is there any front end developer, is
+
+771
+00:35:34,280 --> 00:35:36,920
+he needed? So I said, I
+
+772
+00:35:37,200 --> 00:35:39,400
+messaged him that yes, I know, so
+
+773
+00:35:40,240 --> 00:35:40,720
+he hired me, that is,
+
+774
+00:35:41,840 --> 00:35:44,080
+he gave me some
+
+775
+00:35:44,240 --> 00:35:46,240
+projects.
+
+776
+00:35:46,440 --> 00:35:49,030
+earned Rs 56000. There were not many big projects, there
+
+777
+00:35:49,440 --> 00:35:51,200
+were only small projects, so
+
+778
+00:35:51,600 --> 00:35:55,040
+there I got Rs 000 from him and then
+
+779
+00:35:55,560 --> 00:36:00,040
+one more and one more. Basically,
+
+780
+00:36:00,120 --> 00:36:02,320
+I did a project for a startup and
+
+781
+00:36:02,480 --> 00:36:05,280
+got Rs 4,000 for that too.
+
+782
+00:36:05,520 --> 00:36:07,680
+from web development, I thought let's
+
+783
+00:36:08,000 --> 00:36:09,920
+go to Bangalore, I got a little confidence
+
+784
+00:36:10,160 --> 00:36:13,160
+that I am getting some money from this and
+
+785
+00:36:13,240 --> 00:36:15,480
+I am also feeling good, so the confidence came,
+
+786
+00:36:15,600 --> 00:36:18,240
+let's go to Bangalore and I will get a job there.
+
+787
+00:36:18,520 --> 00:36:21,760
+got something then I came, meaning there
+
+788
+00:36:22,040 --> 00:36:24,120
+was no job now, I just came like this, did one or two
+
+789
+00:36:24,240 --> 00:36:26,080
+freelancing projects and then came
+
+790
+00:36:28,000 --> 00:36:31,110
+here, I started applying for internships,
+
+791
+00:36:31,520 --> 00:36:33,000
+I thought I
+
+792
+00:36:33,120 --> 00:36:35,880
+would get only internships, what else can I get with so much knowledge?
+
+793
+00:36:36,560 --> 00:36:38,430
+I applied for internship at many places and got a
+
+794
+00:36:38,640 --> 00:36:40,720
+call from many places. Basically,
+
+795
+00:36:40,800 --> 00:36:42,760
+I got a call from one place. They said that we have an
+
+796
+00:36:43,040 --> 00:36:44,680
+opening for internship but we
+
+797
+00:36:44,880 --> 00:36:46,120
+need a freelancer. If you
+
+798
+00:36:46,240 --> 00:36:48,440
+do freelancing then you can work for us.
+
+799
+00:36:50,480 --> 00:36:52,880
+Basically he did not have any team, it was more of a
+
+800
+00:36:53,000 --> 00:36:54,240
+project, he had got it done
+
+801
+00:36:54,400 --> 00:36:57,040
+from a developer, the project was fine but he was
+
+802
+00:36:59,880 --> 00:37:05,880
+
+
+803
+00:37:02,320 --> 00:37:05,800
+well versed in responsiveness, I knew the lead well, I had
+
+804
+00:37:05,880 --> 00:37:07,880
+prepared a lot of responses, he
+
+805
+00:37:08,160 --> 00:37:11,800
+said yes, I will do it, so I
+
+806
+00:37:11,960 --> 00:37:13,550
+asked him.
+
+807
+00:37:13,960 --> 00:37:18,150
+I said, I will take Rs. 500 for an hour, meaning Rs.
+
+808
+00:37:18,480 --> 00:37:20,520
+500 for an hour. I said no, this is too much.
+
+809
+00:37:21,520 --> 00:37:25,110
+He said that we can give Rs. 00. I was
+
+810
+00:37:25,240 --> 00:37:28,030
+thinking in my mind that Rs. 00 for an hour is quite
+
+811
+00:37:28,320 --> 00:37:30,830
+good, it means I did Rs. 500 for an hour a day.
+
+812
+00:37:31,400 --> 00:37:36,560
+they said that we
+
+813
+00:37:36,920 --> 00:37:39,350
+can give Rs. 200. I said that it is okay, I will do the
+
+814
+00:37:39,520 --> 00:37:41,990
+work, it doesn't matter that you are speaking for the first time,
+
+815
+00:37:42,240 --> 00:37:44,760
+I will do it. I was happy from inside, so I
+
+816
+00:37:44,920 --> 00:37:48,760
+decided on another hour.
+
+817
+00:37:49,080 --> 00:37:50,440
+started working on their website,
+
+818
+00:37:51,000 --> 00:37:52,720
+although I had come to Bangalore, there was no job at that time, it
+
+819
+00:37:53,360 --> 00:37:55,520
+was only freelancing work, so
+
+820
+00:37:55,680 --> 00:37:59,430
+I worked for about 28 or 20 25 days for a month,
+
+821
+00:37:59,760 --> 00:38:02,150
+25 to 28 days, I worked on it
+
+822
+00:38:02,760 --> 00:38:06,120
+and
+
+823
+00:38:06,440 --> 00:38:09,120
+was a good payment, that is, I had worked for more than 100 hours, so when they paid me around
+
+824
+00:38:09,200 --> 00:38:11,480
+Rs. 0000, it
+
+825
+00:38:12,400 --> 00:38:14,720
+felt even better. I felt
+
+826
+00:38:14,920 --> 00:38:17,350
+confident that this is the work of my choice,
+
+827
+00:38:17,640 --> 00:38:19,560
+which I can do for free, and
+
+828
+00:38:19,760 --> 00:38:21,320
+get paid for it.
+
+829
+00:38:21,480 --> 00:38:22,960
+freelancing project was over now,
+
+830
+00:38:23,080 --> 00:38:25,040
+now I started applying for internship again
+
+831
+00:38:25,360 --> 00:38:27,720
+and I applied to many places at
+
+832
+00:38:28,080 --> 00:38:29,800
+least 20 times a day,
+
+833
+00:38:30,160 --> 00:38:33,400
+then I started getting calls.
+
+834
+00:38:33,640 --> 00:38:36,360
+my interview was scheduled. In the interview,
+
+835
+00:38:36,440 --> 00:38:38,160
+they asked something like JavaScript, Single
+
+836
+00:38:38,400 --> 00:38:41,200
+Threaded, Multi Threaded. Well,
+
+837
+00:38:41,280 --> 00:38:42,680
+I had not studied it, it was
+
+838
+00:38:42,960 --> 00:38:46,160
+not mentioned in the course. Angela said, "
+
+839
+00:38:46,400 --> 00:38:49,440
+What is this, okay?" She said, "I have
+
+840
+00:38:49,680 --> 00:38:51,400
+said, I guess I had heard about single threaded
+
+841
+00:38:51,800 --> 00:38:55,080
+somewhere in some video, so I said,
+
+842
+00:38:55,560 --> 00:38:57,400
+what does it mean when I say single threaded?
+
+843
+00:38:57,520 --> 00:38:59,630
+I said, now I have to explain its meaning also,
+
+844
+00:38:59,960 --> 00:39:02,560
+I said, I don't know all this, then
+
+845
+00:39:02,800 --> 00:39:05,120
+asked one or two more questions.
+
+846
+00:39:05,480 --> 00:39:07,920
+core concepts of JavaScript, so I did
+
+847
+00:39:08,200 --> 00:39:10,160
+n't know anything. I said, "Hey,
+
+848
+00:39:10,360 --> 00:39:12,160
+what have you read? I have followed the entire course
+
+849
+00:39:12,520 --> 00:39:14,830
+from you, Angela, so I don't know it at all,
+
+850
+00:39:15,000 --> 00:39:15,840
+then I have
+
+851
+00:39:18,160 --> 00:39:20,320
+come to Realix S. I
+
+852
+00:39:20,520 --> 00:39:22,280
+don't know JavaScript, just a little."
+
+853
+00:39:22,400 --> 00:39:25,480
+ifs for loops and functions but I do
+
+854
+00:39:25,640 --> 00:39:27,630
+n't know JavaScript well. So what should I
+
+855
+00:39:27,760 --> 00:39:33,360
+do now? Then I purchased their Colt
+
+856
+00:39:33,840 --> 00:39:34,920
+Steel course.
+
+857
+00:39:56,520 --> 00:39:57,880
+I saw only the JavaScript section
+
+858
+00:39:58,600 --> 00:40:00,720
+and their JavaScript was quite good
+
+859
+00:40:00,920 --> 00:40:02,840
+Anjala.
+
+860
+00:40:03,160 --> 00:40:04,990
+JavaScript was much more detailed, it was bigger
+
+861
+00:40:05,200 --> 00:40:07,800
+and they explained it a little better, so
+
+862
+00:40:08,480 --> 00:40:11,000
+from there I got a little
+
+863
+00:40:11,680 --> 00:40:14,040
+better knowledge of JavaScript, I
+
+864
+00:40:14,320 --> 00:40:15,960
+understood it more completely, the whole whole picture was understood, the fundamental
+
+865
+00:40:16,520 --> 00:40:18,360
+concepts were clear, but still I was not ready for
+
+866
+00:40:18,480 --> 00:40:19,590
+the interviews.
+
+867
+00:40:19,800 --> 00:40:21,720
+I was getting stuck in JavaScript. People were
+
+868
+00:40:22,320 --> 00:40:24,440
+asking closures, hidden functions
+
+869
+00:40:24,600 --> 00:40:28,040
+and scopes, meaning how does lexic
+
+870
+00:40:28,160 --> 00:40:30,070
+scope work, what is all this, synchronous,
+
+871
+00:40:30,480 --> 00:40:32,880
+how is synchronous code running,
+
+872
+00:40:33,400 --> 00:40:35,270
+call backs.
+
+873
+00:40:36,120 --> 00:40:40,160
+interns ask. Okay, it was still
+
+874
+00:40:40,320 --> 00:40:43,560
+not happening, so when I was following Cold Steel
+
+875
+00:40:43,640 --> 00:40:45,080
+in JavaScript course,
+
+876
+00:40:45,280 --> 00:40:47,840
+here when I came to Bangalore,
+
+877
+00:40:47,960 --> 00:40:50,870
+a friend of mine became a person.
+
+878
+00:40:51,080 --> 00:40:52,720
+settled here in Bangalore.
+
+879
+00:40:52,840 --> 00:40:55,320
+He is also working today. His name is
+
+880
+00:40:55,520 --> 00:40:58,440
+Gautam, so he is also working in front end.
+
+881
+00:40:58,480 --> 00:41:00,280
+When we met, we were learning together,
+
+882
+00:41:00,520 --> 00:41:03,960
+so I used to help him.
+
+883
+00:41:04,320 --> 00:41:06,120
+He helped me to settle down in Bangalore.
+
+884
+00:41:06,280 --> 00:41:09,200
+He is from Bangalore and he
+
+885
+00:41:09,800 --> 00:41:12,160
+sent me a course called Namaste JavaScript by Akshay Saini. At
+
+886
+00:41:12,600 --> 00:41:15,000
+that time I
+
+887
+00:41:15,360 --> 00:41:17,480
+was not ready to watch that course. I saw
+
+888
+00:41:17,800 --> 00:41:19,760
+that he was teaching something.
+
+889
+00:41:20,000 --> 00:41:21,960
+going on top that at that time I had
+
+890
+00:41:22,280 --> 00:41:24,840
+studied Anjala U and I was not able to understand
+
+891
+00:41:24,920 --> 00:41:26,280
+what they were teaching, everyone was
+
+892
+00:41:26,600 --> 00:41:28,600
+teaching useless things, I said this is a bad course,
+
+893
+00:41:28,720 --> 00:41:31,240
+it is not a very good course, so I
+
+894
+00:41:31,440 --> 00:41:32,960
+n't even see it, then I
+
+895
+00:41:33,240 --> 00:41:34,440
+read JavaScript from Colt Steel. When my
+
+896
+00:41:34,680 --> 00:41:36,880
+JavaScript became good, then I
+
+897
+00:41:38,320 --> 00:41:41,630
+saw it again. When I saw it again, my eyes opened. Suddenly
+
+898
+00:41:41,920 --> 00:41:44,400
+JavaScript seemed cool. I
+
+899
+00:41:44,800 --> 00:41:46,840
+understood everything. He wrote it very
+
+900
+00:41:47,000 --> 00:41:48,240
+well. Akshay.
+
+901
+00:41:48,600 --> 00:41:50,840
+very well in the Namaste JavaScript series,
+
+902
+00:41:52,160 --> 00:41:53,760
+how JavaScript works behind the scenes. I started
+
+903
+00:41:53,920 --> 00:41:55,560
+understanding everything
+
+904
+00:41:57,080 --> 00:41:58,360
+and I thought
+
+905
+00:41:59,600 --> 00:42:02,760
+that it means do some other advanced courses too,
+
+906
+00:42:03,240 --> 00:42:03,440
+I have done
+
+907
+00:42:07,160 --> 00:42:09,880
+YouTube's but in that advanced course
+
+908
+00:42:10,000 --> 00:42:11,390
+also.
+
+909
+00:42:11,480 --> 00:42:12,520
+taught, Namaste, the
+
+910
+00:42:13,120 --> 00:42:14,960
+same things were there in JavaScript too, so
+
+911
+00:42:15,080 --> 00:42:16,680
+basically I understood it twice and it was repeated,
+
+912
+00:42:17,240 --> 00:42:19,000
+so whatever advanced concepts were behind the
+
+913
+00:42:19,120 --> 00:42:19,960
+scenes, how JavaScript works,
+
+914
+00:42:20,800 --> 00:42:22,000
+because of Akshay Saini and
+
+915
+00:42:22,360 --> 00:42:24,080
+because of JavaScript, my JavaScript became
+
+916
+00:42:24,680 --> 00:42:26,790
+very good. I started understanding JavaScript on my own by digging into
+
+917
+00:42:27,120 --> 00:42:28,950
+their dev tools more than what they taught me. They
+
+918
+00:42:32,520 --> 00:42:34,000
+explained me
+
+919
+00:42:34,280 --> 00:42:36,080
+how to use the dev tools, so effectively,
+
+920
+00:42:37,080 --> 00:42:39,030
+after that I learned it on my own.
+
+921
+00:42:39,160 --> 00:42:42,200
+exploring on my own, understood JavaScript in depth,
+
+922
+00:42:43,800 --> 00:42:47,240
+after that my interview started
+
+923
+00:42:47,440 --> 00:42:50,470
+going well and I got selected in a startup. If
+
+924
+00:42:50,560 --> 00:42:54,680
+yes, then how was the selection,
+
+925
+00:42:54,920 --> 00:42:57,040
+I also tell you in my resume
+
+926
+00:42:57,160 --> 00:42:58,830
+what is my education.
+
+927
+00:42:59,320 --> 00:43:01,480
+not there, so in one of the sections at the bottom,
+
+928
+00:43:01,840 --> 00:43:04,320
+I had mentioned that
+
+929
+00:43:04,400 --> 00:43:08,160
+under education, I had seen some courses like Self-Tut, UD and Coursera, but
+
+930
+00:43:08,520 --> 00:43:10,920
+from Coursera,
+
+931
+00:43:11,240 --> 00:43:12,960
+although I had seen some courses not of web development but of Ed,
+
+932
+00:43:13,160 --> 00:43:15,880
+sometimes that's it.
+
+933
+00:43:16,080 --> 00:43:20,160
+Self Tut UD course, that's all I had
+
+934
+00:43:20,320 --> 00:43:22,240
+mentioned, Free Quote Cam was also probably mentioned, I do
+
+935
+00:43:22,560 --> 00:43:25,480
+n't remember, this is what I had mentioned,
+
+936
+00:43:25,800 --> 00:43:28,550
+so when the interviewers used to call, it was
+
+937
+00:43:28,760 --> 00:43:30,600
+pickle call or interviewer's
+
+938
+00:43:30,760 --> 00:43:32,840
+call.
+
+939
+00:43:33,200 --> 00:43:36,310
+that when did you do graduation and
+
+940
+00:43:36,440 --> 00:43:39,360
+in which field, I used to say that
+
+941
+00:43:39,960 --> 00:43:41,800
+I have not done graduation,
+
+942
+00:43:42,240 --> 00:43:45,440
+I learned coding after 10th and I was interested in it,
+
+943
+00:43:45,560 --> 00:43:47,240
+so I did it after 10th.
+
+944
+00:43:47,480 --> 00:43:48,800
+doing web development and freelancing
+
+945
+00:43:48,960 --> 00:43:50,440
+and these are some of my freelancing
+
+946
+00:43:50,960 --> 00:43:52,720
+projects which I have done
+
+947
+00:43:52,800 --> 00:43:54,200
+inside the resume. Inside the resume, I had done my
+
+948
+00:43:54,480 --> 00:43:56,280
+original freelancing projects
+
+949
+00:43:56,440 --> 00:43:59,040
+which were two-three projects, they
+
+950
+00:43:59,280 --> 00:44:00,760
+were all projects and one
+
+951
+00:44:01,080 --> 00:44:02,600
+projects were just one or two such personal
+
+952
+00:44:02,920 --> 00:44:05,040
+projects, so in the resume also,
+
+953
+00:44:05,160 --> 00:44:07,040
+I had also made a portfolio, that
+
+954
+00:44:07,280 --> 00:44:09,280
+portfolio is quite good, it is still there, I will
+
+955
+00:44:09,440 --> 00:44:10,830
+give its link in the description, if you
+
+956
+00:44:10,920 --> 00:44:14,240
+go and see it, then I have made one named Anug sbm.com.
+
+957
+00:44:14,320 --> 00:44:16,360
+domain and on top of that I had
+
+958
+00:44:16,560 --> 00:44:19,960
+hosted my portfolio, on top of that
+
+959
+00:44:20,160 --> 00:44:21,760
+I had
+
+960
+00:44:21,880 --> 00:44:24,270
+kept whatever freelancing projects I had, so I had told
+
+961
+00:44:24,560 --> 00:44:26,920
+that I mean I used to tell the interviewer that
+
+962
+00:44:27,720 --> 00:44:30,040
+I learned web development after 10th and learned
+
+963
+00:44:30,480 --> 00:44:32,800
+coding.
+
+964
+00:44:33,000 --> 00:44:35,110
+okay, I am freelancing, these are
+
+965
+00:44:35,320 --> 00:44:37,320
+some of my projects, okay, so they used to
+
+966
+00:44:37,520 --> 00:44:40,520
+say, okay, no problem, skill matters to us,
+
+967
+00:44:40,920 --> 00:44:43,080
+degree does not matter that much,
+
+968
+00:44:43,320 --> 00:44:46,000
+and to my surprise,
+
+969
+00:44:47,000 --> 00:44:49,870
+I got about 20 interviewers.
+
+970
+00:44:50,000 --> 00:44:52,480
+which only one said that
+
+971
+00:44:53,240 --> 00:44:55,550
+we want a B.Tech person, sorry we can't proceed with you, it's
+
+972
+00:44:55,720 --> 00:44:57,760
+okay, the one with degree,
+
+973
+00:44:57,960 --> 00:45:00,920
+then after listening to all the others said that
+
+974
+00:45:01,400 --> 00:45:03,680
+skill matters to us, degree does
+
+975
+00:45:03,760 --> 00:45:06,590
+n't matter to us.
+
+976
+00:45:06,840 --> 00:45:09,630
+n't know if this happens to everyone,
+
+977
+00:45:09,800 --> 00:45:12,440
+otherwise I feel that my
+
+978
+00:45:12,560 --> 00:45:14,000
+projects and my freelancing
+
+979
+00:45:14,240 --> 00:45:16,560
+work were good, my portfolio
+
+980
+00:45:17,200 --> 00:45:19,510
+was good, that's what people were saying after seeing it.
+
+981
+00:45:19,680 --> 00:45:22,560
+That it is working well, so it does
+
+982
+00:45:22,680 --> 00:45:24,560
+n't matter, the degree doesn't matter, if
+
+983
+00:45:24,840 --> 00:45:25,400
+you just go straight like this, we will speak, we know
+
+984
+00:45:29,080 --> 00:45:30,520
+nothing just by speaking, you have to show the
+
+985
+00:45:30,880 --> 00:45:33,760
+work, so it may not happen with you.
+
+986
+00:45:34,000 --> 00:45:35,880
+If your portfolio is strong,
+
+987
+00:45:36,240 --> 00:45:37,920
+your resume is strong, the projects are
+
+988
+00:45:38,400 --> 00:45:40,400
+good and if there are freelancing
+
+989
+00:45:40,600 --> 00:45:42,000
+projects then there are more chances of
+
+990
+00:45:42,360 --> 00:45:44,320
+your getting selected, so
+
+991
+00:45:44,480 --> 00:45:46,440
+I think that is why he was saying
+
+992
+00:45:46,680 --> 00:45:49,270
+that this guy knows, he has done the work.
+
+993
+00:45:49,960 --> 00:45:52,200
+we don't care about degree, we care
+
+994
+00:45:52,520 --> 00:45:54,280
+about skill and if you know it then you will be
+
+995
+00:45:54,840 --> 00:45:57,000
+selected. If you give interview
+
+996
+00:45:57,560 --> 00:46:00,120
+then interview was scheduled and I
+
+997
+00:46:00,320 --> 00:46:02,640
+gave many interviews and got selected at some two or three places
+
+998
+00:46:02,720 --> 00:46:05,440
+and there was a company whose name was
+
+999
+00:46:05,600 --> 00:46:08,040
+Digit.
+
+1000
+00:46:08,440 --> 00:46:10,720
+interview and I performed very well,
+
+1001
+00:46:11,120 --> 00:46:13,720
+I answered about 80-90 questions, mainly it was on
+
+1002
+00:46:14,120 --> 00:46:15,840
+JavaScript, there were
+
+1003
+00:46:15,960 --> 00:46:16,840
+a few questions, so
+
+1004
+00:46:18,200 --> 00:46:20,040
+I answered
+
+1005
+00:46:21,040 --> 00:46:23,720
+and I got selected there. Okay, I
+
+1006
+00:46:23,880 --> 00:46:25,310
+also got marks in the company.
+
+1007
+00:46:26,040 --> 00:46:27,520
+but I found Digit to be a very good company,
+
+1008
+00:46:27,840 --> 00:46:29,880
+their brand ambassador was Virat Kohli, so it was
+
+1009
+00:46:30,400 --> 00:46:33,830
+nice to see him and it was a big
+
+1010
+00:46:34,080 --> 00:46:36,080
+company, it had a good product base,
+
+1011
+00:46:37,080 --> 00:46:39,800
+so I decided to join there
+
+1012
+00:46:40,240 --> 00:46:43,000
+and that was my first company.
+
+1013
+00:46:43,320 --> 00:46:45,600
+I am very thankful to the first interviewer who got selected
+
+1014
+00:46:45,800 --> 00:46:47,280
+because he
+
+1015
+00:46:48,200 --> 00:46:51,720
+valued my skills and he
+
+1016
+00:46:52,120 --> 00:46:54,640
+gave me a chance. I joined Digit Insurance on 22 July 2021
+
+1017
+00:46:54,760 --> 00:46:56,480
+and my
+
+1018
+00:46:56,720 --> 00:46:58,560
+position there was Software Engineer
+
+1019
+00:46:59,000 --> 00:47:01,400
+and when I got this position, I was
+
+1020
+00:47:04,440 --> 00:47:06,640
+was no limit to my happiness after that as my father had said that
+
+1021
+00:47:07,400 --> 00:47:09,360
+I had become a software engineer and
+
+1022
+00:47:12,560 --> 00:47:14,880
+people who were coming after doing B.Tech, M.Tech or BC MCA were
+
+1023
+00:47:15,000 --> 00:47:16,830
+sitting next to me.
+
+1024
+00:47:17,480 --> 00:47:19,830
+and there was no difference in salary wise, the
+
+1025
+00:47:20,000 --> 00:47:21,920
+salary was the same as theirs, mine was the same,
+
+1026
+00:47:22,440 --> 00:47:25,080
+respect is the same, everything is there and
+
+1027
+00:47:25,400 --> 00:47:26,880
+people were respecting me a little more
+
+1028
+00:47:27,080 --> 00:47:28,920
+because I had learned it myself.
+
+1029
+00:47:29,040 --> 00:47:31,240
+Everyone there knew that this guy is self-
+
+1030
+00:47:31,400 --> 00:47:33,760
+taught, he has studied only after 10th, so
+
+1031
+00:47:34,160 --> 00:47:35,550
+my experience inside Digit was very good, there was a
+
+1032
+00:47:35,840 --> 00:47:37,720
+very good team, there was a very friendly team, there were
+
+1033
+00:47:38,080 --> 00:47:39,920
+very good and supportive managers, I
+
+1034
+00:47:40,200 --> 00:47:42,040
+never got any help from anyone inside Digit.
+
+1035
+00:47:42,400 --> 00:47:44,600
+not have to face anything like politics, I used to do my work.
+
+1036
+00:47:44,880 --> 00:47:47,480
+Within my job, I worked only on
+
+1037
+00:47:47,680 --> 00:47:50,040
+HTML, CSS and JavaScript, which means
+
+1038
+00:47:50,320 --> 00:47:52,240
+basically I mainly worked on CSS and JavaScript. For
+
+1039
+00:47:52,320 --> 00:47:54,640
+2 years, I
+
+1040
+00:47:54,920 --> 00:47:56,840
+worked only on CSS and JavaScript.
+
+1041
+00:47:57,440 --> 00:47:59,080
+Because of this, my JavaScript and
+
+1042
+00:47:59,160 --> 00:48:01,360
+CSS became stronger and the core
+
+1043
+00:48:01,680 --> 00:48:03,400
+technologies became stronger and I knew
+
+1044
+00:48:03,680 --> 00:48:05,720
+my work so well.
+
+1045
+00:48:05,920 --> 00:48:07,400
+I knew JavaScript CS
+
+1046
+00:48:07,760 --> 00:48:09,840
+so well that in two years
+
+1047
+00:48:10,040 --> 00:48:11,870
+worked and never needed help from any senior.
+
+1048
+00:48:12,120 --> 00:48:14,320
+Whatever problem came,
+
+1049
+00:48:14,520 --> 00:48:16,280
+I used to figure it out on my own.
+
+1050
+00:48:16,560 --> 00:48:18,920
+Whatever, if there is any back end
+
+1051
+00:48:19,000 --> 00:48:20,440
+problem, any other technology problem, with
+
+1052
+00:48:20,760 --> 00:48:23,240
+whom.
+
+1053
+00:48:23,400 --> 00:48:25,480
+I need to take help from others.
+
+1054
+00:48:26,320 --> 00:48:28,000
+I did not need to take help from anyone for my work. So
+
+1055
+00:48:28,240 --> 00:48:30,120
+if your fundamental
+
+1056
+00:48:30,720 --> 00:48:33,360
+concept is clear then
+
+1057
+00:48:33,600 --> 00:48:35,110
+you can solve the problem on your own.
+
+1058
+00:48:35,200 --> 00:48:38,480
+know what the problem is, then when
+
+1059
+00:48:38,640 --> 00:48:40,720
+you remain like this, you have
+
+1060
+00:48:40,960 --> 00:48:43,600
+a respect within the company, you are a good person,
+
+1061
+00:48:43,840 --> 00:48:46,600
+people come and ask you, people used to
+
+1062
+00:48:46,640 --> 00:48:47,680
+think that I have a lot of
+
+1063
+00:48:47,880 --> 00:48:50,190
+experience, so whatever there is
+
+1064
+00:48:50,480 --> 00:48:51,550
+ask me, if there is any
+
+1065
+00:48:52,080 --> 00:48:54,320
+problem with JavaScript, they used to ask me only,
+
+1066
+00:48:54,480 --> 00:48:56,200
+even though I am doing it for the first time, I
+
+1067
+00:48:56,320 --> 00:48:59,000
+am less junior than them, which means I have
+
+1068
+00:48:59,440 --> 00:49:02,360
+less experience than them, still they used to
+
+1069
+00:49:02,480 --> 00:49:04,230
+come and ask me and I was like them.
+
+1070
+00:49:04,360 --> 00:49:05,920
+because my fundamental
+
+1071
+00:49:06,480 --> 00:49:07,520
+concepts were clear, my CSS and
+
+1072
+00:49:07,880 --> 00:49:10,320
+JavaScript were clear, that is why I did
+
+1073
+00:49:10,720 --> 00:49:12,440
+not face any problem in two years
+
+1074
+00:49:12,840 --> 00:49:15,040
+because my work was always clean, I used to complete my
+
+1075
+00:49:15,640 --> 00:49:17,280
+entire work in four-five hours,
+
+1076
+00:49:17,600 --> 00:49:19,760
+after that
+
+1077
+00:49:19,880 --> 00:49:22,000
+then after 5:00 pm I started
+
+1078
+00:49:22,120 --> 00:49:24,840
+playing table tennis.
+
+1079
+00:49:24,920 --> 00:49:27,910
+After 5:30 pm I used to go to play TT and for one year
+
+1080
+00:49:28,120 --> 00:49:30,600
+we played a lot of TT, meaning two, two, three-
+
+1081
+00:49:30,920 --> 00:49:33,310
+hours means I played a lot of TT and my TT had also become
+
+1082
+00:49:33,440 --> 00:49:35,840
+very good and
+
+1083
+00:49:36,000 --> 00:49:37,870
+no one has any problem because my work is always ready, that is,
+
+1084
+00:49:38,240 --> 00:49:40,200
+whatever work is given,
+
+1085
+00:49:40,600 --> 00:49:42,680
+I keep it working, so when you
+
+1086
+00:49:43,040 --> 00:49:44,280
+know things well.
+
+1087
+00:49:44,960 --> 00:49:47,280
+your work gets done very fast, you are
+
+1088
+00:49:47,360 --> 00:49:48,950
+not stuck anywhere, if you face any problem, you will come to
+
+1089
+00:49:49,160 --> 00:49:50,830
+know that it is a problem, it is
+
+1090
+00:49:51,400 --> 00:49:53,560
+very rare, I don't even remember
+
+1091
+00:49:53,680 --> 00:49:55,160
+that I ever got stuck
+
+1092
+00:49:55,480 --> 00:49:57,760
+on any problem.
+
+1093
+00:49:57,960 --> 00:49:59,880
+problem gets solved immediately. You should know how to
+
+1094
+00:49:59,960 --> 00:50:03,160
+use Google3 well,
+
+1095
+00:50:03,480 --> 00:50:05,920
+so now Chat GPT has come, earlier
+
+1096
+00:50:06,520 --> 00:50:07,320
+Chat GPT was not there, the only
+
+1097
+00:50:25,560 --> 00:50:27,720
+thing I missed is that this is my first
+
+1098
+00:50:32,680 --> 00:50:36,350
+youtube in 1 or 18.
+
+1099
+00:50:37,040 --> 00:50:40,040
+or 20, I had started teaching Math on
+
+1100
+00:50:53,760 --> 00:50:54,760
+YouTube1. I had
+
+1101
+00:50:55,840 --> 00:50:58,840
+tried making a chain once before, so this is
+
+1102
+00:50:58,960 --> 00:50:59,680
+not my first time. After
+
+1103
+00:51:00,880 --> 00:51:02,800
+making three videos on YouTube2, I
+
+1104
+00:51:03,240 --> 00:51:04,790
+lost my motivation and stopped it because
+
+1105
+00:51:05,160 --> 00:51:07,520
+in
+
+1106
+00:51:07,720 --> 00:51:10,070
+meaning I had not done anything myself, what would
+
+1107
+00:51:10,440 --> 00:51:12,360
+I teach to others, so that
+
+1108
+00:51:12,480 --> 00:51:14,760
+confidence was not coming from within, even though
+
+1109
+00:51:14,920 --> 00:51:16,760
+I knew the topics, I knew maths,
+
+1110
+00:51:17,400 --> 00:51:19,830
+but there was a hollow feeling from within.
+
+1111
+00:51:20,000 --> 00:51:21,600
+youtube4 was not closed at that time, my
+
+1112
+00:51:23,960 --> 00:51:27,280
+youtube2 was closed after uploading three videos,
+
+1113
+00:51:27,480 --> 00:51:31,030
+so then I mean it was always in my mind
+
+1114
+00:51:31,320 --> 00:51:31,760
+that on
+
+1115
+00:51:50,600 --> 00:51:53,640
+youtube4, on September 2022, I
+
+1116
+00:51:53,840 --> 00:51:56,040
+uploaded the first video and then on September 10,
+
+1117
+00:51:57,080 --> 00:52:00,360
+2000 22, I uploaded my first video.
+
+1118
+00:52:00,640 --> 00:52:04,200
+and started teaching,
+
+1119
+00:52:04,880 --> 00:52:07,440
+I covered everything very well, whatever
+
+1120
+00:52:07,640 --> 00:52:09,310
+I knew, I had one year of company
+
+1121
+00:52:09,640 --> 00:52:13,960
+experience,
+
+1122
+00:52:11,720 --> 00:52:13,590
+I learned all the things from different courses, I studied
+
+1123
+00:52:13,960 --> 00:52:16,240
+CSS, taught JavaScript and
+
+1124
+00:52:16,520 --> 00:52:19,550
+Then in between everything was going well and it was
+
+1125
+00:52:19,720 --> 00:52:22,400
+growing normally at its own pace. Then
+
+1126
+00:52:22,880 --> 00:52:25,320
+in between we got married. If you will
+
+1127
+00:52:25,440 --> 00:52:26,880
+see some videos of JavaScript set
+
+1128
+00:52:27,080 --> 00:52:29,750
+time out and in the videos of that particular time,
+
+1129
+00:52:30,200 --> 00:52:32,790
+then you will see in my hand.
+
+1130
+00:52:33,000 --> 00:52:36,150
+seen wearing mehendi, then at that time, in the middle of the time, when the
+
+1131
+00:52:36,360 --> 00:52:37,760
+JavaScript project i.e. videos were
+
+1132
+00:52:38,120 --> 00:52:40,600
+going on, the playlist was going on, then
+
+1133
+00:52:40,800 --> 00:52:42,640
+in the middle, we got married and we got settled here in
+
+1134
+00:52:42,720 --> 00:52:47,560
+Bangalore and then everything was going well on
+
+1135
+00:52:48,600 --> 00:52:51,600
+youtube0.
+
+1136
+00:52:51,960 --> 00:52:54,880
+almost 2023, it was 2023, that
+
+1137
+00:52:56,960 --> 00:52:59,430
+means two years were about to go inside Digit and
+
+1138
+00:53:00,440 --> 00:53:02,280
+I was starting to find some work boring, which was
+
+1139
+00:53:02,400 --> 00:53:04,040
+office work because it was the same HTML, CSS
+
+1140
+00:53:04,600 --> 00:53:06,480
+and JavaScript, on top of that
+
+1141
+00:53:06,720 --> 00:53:09,590
+I was
+
+1142
+00:53:09,880 --> 00:53:11,600
+meaning there was not much new left,
+
+1143
+00:53:11,760 --> 00:53:15,870
+almost the same work was to be done every day, there was
+
+1144
+00:53:16,000 --> 00:53:17,720
+no React in my company, which was a digital
+
+1145
+00:53:18,160 --> 00:53:19,680
+insurance company, Angular was used there,
+
+1146
+00:53:19,880 --> 00:53:21,880
+so I said that Angular was used.
+
+1147
+00:53:22,040 --> 00:53:23,920
+Give us some projects, we will learn Angular, so
+
+1148
+00:53:24,040 --> 00:53:27,200
+I learned Angular,
+
+1149
+00:53:27,520 --> 00:53:29,200
+after learning Angular, I took some Angular projects.
+
+1150
+00:53:30,200 --> 00:53:32,800
+What does project mean, small features, feature
+
+1151
+00:53:33,200 --> 00:53:34,920
+additions, bugs, all this,
+
+1152
+00:53:35,760 --> 00:53:39,160
+I did two or three things, but still
+
+1153
+00:53:39,360 --> 00:53:41,240
+I have to do regular projects with Angular.
+
+1154
+00:53:41,360 --> 00:53:43,880
+I was mainly getting only CSS and
+
+1155
+00:53:44,000 --> 00:53:45,440
+JavaScript projects for
+
+1156
+00:53:46,160 --> 00:53:48,240
+which I had worked for two years and it was
+
+1157
+00:53:48,360 --> 00:53:52,120
+starting to get a bit boring. Now I mean,
+
+1158
+00:53:52,320 --> 00:53:53,720
+Angular projects were not found there, so
+
+1159
+00:53:54,080 --> 00:53:56,840
+I thought let's try somewhere else.
+
+1160
+00:53:57,000 --> 00:53:59,360
+good if I find it somewhere, where
+
+1161
+00:53:59,640 --> 00:54:00,920
+I can work in React because
+
+1162
+00:54:01,160 --> 00:54:03,240
+React was my favorite framework and I had
+
+1163
+00:54:03,360 --> 00:54:05,040
+learned React well,
+
+1164
+00:54:06,480 --> 00:54:09,560
+so I created my profile on Well Found, whose name
+
+1165
+00:54:09,760 --> 00:54:11,960
+was earlier Angel List, and that's it,
+
+1166
+00:54:12,200 --> 00:54:14,120
+I shared my
+
+1167
+00:54:14,360 --> 00:54:16,670
+experience.
+
+1168
+00:54:17,520 --> 00:54:21,000
+Well Found and then from there I got a
+
+1169
+00:54:21,240 --> 00:54:24,590
+message from there itself asking, are
+
+1170
+00:54:25,720 --> 00:54:28,440
+you available for the job, is it open?
+
+1171
+00:54:28,720 --> 00:54:31,240
+So I said yes, I am open
+
+1172
+00:54:32,000 --> 00:54:33,550
+and there in my report also.
+
+1173
+00:54:33,800 --> 00:54:37,190
+also got the resume from there, so basically
+
+1174
+00:54:37,720 --> 00:54:39,520
+it was a UK based company, from there a
+
+1175
+00:54:39,880 --> 00:54:42,240
+UK guy had reached out to me,
+
+1176
+00:54:43,120 --> 00:54:45,880
+so I said yes, I am available,
+
+1177
+00:54:46,200 --> 00:54:48,720
+he said notice period, you mentioned 30 days
+
+1178
+00:54:49,120 --> 00:54:50,840
+in your resume.
+
+1179
+00:54:51,160 --> 00:54:52,990
+period is 30 days, I said no, it
+
+1180
+00:54:53,200 --> 00:54:55,030
+is 30 days, not three months, they said,
+
+1181
+00:54:55,160 --> 00:54:56,480
+then why did you mention 30 days,
+
+1182
+00:54:56,640 --> 00:54:59,310
+I said, then the call will not come, if you mention 90
+
+1183
+00:54:59,640 --> 00:55:01,280
+days, you will mention three months, then the call will
+
+1184
+00:55:01,440 --> 00:55:02,440
+not come at all, you reach.
+
+1185
+00:55:02,640 --> 00:55:05,160
+so I mentioned it like this and he
+
+1186
+00:55:05,440 --> 00:55:07,110
+started laughing and said, ok, no problem, let's
+
+1187
+00:55:07,320 --> 00:55:07,960
+do your interview, we will
+
+1188
+00:55:08,840 --> 00:55:11,680
+see you later, we will wait
+
+1189
+00:55:11,800 --> 00:55:14,520
+or whatever happens, it will be seen, then he
+
+1190
+00:55:14,760 --> 00:55:15,960
+scheduled the interview.
+
+1191
+00:55:16,120 --> 00:55:20,680
+-Different
+
+1192
+00:55:17,720 --> 00:55:20,190
+round was conducted, questions were asked very well, questions were
+
+1193
+00:55:20,680 --> 00:55:23,080
+taken in depth, I
+
+1194
+00:55:23,280 --> 00:55:25,160
+liked the interview very much, I also performed well,
+
+1195
+00:55:25,560 --> 00:55:27,400
+I answered 90 questions
+
+1196
+00:55:28,080 --> 00:55:30,000
+and I got selected here, then
+
+1197
+00:55:30,280 --> 00:55:31,760
+I told my rejection in my old company.
+
+1198
+00:55:32,800 --> 00:55:35,880
+Resign Resign
+
+1199
+00:55:36,680 --> 00:55:39,760
+Resigned, submitted my resignation letter,
+
+1200
+00:55:39,960 --> 00:55:41,680
+then after three months, I
+
+1201
+00:55:41,880 --> 00:55:43,680
+joined my current company, whose name is
+
+1202
+00:55:43,960 --> 00:55:46,440
+DS Plus, now I work here
+
+1203
+00:55:46,720 --> 00:55:49,320
+even today and this company of ours
+
+1204
+00:55:49,800 --> 00:55:52,150
+is completely remote, so I am still working there.
+
+1205
+00:55:52,320 --> 00:55:54,680
+itself and everything is going well,
+
+1206
+00:55:55,080 --> 00:55:55,920
+life is good, I am
+
+1207
+00:56:27,640 --> 00:56:29,870
+living like any software engineer earns, I am living like that, there is
+
+1208
+00:56:30,240 --> 00:56:32,640
+no problem but there are still a lot of things to do
+
+1209
+00:56:33,080 --> 00:56:34,680
+as I wanted to study but
+
+1210
+00:56:34,920 --> 00:56:36,830
+not get the resources, I did not find any good teacher
+
+1211
+00:56:37,240 --> 00:56:39,560
+due to which a lot of my
+
+1212
+00:56:39,800 --> 00:56:41,760
+time was wasted, at one time I found a good teacher
+
+1213
+00:56:42,120 --> 00:56:44,360
+and then I was able to study, so I
+
+1214
+00:56:44,560 --> 00:56:47,000
+believe that almost every child wants to study,
+
+1215
+00:56:47,240 --> 00:56:49,280
+basically most of the children want to study,
+
+1216
+00:56:49,520 --> 00:56:51,760
+some
+
+1217
+00:56:52,080 --> 00:56:54,280
+want to study, if they are not able to study, then there is
+
+1218
+00:56:54,440 --> 00:56:56,640
+lack of main resources, there is
+
+1219
+00:56:56,960 --> 00:57:00,840
+lack of good teachers, so my goal is
+
+1220
+00:57:01,000 --> 00:57:03,110
+that if any child wants to learn web development,
+
+1221
+00:57:03,440 --> 00:57:06,720
+then he should not feel the lack of resources.
+
+1222
+00:57:06,920 --> 00:57:10,440
+Yes, it should be easy to learn and in
+
+1223
+00:57:10,840 --> 00:57:11,960
+depth in details, just
+
+1224
+00:57:13,160 --> 00:57:17,880
+like two plus two is four,
+
+1225
+00:57:18,120 --> 00:57:20,480
+we have no doubt in this, similarly if
+
+1226
+00:57:20,680 --> 00:57:22,400
+someone teaches web development then it will
+
+1227
+00:57:22,560 --> 00:57:25,120
+be as clear as two plus two is four.
+
+1228
+00:57:25,360 --> 00:57:27,840
+that way, only when there is clarity,
+
+1229
+00:57:28,160 --> 00:57:30,760
+you are able to do something, then that clarity
+
+1230
+00:57:31,120 --> 00:57:34,560
+is important and presence of a good teacher is important.
+
+1231
+00:57:34,800 --> 00:57:36,280
+Presence of a good course is
+
+1232
+00:57:36,480 --> 00:57:38,830
+important, that is why I have made my complete front end
+
+1233
+00:57:38,960 --> 00:57:42,240
+course of 148 145 hours.
+
+1234
+00:57:42,440 --> 00:57:45,720
+course is a long course, it will take time, if you
+
+1235
+00:57:45,840 --> 00:57:49,440
+follow it, it may take 6 to 8 months, it may
+
+1236
+00:57:49,720 --> 00:57:51,600
+even take 9 months,
+
+1237
+00:57:52,600 --> 00:57:55,840
+depending on how much you can learn
+
+1238
+00:57:56,000 --> 00:57:58,840
+in a day, if you follow that course.
+
+1239
+00:57:58,920 --> 00:58:01,400
+complete it completely, then you
+
+1240
+00:58:04,560 --> 00:58:06,760
+can also get a job as an Experience Developer, that is, you
+
+1241
+00:58:06,880 --> 00:58:08,920
+can also get an interview for an Experience Developer,
+
+1242
+00:58:09,280 --> 00:58:11,310
+I have covered so many things well there, I have
+
+1243
+00:58:11,760 --> 00:58:13,270
+made and completed the entire course of Front End on
+
+1244
+00:58:13,720 --> 00:58:16,800
+our
+
+1245
+00:58:17,080 --> 00:58:19,560
+youtube3.
+
+1246
+00:58:19,760 --> 00:58:21,440
+course is needed by many children in our country. There are
+
+1247
+00:58:21,680 --> 00:58:23,800
+many children in India
+
+1248
+00:58:24,000 --> 00:58:26,110
+who want to learn but they are not
+
+1249
+00:58:26,400 --> 00:58:28,400
+getting the right course, are
+
+1250
+00:58:28,800 --> 00:58:30,840
+not getting the right guidance, are not getting the right teacher.
+
+1251
+00:58:30,960 --> 00:58:34,030
+If so, share this course as much as possible,
+
+1252
+00:58:34,320 --> 00:58:38,120
+this channel with your friends or
+
+1253
+00:58:38,320 --> 00:58:39,720
+children who are
+
+1254
+00:58:39,840 --> 00:58:41,560
+interested in learning web development.
+
+1255
+00:58:41,800 --> 00:58:43,480
+Tell them about this course
+
+1256
+00:58:43,560 --> 00:58:45,680
+so that they can learn well what they want to learn.
+
+1257
+00:58:45,840 --> 00:58:47,680
+Get it and if any
+
+1258
+00:58:47,840 --> 00:58:49,790
+doubt comes while learning then I do it live on Google3 every Sunday from
+
+1259
+00:58:49,920 --> 00:58:52,440
+8 pm to 11:00 pm
+
+1260
+00:58:52,600 --> 00:58:55,080
+and I sit for about 3 hours and
+
+1261
+00:58:55,200 --> 00:58:56,880
+any child can come and ask his/her doubts there for free.
+
+1262
+00:58:57,080 --> 00:58:59,800
+All the children come
+
+1263
+00:59:00,120 --> 00:59:03,200
+every day, we do this every Sunday, from
+
+1264
+00:59:03,320 --> 00:59:05,390
+8 to 12 in the night, anyone can join the G Meet and
+
+1265
+00:59:05,560 --> 00:59:07,320
+ask their doubts for free and
+
+1266
+00:59:07,560 --> 00:59:09,160
+we have a Telegram group where
+
+1267
+00:59:09,520 --> 00:59:11,240
+children help each other.
+
+1268
+00:59:12,280 --> 00:59:15,080
+anyone can join that group who is
+
+1269
+00:59:15,360 --> 00:59:17,720
+learning and can take help from other children and
+
+1270
+00:59:18,000 --> 00:59:20,280
+clear their doubts, so
+
+1271
+00:59:21,280 --> 00:59:23,920
+this is my attempt to do
+
+1272
+00:59:24,160 --> 00:59:26,630
+something for our country, such children who are helpless.
+
+1273
+00:59:27,080 --> 00:59:28,910
+who are not getting the course, are
+
+1274
+00:59:29,680 --> 00:59:31,720
+not getting the right teacher, this course should
+
+1275
+00:59:31,960 --> 00:59:35,240
+reach them and they should be able to learn, this is just my
+
+1276
+00:59:35,520 --> 00:59:37,520
+effort from my side, let me make one thing
+
+1277
+00:59:37,680 --> 00:59:40,040
+clear here that if my course is free then only
+
+1278
+00:59:40,200 --> 00:59:42,200
+free courses are good.
+
+1279
+00:59:42,280 --> 00:59:43,800
+teach for free or those who teach for free are good, those
+
+1280
+00:59:44,400 --> 00:59:46,350
+who teach paid courses are bad, it is
+
+1281
+00:59:46,560 --> 00:59:48,560
+not so, whoever is the
+
+1282
+00:59:48,720 --> 00:59:50,680
+instructor, whoever is teaching through paid courses
+
+1283
+00:59:50,920 --> 00:59:53,200
+or is teaching for free, howsoever he
+
+1284
+00:59:53,320 --> 00:59:55,640
+is teaching, all are good.
+
+1285
+00:59:55,960 --> 00:59:58,030
+learned is that my life has changed because of a paid
+
+1286
+00:59:58,360 --> 01:00:00,520
+course, so it does not happen
+
+1287
+01:00:00,640 --> 01:00:02,280
+that if someone is making a paid course then he is a
+
+1288
+01:00:02,600 --> 01:00:05,360
+scam. Never
+
+1289
+01:00:05,840 --> 01:00:08,710
+look at a paid course and call it a scam, it is okay.
+
+1290
+01:00:09,120 --> 01:00:10,720
+I have learned from paid courses only, I have
+
+1291
+01:00:10,880 --> 01:00:13,760
+taken many paid courses, if you
+
+1292
+01:00:14,000 --> 01:00:15,550
+cannot afford that course it means simply
+
+1293
+01:00:15,960 --> 01:00:17,960
+that course is not for you, okay if you
+
+1294
+01:00:18,240 --> 01:00:19,680
+can afford it comfortably then that course
+
+1295
+01:00:19,920 --> 01:00:22,160
+is for you.
+
+1296
+01:00:22,280 --> 01:00:24,550
+made this entire course for free, so
+
+1297
+01:00:24,840 --> 01:00:27,040
+anyone can access it, now anyone
+
+1298
+01:00:27,160 --> 01:00:28,760
+can access it, the down side of this is
+
+1299
+01:00:28,880 --> 01:00:30,600
+that many people will start and
+
+1300
+01:00:30,800 --> 01:00:32,640
+leave in the middle because of some commitment.
+
+1301
+01:00:32,720 --> 01:00:34,830
+Nothing will be left for them, no, if someone
+
+1302
+01:00:35,040 --> 01:00:37,040
+starts a paid course after watching it, then at
+
+1303
+01:00:37,240 --> 01:00:38,880
+least because of the money, he keeps learning.
+
+1304
+01:00:39,160 --> 01:00:40,640
+My motivation for making this course is
+
+1305
+01:00:41,120 --> 01:00:43,400
+that if any child in our country
+
+1306
+01:00:43,720 --> 01:00:45,680
+wants to learn web development.
+
+1307
+01:00:46,640 --> 01:00:48,560
+due to lack of resources, he should never have the
+
+1308
+01:00:49,040 --> 01:00:51,320
+feeling of being helpless, just like I had the
+
+1309
+01:00:51,600 --> 01:00:53,520
+feeling once when I had to
+
+1310
+01:00:53,920 --> 01:00:56,160
+learn Physics, I was
+
+1311
+01:00:56,320 --> 01:00:57,590
+not able to find any good teacher, no one was explaining it well,
+
+1312
+01:00:57,760 --> 01:00:59,880
+that feeling of helplessness.
+
+1313
+01:01:00,280 --> 01:01:02,680
+is very bad, so my
+
+1314
+01:01:02,920 --> 01:01:04,550
+goal is that this course should reach every child,
+
+1315
+01:01:04,800 --> 01:01:06,720
+I will give you the link of this course
+
+1316
+01:01:07,000 --> 01:01:08,680
+in the description of the video and if you
+
+1317
+01:01:08,840 --> 01:01:10,160
+follow my course, you
+
+1318
+01:01:10,400 --> 01:01:12,000
+will notice one thing that I never
+
+1319
+01:01:12,320 --> 01:01:14,870
+n't say like share subscribe in any video
+
+1320
+01:01:15,720 --> 01:01:17,480
+because I don't like it, I find it
+
+1321
+01:01:17,680 --> 01:01:20,040
+a bit distracting, I have
+
+1322
+01:01:20,440 --> 01:01:22,160
+not come here to like share subscribe, I will
+
+1323
+01:01:22,360 --> 01:01:25,360
+get that, I don't have it, I
+
+1324
+01:01:25,560 --> 01:01:27,240
+find it distracting, basically it
+
+1325
+01:01:27,400 --> 01:01:30,070
+doesn't suit me.
+
+1326
+01:01:30,760 --> 01:01:32,680
+bell icon, till date I have never said
+
+1327
+01:01:32,800 --> 01:01:34,480
+share subscribe in any video,
+
+1328
+01:01:35,160 --> 01:01:37,030
+maybe I say comment comment in some comment, if there
+
+1329
+01:01:37,160 --> 01:01:38,720
+is any doubt then you can ask by commenting
+
+1330
+01:01:39,520 --> 01:01:41,960
+but share subscribe in every video
+
+1331
+01:01:42,080 --> 01:01:43,640
+people like
+
+1332
+01:01:44,440 --> 01:01:47,030
+come, then the force bell will come, then it will ring,
+
+1333
+01:01:47,160 --> 01:01:49,110
+press the bell on this, I never say all this,
+
+1334
+01:01:49,240 --> 01:01:51,960
+so it does not mean that you do not have to
+
+1335
+01:01:52,160 --> 01:01:55,600
+support, whatever you can do,
+
+1336
+01:01:55,800 --> 01:01:58,070
+you support.
+
+1337
+01:01:58,280 --> 01:02:00,560
+course should reach the children in some way, no matter
+
+1338
+01:02:00,800 --> 01:02:02,720
+how they download it, whatever they do, they
+
+1339
+01:02:02,880 --> 01:02:05,440
+watch it. I don't care about likes, shares, subscriptions or
+
+1340
+01:02:05,560 --> 01:02:07,960
+views, just that it should reach them so that
+
+1341
+01:02:08,160 --> 01:02:10,480
+they know that there is something like this.
+
+1342
+01:02:11,040 --> 01:02:12,600
+keep it in my local and watch it, I will not
+
+1343
+01:02:12,720 --> 01:02:14,800
+get views. It doesn't matter whether I download it or
+
+1344
+01:02:15,400 --> 01:02:18,600
+watch it, the only thing that matters to me is
+
+1345
+01:02:18,840 --> 01:02:20,800
+that any child who
+
+1346
+01:02:20,920 --> 01:02:23,880
+is helpless, who is in need, should go to this course.
+
+1347
+01:02:38,480 --> 01:02:41,760
+How can it be done without a degree.
+
+1348
+01:02:42,000 --> 01:02:42,920
+and now I am working on
+
+1349
+01:02:51,200 --> 01:02:54,920
+youtube2. If you are in any adverse session,
+
+1350
+01:02:55,120 --> 01:02:58,040
+but if you get good guidance, you get a
+
+1351
+01:02:58,200 --> 01:03:00,120
+good course, you
+
+1352
+01:03:00,440 --> 01:03:02,590
+get a good teacher and if you have the
+
+1353
+01:03:02,960 --> 01:03:05,800
+passion to learn, that is commitment.
+
+1354
+01:03:05,960 --> 01:03:08,040
+meet me in your course
+
+1355
+01:03:08,120 --> 01:03:09,840
+till then bye bye
+
